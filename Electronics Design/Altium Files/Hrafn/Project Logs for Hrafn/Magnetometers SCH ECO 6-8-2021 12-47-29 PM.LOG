@@ -1,0 +1,91 @@
+Removed Parameter Case-EIA:0402 from Part C81
+Removed Parameter Case-EIA:0402 from Part C82
+Removed Parameter Case-EIA:0402 from Part C83
+Removed Parameter Case-EIA:0402 from Part C84
+Removed Parameter Case-EIA:0402 from Part C86
+Removed Parameter Case-EIA:0402 from Part C87
+Removed Parameter Case-EIA:0402 from Part C94
+Removed Parameter Case-Metric:1005 from Part C81
+Removed Parameter Case-Metric:1005 from Part C82
+Removed Parameter Case-Metric:1005 from Part C83
+Removed Parameter Case-Metric:1005 from Part C84
+Removed Parameter Case-Metric:1005 from Part C86
+Removed Parameter Case-Metric:1005 from Part C87
+Removed Parameter Case-Metric:1005 from Part C94
+Removed Parameter Max Thickness:0.6 mm from Part C81
+Removed Parameter Max Thickness:0.6 mm from Part C82
+Removed Parameter Max Thickness:0.6 mm from Part C83
+Removed Parameter Max Thickness:0.6 mm from Part C84
+Removed Parameter Max Thickness:0.6 mm from Part C86
+Removed Parameter Max Thickness:0.6 mm from Part C87
+Removed Parameter Max Thickness:0.6 mm from Part C94
+Removed Parameter Rated Voltage:16 V from Part C81
+Removed Parameter Rated Voltage:16 V from Part C82
+Removed Parameter Rated Voltage:16 V from Part C83
+Removed Parameter Rated Voltage:16 V from Part C84
+Removed Parameter Rated Voltage:16 V from Part C86
+Removed Parameter Rated Voltage:16 V from Part C87
+Removed Parameter Rated Voltage:16 V from Part C94
+Removed Parameter Technology:SMT from Part C81
+Removed Parameter Technology:SMT from Part C82
+Removed Parameter Technology:SMT from Part C83
+Removed Parameter Technology:SMT from Part C84
+Removed Parameter Technology:SMT from Part C86
+Removed Parameter Technology:SMT from Part C87
+Removed Parameter Technology:SMT from Part C94
+Change Value of Parameter Tolerance in Part C94 Old=Â±5% New=20%
+Change Value of Parameter Tolerance in Part C87 Old=Â±5% New=20%
+Change Value of Parameter Tolerance in Part C86 Old=Â±5% New=20%
+Change Value of Parameter Tolerance in Part C84 Old=Â±5% New=20%
+Change Value of Parameter Tolerance in Part C83 Old=Â±5% New=20%
+Change Value of Parameter Tolerance in Part C82 Old=Â±5% New=20%
+Change Value of Parameter Tolerance in Part C81 Old=Â±5% New=20%
+Added Parameter Case/Package=0402 to Part C81
+Added Parameter Case/Package=0402 to Part C82
+Added Parameter Case/Package=0402 to Part C83
+Added Parameter Case/Package=0402 to Part C84
+Added Parameter Case/Package=0402 to Part C86
+Added Parameter Case/Package=0402 to Part C87
+Added Parameter Case/Package=0402 to Part C94
+Added Parameter Max Operating Temperature=85°C to Part C81
+Added Parameter Max Operating Temperature=85°C to Part C82
+Added Parameter Max Operating Temperature=85°C to Part C83
+Added Parameter Max Operating Temperature=85°C to Part C84
+Added Parameter Max Operating Temperature=85°C to Part C86
+Added Parameter Max Operating Temperature=85°C to Part C87
+Added Parameter Max Operating Temperature=85°C to Part C94
+Added Parameter Min Operating Temperature=-55°C to Part C81
+Added Parameter Min Operating Temperature=-55°C to Part C82
+Added Parameter Min Operating Temperature=-55°C to Part C83
+Added Parameter Min Operating Temperature=-55°C to Part C84
+Added Parameter Min Operating Temperature=-55°C to Part C86
+Added Parameter Min Operating Temperature=-55°C to Part C87
+Added Parameter Min Operating Temperature=-55°C to Part C94
+Added Parameter Mounting Technology=SMT to Part C81
+Added Parameter Mounting Technology=SMT to Part C82
+Added Parameter Mounting Technology=SMT to Part C83
+Added Parameter Mounting Technology=SMT to Part C84
+Added Parameter Mounting Technology=SMT to Part C86
+Added Parameter Mounting Technology=SMT to Part C87
+Added Parameter Mounting Technology=SMT to Part C94
+Added Parameter Pins=2 to Part C81
+Added Parameter Pins=2 to Part C82
+Added Parameter Pins=2 to Part C83
+Added Parameter Pins=2 to Part C84
+Added Parameter Pins=2 to Part C86
+Added Parameter Pins=2 to Part C87
+Added Parameter Pins=2 to Part C94
+Added Parameter Voltage Rating=10V to Part C81
+Added Parameter Voltage Rating=10V to Part C82
+Added Parameter Voltage Rating=10V to Part C83
+Added Parameter Voltage Rating=10V to Part C84
+Added Parameter Voltage Rating=10V to Part C86
+Added Parameter Voltage Rating=10V to Part C87
+Added Parameter Voltage Rating=10V to Part C94
+Update Managed Component C81 From CMP-001-00061-2[0.1 uF] To CMP-001-00061-2[Capacitor 100nF +/-20% 10V 0402] in Magnetometers.SchDoc
+Update Managed Component C82 From CMP-001-00061-2[0.1 uF] To CMP-001-00061-2[Capacitor 100nF +/-20% 10V 0402] in Magnetometers.SchDoc
+Update Managed Component C83 From CMP-001-00061-2[0.1 uF] To CMP-001-00061-2[Capacitor 100nF +/-20% 10V 0402] in Magnetometers.SchDoc
+Update Managed Component C84 From CMP-001-00061-2[0.1 uF] To CMP-001-00061-2[Capacitor 100nF +/-20% 10V 0402] in Magnetometers.SchDoc
+Update Managed Component C86 From CMP-001-00061-2[0.1 uF] To CMP-001-00061-2[Capacitor 100nF +/-20% 10V 0402] in Magnetometers.SchDoc
+Update Managed Component C87 From CMP-001-00061-2[0.1 uF] To CMP-001-00061-2[Capacitor 100nF +/-20% 10V 0402] in Magnetometers.SchDoc
+Update Managed Component C94 From CMP-001-00061-2[0.1 uF] To CMP-001-00061-2[Capacitor 100nF +/-20% 10V 0402] in Magnetometers.SchDoc

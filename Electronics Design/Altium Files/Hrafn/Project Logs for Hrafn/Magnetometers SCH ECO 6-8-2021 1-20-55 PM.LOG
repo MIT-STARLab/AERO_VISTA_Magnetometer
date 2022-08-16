@@ -1,0 +1,238 @@
+Removed Parameter Case-EIA:0402 from Part C81
+Removed Parameter Case-EIA:0402 from Part C82
+Removed Parameter Case-EIA:0402 from Part C83
+Removed Parameter Case-EIA:0402 from Part C84
+Removed Parameter Case-EIA:0402 from Part C86
+Removed Parameter Case-EIA:0402 from Part C87
+Removed Parameter Case-EIA:0402 from Part C94
+Removed Parameter Case-Metric:1005 from Part C81
+Removed Parameter Case-Metric:1005 from Part C82
+Removed Parameter Case-Metric:1005 from Part C83
+Removed Parameter Case-Metric:1005 from Part C84
+Removed Parameter Case-Metric:1005 from Part C86
+Removed Parameter Case-Metric:1005 from Part C87
+Removed Parameter Case-Metric:1005 from Part C94
+Removed Parameter Max Thickness:0.6 mm from Part C81
+Removed Parameter Max Thickness:0.6 mm from Part C82
+Removed Parameter Max Thickness:0.6 mm from Part C83
+Removed Parameter Max Thickness:0.6 mm from Part C84
+Removed Parameter Max Thickness:0.6 mm from Part C86
+Removed Parameter Max Thickness:0.6 mm from Part C87
+Removed Parameter Max Thickness:0.6 mm from Part C94
+Removed Parameter Rated Voltage:16 V from Part C81
+Removed Parameter Rated Voltage:16 V from Part C82
+Removed Parameter Rated Voltage:16 V from Part C83
+Removed Parameter Rated Voltage:16 V from Part C84
+Removed Parameter Rated Voltage:16 V from Part C86
+Removed Parameter Rated Voltage:16 V from Part C87
+Removed Parameter Rated Voltage:16 V from Part C94
+Removed Parameter Technology:SMT from Part C81
+Removed Parameter Technology:SMT from Part C82
+Removed Parameter Technology:SMT from Part C83
+Removed Parameter Technology:SMT from Part C84
+Removed Parameter Technology:SMT from Part C86
+Removed Parameter Technology:SMT from Part C87
+Removed Parameter Technology:SMT from Part C94
+Change Component Parameter Description in C94 Old=CAP 100nF 16V ±5% 0402 (1005 Metric) Thickness 0.6mm SMD New=C0402 0.10 µF X7R 5.00% 16 V
+Change Component Parameter Description in C87 Old=CAP 100nF 16V ±5% 0402 (1005 Metric) Thickness 0.6mm SMD New=C0402 0.10 µF X7R 5.00% 16 V
+Change Component Parameter Description in C86 Old=CAP 100nF 16V ±5% 0402 (1005 Metric) Thickness 0.6mm SMD New=C0402 0.10 µF X7R 5.00% 16 V
+Change Component Parameter Description in C84 Old=CAP 100nF 16V ±5% 0402 (1005 Metric) Thickness 0.6mm SMD New=C0402 0.10 µF X7R 5.00% 16 V
+Change Component Parameter Description in C83 Old=CAP 100nF 16V ±5% 0402 (1005 Metric) Thickness 0.6mm SMD New=C0402 0.10 µF X7R 5.00% 16 V
+Change Component Parameter Description in C82 Old=CAP 100nF 16V ±5% 0402 (1005 Metric) Thickness 0.6mm SMD New=C0402 0.10 µF X7R 5.00% 16 V
+Change Component Parameter Description in C81 Old=CAP 100nF 16V ±5% 0402 (1005 Metric) Thickness 0.6mm SMD New=C0402 0.10 µF X7R 5.00% 16 V
+Change Value of Parameter Tolerance in Part C94 Old=Â±5% New=0.05
+Change Value of Parameter Tolerance in Part C87 Old=Â±5% New=0.05
+Change Value of Parameter Tolerance in Part C86 Old=Â±5% New=0.05
+Change Value of Parameter Tolerance in Part C84 Old=Â±5% New=0.05
+Change Value of Parameter Tolerance in Part C83 Old=Â±5% New=0.05
+Change Value of Parameter Tolerance in Part C82 Old=Â±5% New=0.05
+Change Value of Parameter Tolerance in Part C81 Old=Â±5% New=0.05
+Change Value of Parameter Value in Part C94 Old=100nF New=0.10 µF
+Change Value of Parameter Value in Part C87 Old=100nF New=0.10 µF
+Change Value of Parameter Value in Part C86 Old=100nF New=0.10 µF
+Change Value of Parameter Value in Part C84 Old=100nF New=0.10 µF
+Change Value of Parameter Value in Part C83 Old=100nF New=0.10 µF
+Change Value of Parameter Value in Part C82 Old=100nF New=0.10 µF
+Change Value of Parameter Value in Part C81 Old=100nF New=0.10 µF
+Added Parameter Automotive=No to Part C81
+Added Parameter Automotive=No to Part C82
+Added Parameter Automotive=No to Part C83
+Added Parameter Automotive=No to Part C84
+Added Parameter Automotive=No to Part C86
+Added Parameter Automotive=No to Part C87
+Added Parameter Automotive=No to Part C94
+Added Parameter Capacitance=0.10 µF to Part C81
+Added Parameter Capacitance=0.10 µF to Part C82
+Added Parameter Capacitance=0.10 µF to Part C83
+Added Parameter Capacitance=0.10 µF to Part C84
+Added Parameter Capacitance=0.10 µF to Part C86
+Added Parameter Capacitance=0.10 µF to Part C87
+Added Parameter Capacitance=0.10 µF to Part C94
+Added Parameter Category=Cap to Part C81
+Added Parameter Category=Cap to Part C82
+Added Parameter Category=Cap to Part C83
+Added Parameter Category=Cap to Part C84
+Added Parameter Category=Cap to Part C86
+Added Parameter Category=Cap to Part C87
+Added Parameter Category=Cap to Part C94
+Added Parameter ComponentLink2Description=Datasheet to Part C81
+Added Parameter ComponentLink2Description=Datasheet to Part C82
+Added Parameter ComponentLink2Description=Datasheet to Part C83
+Added Parameter ComponentLink2Description=Datasheet to Part C84
+Added Parameter ComponentLink2Description=Datasheet to Part C86
+Added Parameter ComponentLink2Description=Datasheet to Part C87
+Added Parameter ComponentLink2Description=Datasheet to Part C94
+Added Parameter ComponentLink2URL=https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf to Part C81
+Added Parameter ComponentLink2URL=https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf to Part C82
+Added Parameter ComponentLink2URL=https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf to Part C83
+Added Parameter ComponentLink2URL=https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf to Part C84
+Added Parameter ComponentLink2URL=https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf to Part C86
+Added Parameter ComponentLink2URL=https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf to Part C87
+Added Parameter ComponentLink2URL=https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf to Part C94
+Added Parameter Device Class L1=Passive Components to Part C81
+Added Parameter Device Class L1=Passive Components to Part C82
+Added Parameter Device Class L1=Passive Components to Part C83
+Added Parameter Device Class L1=Passive Components to Part C84
+Added Parameter Device Class L1=Passive Components to Part C86
+Added Parameter Device Class L1=Passive Components to Part C87
+Added Parameter Device Class L1=Passive Components to Part C94
+Added Parameter Device Class L2=Capacitors to Part C81
+Added Parameter Device Class L2=Capacitors to Part C82
+Added Parameter Device Class L2=Capacitors to Part C83
+Added Parameter Device Class L2=Capacitors to Part C84
+Added Parameter Device Class L2=Capacitors to Part C86
+Added Parameter Device Class L2=Capacitors to Part C87
+Added Parameter Device Class L2=Capacitors to Part C94
+Added Parameter Device Class L3=Ceramic Capacitors to Part C81
+Added Parameter Device Class L3=Ceramic Capacitors to Part C82
+Added Parameter Device Class L3=Ceramic Capacitors to Part C83
+Added Parameter Device Class L3=Ceramic Capacitors to Part C84
+Added Parameter Device Class L3=Ceramic Capacitors to Part C86
+Added Parameter Device Class L3=Ceramic Capacitors to Part C87
+Added Parameter Device Class L3=Ceramic Capacitors to Part C94
+Added Parameter Digikey Description=CAP CER 0.1UF 16V 5% X7R 0402 to Part C81
+Added Parameter Digikey Description=CAP CER 0.1UF 16V 5% X7R 0402 to Part C82
+Added Parameter Digikey Description=CAP CER 0.1UF 16V 5% X7R 0402 to Part C83
+Added Parameter Digikey Description=CAP CER 0.1UF 16V 5% X7R 0402 to Part C84
+Added Parameter Digikey Description=CAP CER 0.1UF 16V 5% X7R 0402 to Part C86
+Added Parameter Digikey Description=CAP CER 0.1UF 16V 5% X7R 0402 to Part C87
+Added Parameter Digikey Description=CAP CER 0.1UF 16V 5% X7R 0402 to Part C94
+Added Parameter Height=0.55mm to Part C81
+Added Parameter Height=0.55mm to Part C82
+Added Parameter Height=0.55mm to Part C83
+Added Parameter Height=0.55mm to Part C84
+Added Parameter Height=0.55mm to Part C86
+Added Parameter Height=0.55mm to Part C87
+Added Parameter Height=0.55mm to Part C94
+Added Parameter Ipc Land Pattern Name=CAPC10050X50 to Part C81
+Added Parameter Ipc Land Pattern Name=CAPC10050X50 to Part C82
+Added Parameter Ipc Land Pattern Name=CAPC10050X50 to Part C83
+Added Parameter Ipc Land Pattern Name=CAPC10050X50 to Part C84
+Added Parameter Ipc Land Pattern Name=CAPC10050X50 to Part C86
+Added Parameter Ipc Land Pattern Name=CAPC10050X50 to Part C87
+Added Parameter Ipc Land Pattern Name=CAPC10050X50 to Part C94
+Added Parameter Lead Free=Yes to Part C81
+Added Parameter Lead Free=Yes to Part C82
+Added Parameter Lead Free=Yes to Part C83
+Added Parameter Lead Free=Yes to Part C84
+Added Parameter Lead Free=Yes to Part C86
+Added Parameter Lead Free=Yes to Part C87
+Added Parameter Lead Free=Yes to Part C94
+Added Parameter Manufacturer=Kemet to Part C81
+Added Parameter Manufacturer=Kemet to Part C82
+Added Parameter Manufacturer=Kemet to Part C83
+Added Parameter Manufacturer=Kemet to Part C84
+Added Parameter Manufacturer=Kemet to Part C86
+Added Parameter Manufacturer=Kemet to Part C87
+Added Parameter Manufacturer=Kemet to Part C94
+Added Parameter Manufacturer Part Number=C0402C104J4RACTU to Part C81
+Added Parameter Manufacturer Part Number=C0402C104J4RACTU to Part C82
+Added Parameter Manufacturer Part Number=C0402C104J4RACTU to Part C83
+Added Parameter Manufacturer Part Number=C0402C104J4RACTU to Part C84
+Added Parameter Manufacturer Part Number=C0402C104J4RACTU to Part C86
+Added Parameter Manufacturer Part Number=C0402C104J4RACTU to Part C87
+Added Parameter Manufacturer Part Number=C0402C104J4RACTU to Part C94
+Added Parameter Material=Ceramic to Part C81
+Added Parameter Material=Ceramic to Part C82
+Added Parameter Material=Ceramic to Part C83
+Added Parameter Material=Ceramic to Part C84
+Added Parameter Material=Ceramic to Part C86
+Added Parameter Material=Ceramic to Part C87
+Added Parameter Material=Ceramic to Part C94
+Added Parameter Mouser Description=CAP CER 0.1UF 16V X7R 0402 to Part C81
+Added Parameter Mouser Description=CAP CER 0.1UF 16V X7R 0402 to Part C82
+Added Parameter Mouser Description=CAP CER 0.1UF 16V X7R 0402 to Part C83
+Added Parameter Mouser Description=CAP CER 0.1UF 16V X7R 0402 to Part C84
+Added Parameter Mouser Description=CAP CER 0.1UF 16V X7R 0402 to Part C86
+Added Parameter Mouser Description=CAP CER 0.1UF 16V X7R 0402 to Part C87
+Added Parameter Mouser Description=CAP CER 0.1UF 16V X7R 0402 to Part C94
+Added Parameter Octopart=https://octopart.com/c0402c104j4ractu-kemet-12573893 to Part C81
+Added Parameter Octopart=https://octopart.com/c0402c104j4ractu-kemet-12573893 to Part C82
+Added Parameter Octopart=https://octopart.com/c0402c104j4ractu-kemet-12573893 to Part C83
+Added Parameter Octopart=https://octopart.com/c0402c104j4ractu-kemet-12573893 to Part C84
+Added Parameter Octopart=https://octopart.com/c0402c104j4ractu-kemet-12573893 to Part C86
+Added Parameter Octopart=https://octopart.com/c0402c104j4ractu-kemet-12573893 to Part C87
+Added Parameter Octopart=https://octopart.com/c0402c104j4ractu-kemet-12573893 to Part C94
+Added Parameter Package=C0402-BB to Part C81
+Added Parameter Package=C0402-BB to Part C82
+Added Parameter Package=C0402-BB to Part C83
+Added Parameter Package=C0402-BB to Part C84
+Added Parameter Package=C0402-BB to Part C86
+Added Parameter Package=C0402-BB to Part C87
+Added Parameter Package=C0402-BB to Part C94
+Added Parameter RoHS=TRUE to Part C81
+Added Parameter RoHS=TRUE to Part C82
+Added Parameter RoHS=TRUE to Part C83
+Added Parameter RoHS=TRUE to Part C84
+Added Parameter RoHS=TRUE to Part C86
+Added Parameter RoHS=TRUE to Part C87
+Added Parameter RoHS=TRUE to Part C94
+Added Parameter Temperature=-55°C to +125°C to Part C81
+Added Parameter Temperature=-55°C to +125°C to Part C82
+Added Parameter Temperature=-55°C to +125°C to Part C83
+Added Parameter Temperature=-55°C to +125°C to Part C84
+Added Parameter Temperature=-55°C to +125°C to Part C86
+Added Parameter Temperature=-55°C to +125°C to Part C87
+Added Parameter Temperature=-55°C to +125°C to Part C94
+Added Parameter Temperature Characteristic=X7R to Part C81
+Added Parameter Temperature Characteristic=X7R to Part C82
+Added Parameter Temperature Characteristic=X7R to Part C83
+Added Parameter Temperature Characteristic=X7R to Part C84
+Added Parameter Temperature Characteristic=X7R to Part C86
+Added Parameter Temperature Characteristic=X7R to Part C87
+Added Parameter Temperature Characteristic=X7R to Part C94
+Added Parameter Temperature Coefficient=15% to Part C81
+Added Parameter Temperature Coefficient=15% to Part C82
+Added Parameter Temperature Coefficient=15% to Part C83
+Added Parameter Temperature Coefficient=15% to Part C84
+Added Parameter Temperature Coefficient=15% to Part C86
+Added Parameter Temperature Coefficient=15% to Part C87
+Added Parameter Temperature Coefficient=15% to Part C94
+Added Parameter Temperature Range High=+125°C to Part C81
+Added Parameter Temperature Range High=+125°C to Part C82
+Added Parameter Temperature Range High=+125°C to Part C83
+Added Parameter Temperature Range High=+125°C to Part C84
+Added Parameter Temperature Range High=+125°C to Part C86
+Added Parameter Temperature Range High=+125°C to Part C87
+Added Parameter Temperature Range High=+125°C to Part C94
+Added Parameter Temperature Range Low=-55°C to Part C81
+Added Parameter Temperature Range Low=-55°C to Part C82
+Added Parameter Temperature Range Low=-55°C to Part C83
+Added Parameter Temperature Range Low=-55°C to Part C84
+Added Parameter Temperature Range Low=-55°C to Part C86
+Added Parameter Temperature Range Low=-55°C to Part C87
+Added Parameter Temperature Range Low=-55°C to Part C94
+Added Parameter Voltage Rating=16 V to Part C81
+Added Parameter Voltage Rating=16 V to Part C82
+Added Parameter Voltage Rating=16 V to Part C83
+Added Parameter Voltage Rating=16 V to Part C84
+Added Parameter Voltage Rating=16 V to Part C86
+Added Parameter Voltage Rating=16 V to Part C87
+Added Parameter Voltage Rating=16 V to Part C94
+Update Managed Component C81 From CMP-1034-02068-3[0.1 uF] To CMP-1034-02068-3[C0402C104J4RACTU] in Magnetometers.SchDoc
+Update Managed Component C82 From CMP-1034-02068-3[0.1 uF] To CMP-1034-02068-3[C0402C104J4RACTU] in Magnetometers.SchDoc
+Update Managed Component C83 From CMP-1034-02068-3[0.1 uF] To CMP-1034-02068-3[C0402C104J4RACTU] in Magnetometers.SchDoc
+Update Managed Component C84 From CMP-1034-02068-3[0.1 uF] To CMP-1034-02068-3[C0402C104J4RACTU] in Magnetometers.SchDoc
+Update Managed Component C86 From CMP-1034-02068-3[0.1 uF] To CMP-1034-02068-3[C0402C104J4RACTU] in Magnetometers.SchDoc
+Update Managed Component C87 From CMP-1034-02068-3[0.1 uF] To CMP-1034-02068-3[C0402C104J4RACTU] in Magnetometers.SchDoc
+Update Managed Component C94 From CMP-1034-02068-3[0.1 uF] To CMP-1034-02068-3[C0402C104J4RACTU] in Magnetometers.SchDoc

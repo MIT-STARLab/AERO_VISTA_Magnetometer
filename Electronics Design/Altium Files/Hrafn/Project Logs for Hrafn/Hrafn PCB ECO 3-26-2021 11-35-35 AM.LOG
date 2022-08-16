@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=3V3_Pi Pin=P1-1
+Removed Pin From Net: NetName=D3V3 Pin=R110-1
+Removed Pin From Net: NetName=NetR110_2 Pin=R110-2
+Removed Member From Class: ClassName=U_Ethernet Member=R110
+Added Component: Designator=C109(FP-CGA6P-IPC_B)
+Add component (AddParameter): Name = "Capacitance"; Value = "47 uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "10 V"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1005X40X25LL05T05)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-2GEJ223X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "22kO"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MAG_5V Pin=C109-1
+Added Pin To Net: NetName=AGND Pin=C109-2
+Added Pin To Net: NetName=NetR110_2 Pin=P1-1
+Added Pin To Net: NetName=NetR110_2 Pin=R21-1
+Added Pin To Net: NetName=NetR110_2 Pin=R?-1
+Added Pin To Net: NetName=D3V3 Pin=R?-2
+Change Net Name : Old Net Name=NetR110_2 New Net Name=ETH_RESETb
+Added Member To Class: ClassName=U_Magnetometers Member=Component C109 CGA6P1X7S1A476M250AC
+Added Member To Class: ClassName=U_Hrafn_Top Member=Component R? 22kO

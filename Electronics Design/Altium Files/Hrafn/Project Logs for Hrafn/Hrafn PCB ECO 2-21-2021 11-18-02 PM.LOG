@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=C25 Old Footprint=CAPC1608X90X20LL10 New Footprint=FP-CGA6P-IPC_B
+Change Component Comment : Designator=C25 Old Comment=10 uF New Comment=CGA6P1X7S1A476M250AC
+Change Managed Component Library Link : Designator=C25 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=34833BB1-BB92-4981-851C-45053F04873E New ItemGUID=725AB064-C950-4D91-9F4E-8C93EA2B3460 Old RevisionGUID=D4229FAD-4DB3-44DA-BBBA-9E3C1C468F6A New RevisionGUID=63C1A005-91D5-41CB-A186-57FA8BF67622
+Change component parameters: Designator = "C25" ("C25"); Footprint = "CAPC1608X90X20LL10"; UniqueID = "\XSCYCGRR\RQVNQEXO\LVHUKPSA" ("\XSCYCGRR\RQVNQEXO\LVHUKPSA")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "47 uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "10 V"; VariantName = "[No Variations]"

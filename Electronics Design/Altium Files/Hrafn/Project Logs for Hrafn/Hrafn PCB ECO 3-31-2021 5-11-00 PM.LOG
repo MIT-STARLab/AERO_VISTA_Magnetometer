@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetC24_1 Pin=L1-1
+Removed Pin From Net: NetName=NetC25_1 Pin=L1-2
+Change component parameters: Designator = "C96" ("C96"); Footprint = "FP-CGA6P-IPC_B"; UniqueID = "\XSCYCGRR\VERKDXRB\CPJQNEEH" ("\XSCYCGRR\VERKDXRB\CPJQNEEH")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "47 uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "10 V"; VariantName = "[No Variations]"

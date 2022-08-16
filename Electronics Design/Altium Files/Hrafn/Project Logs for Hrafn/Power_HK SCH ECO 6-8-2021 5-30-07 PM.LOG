@@ -1,0 +1,160 @@
+Removed Parameter Manufacturer:Vishay Dale from Part R51
+Removed Parameter Manufacturer:Vishay Dale from Part R52
+Removed Parameter Manufacturer:Vishay Dale from Part R53
+Removed Parameter Manufacturer:Vishay Dale from Part R54
+Removed Parameter Manufacturer:Vishay Dale from Part R71
+Removed Parameter Part Number:CRCW040210K0FKED from Part R51
+Removed Parameter Part Number:CRCW040210K0FKED from Part R52
+Removed Parameter Part Number:CRCW040210K0FKED from Part R53
+Removed Parameter Part Number:CRCW040210K0FKED from Part R54
+Removed Parameter Part Number:CRCW040210K0FKED from Part R71
+Added Parameter Case/Package=0402 to Part R51
+Added Parameter Case/Package=0402 to Part R52
+Added Parameter Case/Package=0402 to Part R53
+Added Parameter Case/Package=0402 to Part R54
+Added Parameter Case/Package=0402 to Part R71
+Added Parameter Case Code (Imperial)=0402 to Part R51
+Added Parameter Case Code (Imperial)=0402 to Part R52
+Added Parameter Case Code (Imperial)=0402 to Part R53
+Added Parameter Case Code (Imperial)=0402 to Part R54
+Added Parameter Case Code (Imperial)=0402 to Part R71
+Added Parameter Case Code (Metric)=1005 to Part R51
+Added Parameter Case Code (Metric)=1005 to Part R52
+Added Parameter Case Code (Metric)=1005 to Part R53
+Added Parameter Case Code (Metric)=1005 to Part R54
+Added Parameter Case Code (Metric)=1005 to Part R71
+Added Parameter Composition=Thick Film to Part R51
+Added Parameter Composition=Thick Film to Part R52
+Added Parameter Composition=Thick Film to Part R53
+Added Parameter Composition=Thick Film to Part R54
+Added Parameter Composition=Thick Film to Part R71
+Added Parameter Contact Plating=Tin to Part R51
+Added Parameter Contact Plating=Tin to Part R52
+Added Parameter Contact Plating=Tin to Part R53
+Added Parameter Contact Plating=Tin to Part R54
+Added Parameter Contact Plating=Tin to Part R71
+Added Parameter Depth=0.5mm to Part R51
+Added Parameter Depth=0.5mm to Part R52
+Added Parameter Depth=0.5mm to Part R53
+Added Parameter Depth=0.5mm to Part R54
+Added Parameter Depth=0.5mm to Part R71
+Added Parameter Features=Automotive AEC-Q200 to Part R51
+Added Parameter Features=Automotive AEC-Q200 to Part R52
+Added Parameter Features=Automotive AEC-Q200 to Part R53
+Added Parameter Features=Automotive AEC-Q200 to Part R54
+Added Parameter Features=Automotive AEC-Q200 to Part R71
+Added Parameter Height=0.35mm to Part R51
+Added Parameter Height=0.35mm to Part R52
+Added Parameter Height=0.35mm to Part R53
+Added Parameter Height=0.35mm to Part R54
+Added Parameter Height=0.35mm to Part R71
+Added Parameter Lead Free=Lead Free to Part R51
+Added Parameter Lead Free=Lead Free to Part R52
+Added Parameter Lead Free=Lead Free to Part R53
+Added Parameter Lead Free=Lead Free to Part R54
+Added Parameter Lead Free=Lead Free to Part R71
+Added Parameter Length=1mm to Part R51
+Added Parameter Length=1mm to Part R52
+Added Parameter Length=1mm to Part R53
+Added Parameter Length=1mm to Part R54
+Added Parameter Length=1mm to Part R71
+Added Parameter Max Operating Temperature=155°C to Part R51
+Added Parameter Max Operating Temperature=155°C to Part R52
+Added Parameter Max Operating Temperature=155°C to Part R53
+Added Parameter Max Operating Temperature=155°C to Part R54
+Added Parameter Max Operating Temperature=155°C to Part R71
+Added Parameter Max Power Dissipation=63mW to Part R51
+Added Parameter Max Power Dissipation=63mW to Part R52
+Added Parameter Max Power Dissipation=63mW to Part R53
+Added Parameter Max Power Dissipation=63mW to Part R54
+Added Parameter Max Power Dissipation=63mW to Part R71
+Added Parameter Military Standard=Not to Part R51
+Added Parameter Military Standard=Not to Part R52
+Added Parameter Military Standard=Not to Part R53
+Added Parameter Military Standard=Not to Part R54
+Added Parameter Military Standard=Not to Part R71
+Added Parameter Min Operating Temperature=-55°C to Part R51
+Added Parameter Min Operating Temperature=-55°C to Part R52
+Added Parameter Min Operating Temperature=-55°C to Part R53
+Added Parameter Min Operating Temperature=-55°C to Part R54
+Added Parameter Min Operating Temperature=-55°C to Part R71
+Added Parameter Mount=Surface Mount to Part R51
+Added Parameter Mount=Surface Mount to Part R52
+Added Parameter Mount=Surface Mount to Part R53
+Added Parameter Mount=Surface Mount to Part R54
+Added Parameter Mount=Surface Mount to Part R71
+Added Parameter Number of Pins=2 to Part R51
+Added Parameter Number of Pins=2 to Part R52
+Added Parameter Number of Pins=2 to Part R53
+Added Parameter Number of Pins=2 to Part R54
+Added Parameter Number of Pins=2 to Part R71
+Added Parameter Number of Terminations=2 to Part R51
+Added Parameter Number of Terminations=2 to Part R52
+Added Parameter Number of Terminations=2 to Part R53
+Added Parameter Number of Terminations=2 to Part R54
+Added Parameter Number of Terminations=2 to Part R71
+Added Parameter Package Quantity=10 to Part R51
+Added Parameter Package Quantity=10 to Part R52
+Added Parameter Package Quantity=10 to Part R53
+Added Parameter Package Quantity=10 to Part R54
+Added Parameter Package Quantity=10 to Part R71
+Added Parameter Packaging=Tape and Reel to Part R51
+Added Parameter Packaging=Tape and Reel to Part R52
+Added Parameter Packaging=Tape and Reel to Part R53
+Added Parameter Packaging=Tape and Reel to Part R54
+Added Parameter Packaging=Tape and Reel to Part R71
+Added Parameter Power Rating=63mW to Part R51
+Added Parameter Power Rating=63mW to Part R52
+Added Parameter Power Rating=63mW to Part R53
+Added Parameter Power Rating=63mW to Part R54
+Added Parameter Power Rating=63mW to Part R71
+Added Parameter Radiation Hardening=No to Part R51
+Added Parameter Radiation Hardening=No to Part R52
+Added Parameter Radiation Hardening=No to Part R53
+Added Parameter Radiation Hardening=No to Part R54
+Added Parameter Radiation Hardening=No to Part R71
+Added Parameter Resistance=10kR to Part R51
+Added Parameter Resistance=10kR to Part R52
+Added Parameter Resistance=10kR to Part R53
+Added Parameter Resistance=10kR to Part R54
+Added Parameter Resistance=10kR to Part R71
+Added Parameter Temperature Coefficient=100ppm/°C to Part R51
+Added Parameter Temperature Coefficient=100ppm/°C to Part R52
+Added Parameter Temperature Coefficient=100ppm/°C to Part R53
+Added Parameter Temperature Coefficient=100ppm/°C to Part R54
+Added Parameter Temperature Coefficient=100ppm/°C to Part R71
+Added Parameter Termination=SMD/SMT to Part R51
+Added Parameter Termination=SMD/SMT to Part R52
+Added Parameter Termination=SMD/SMT to Part R53
+Added Parameter Termination=SMD/SMT to Part R54
+Added Parameter Termination=SMD/SMT to Part R71
+Added Parameter Tolerance=1% to Part R51
+Added Parameter Tolerance=1% to Part R52
+Added Parameter Tolerance=1% to Part R53
+Added Parameter Tolerance=1% to Part R54
+Added Parameter Tolerance=1% to Part R71
+Added Parameter Voltage Rating (DC)=50V to Part R51
+Added Parameter Voltage Rating (DC)=50V to Part R52
+Added Parameter Voltage Rating (DC)=50V to Part R53
+Added Parameter Voltage Rating (DC)=50V to Part R54
+Added Parameter Voltage Rating (DC)=50V to Part R71
+Added Parameter Voltage Rating=50V to Part R51
+Added Parameter Voltage Rating=50V to Part R52
+Added Parameter Voltage Rating=50V to Part R53
+Added Parameter Voltage Rating=50V to Part R54
+Added Parameter Voltage Rating=50V to Part R71
+Added Parameter Weight=2.3E-05oz to Part R51
+Added Parameter Weight=2.3E-05oz to Part R52
+Added Parameter Weight=2.3E-05oz to Part R53
+Added Parameter Weight=2.3E-05oz to Part R54
+Added Parameter Weight=2.3E-05oz to Part R71
+Added Parameter Width=0.02inch to Part R51
+Added Parameter Width=0.02inch to Part R52
+Added Parameter Width=0.02inch to Part R53
+Added Parameter Width=0.02inch to Part R54
+Added Parameter Width=0.02inch to Part R71
+Update Managed Component R51 From CMP-2002-08135-2[10k] To CMP-2002-08135-2[CRCW040210K0FKED] in Power_HK.SchDoc
+Update Managed Component R52 From CMP-2002-08135-2[10k] To CMP-2002-08135-2[CRCW040210K0FKED] in Power_HK.SchDoc
+Update Managed Component R53 From CMP-2002-08135-2[10k] To CMP-2002-08135-2[CRCW040210K0FKED] in Power_HK.SchDoc
+Update Managed Component R54 From CMP-2002-08135-2[10k] To CMP-2002-08135-2[CRCW040210K0FKED] in Power_HK.SchDoc
+Update Managed Component R71 From CMP-2002-08135-2[10k] To CMP-2002-08135-2[CRCW040210K0FKED] in Power_HK.SchDoc

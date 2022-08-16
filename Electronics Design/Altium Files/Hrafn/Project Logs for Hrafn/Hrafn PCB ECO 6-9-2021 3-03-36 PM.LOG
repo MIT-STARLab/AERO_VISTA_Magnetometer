@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=D5V Pin=C13-1
+Removed Pin From Net: NetName=D5V Pin=C14-2
+Removed Pin From Net: NetName=D5V Pin=C15-2
+Removed Pin From Net: NetName=D5V Pin=C16-2
+Removed Pin From Net: NetName=D5V Pin=C18-2
+Removed Pin From Net: NetName=D5V Pin=C21-1
+Removed Pin From Net: NetName=D5V Pin=C22-2
+Removed Pin From Net: NetName=D5V Pin=D3-1
+Removed Pin From Net: NetName=D5V Pin=FB1-1
+Removed Pin From Net: NetName=D5V Pin=FB2-2
+Removed Pin From Net: NetName=D5V Pin=FB3-1
+Removed Pin From Net: NetName=D5V Pin=P3-2
+Removed Pin From Net: NetName=D5V Pin=R49-2
+Removed Pin From Net: NetName=D5V Pin=R60-1
+Removed Pin From Net: NetName=D5V Pin=R62-2
+Removed Pin From Net: NetName=D5V Pin=U4-1
+Removed Pin From Net: NetName=D5V Pin=U5-1
+Change Net Name : Old Net Name=D5V New Net Name=DGND
+Added Pin To Net: NetName=D5V Pin=C13-1
+Added Pin To Net: NetName=D5V Pin=C14-2
+Added Pin To Net: NetName=D5V Pin=C15-2
+Added Pin To Net: NetName=D5V Pin=C16-2
+Added Pin To Net: NetName=D5V Pin=C18-2
+Added Pin To Net: NetName=D5V Pin=C21-1
+Added Pin To Net: NetName=D5V Pin=C22-2
+Added Pin To Net: NetName=D5V Pin=D3-1
+Added Pin To Net: NetName=D5V Pin=FB1-1
+Added Pin To Net: NetName=D5V Pin=FB2-2
+Added Pin To Net: NetName=D5V Pin=FB3-1
+Added Pin To Net: NetName=D5V Pin=P3-2
+Added Pin To Net: NetName=D5V Pin=R49-2
+Added Pin To Net: NetName=D5V Pin=R60-1
+Added Pin To Net: NetName=D5V Pin=R62-2
+Added Pin To Net: NetName=D5V Pin=U4-1
+Added Pin To Net: NetName=D5V Pin=U5-1
+Added Net: Name=D5V

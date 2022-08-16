@@ -1,0 +1,64 @@
+Removed Parameter Manufacturer:Vishay Dale from Part R107
+Removed Parameter Manufacturer:Vishay Dale from Part R108
+Removed Parameter Part Number:CRCW04021K00FKED from Part R107
+Removed Parameter Part Number:CRCW04021K00FKED from Part R108
+Change Value of Parameter Resistance in Part R108 Old=1 kO New=1kR
+Change Value of Parameter Resistance in Part R107 Old=1 kO New=1kR
+Added Parameter Case/Package=0402 to Part R107
+Added Parameter Case/Package=0402 to Part R108
+Added Parameter Case Code (Imperial)=0402 to Part R107
+Added Parameter Case Code (Imperial)=0402 to Part R108
+Added Parameter Case Code (Metric)=1005 to Part R107
+Added Parameter Case Code (Metric)=1005 to Part R108
+Added Parameter Composition=Thick Film to Part R107
+Added Parameter Composition=Thick Film to Part R108
+Added Parameter Contact Plating=Tin to Part R107
+Added Parameter Contact Plating=Tin to Part R108
+Added Parameter Depth=0.5mm to Part R107
+Added Parameter Depth=0.5mm to Part R108
+Added Parameter Features=Automotive AEC-Q200 to Part R107
+Added Parameter Features=Automotive AEC-Q200 to Part R108
+Added Parameter Height=0.35mm to Part R107
+Added Parameter Height=0.35mm to Part R108
+Added Parameter Lead Free=Lead Free to Part R107
+Added Parameter Lead Free=Lead Free to Part R108
+Added Parameter Length=1mm to Part R107
+Added Parameter Length=1mm to Part R108
+Added Parameter Max Operating Temperature=155°C to Part R107
+Added Parameter Max Operating Temperature=155°C to Part R108
+Added Parameter Max Power Dissipation=63mW to Part R107
+Added Parameter Max Power Dissipation=63mW to Part R108
+Added Parameter Military Standard=Not to Part R107
+Added Parameter Military Standard=Not to Part R108
+Added Parameter Min Operating Temperature=-55°C to Part R107
+Added Parameter Min Operating Temperature=-55°C to Part R108
+Added Parameter Mount=Surface Mount to Part R107
+Added Parameter Mount=Surface Mount to Part R108
+Added Parameter Number of Pins=2 to Part R107
+Added Parameter Number of Pins=2 to Part R108
+Added Parameter Number of Terminations=2 to Part R107
+Added Parameter Number of Terminations=2 to Part R108
+Added Parameter Package Quantity=10 to Part R107
+Added Parameter Package Quantity=10 to Part R108
+Added Parameter Packaging=Tape and Reel to Part R107
+Added Parameter Packaging=Tape and Reel to Part R108
+Added Parameter Power Rating=63mW to Part R107
+Added Parameter Power Rating=63mW to Part R108
+Added Parameter Radiation Hardening=No to Part R107
+Added Parameter Radiation Hardening=No to Part R108
+Added Parameter Temperature Coefficient=100ppm/°C to Part R107
+Added Parameter Temperature Coefficient=100ppm/°C to Part R108
+Added Parameter Termination=SMD/SMT to Part R107
+Added Parameter Termination=SMD/SMT to Part R108
+Added Parameter Tolerance=1% to Part R107
+Added Parameter Tolerance=1% to Part R108
+Added Parameter Voltage Rating (DC)=50V to Part R107
+Added Parameter Voltage Rating (DC)=50V to Part R108
+Added Parameter Voltage Rating=50V to Part R107
+Added Parameter Voltage Rating=50V to Part R108
+Added Parameter Weight=2.3E-05oz to Part R107
+Added Parameter Weight=2.3E-05oz to Part R108
+Added Parameter Width=0.5mm to Part R107
+Added Parameter Width=0.5mm to Part R108
+Update Managed Component R107 From CMP-2002-08276-2[1 kO] To CMP-2002-08276-2[CRCW04021K00FKED] in Ethernet.SchDoc
+Update Managed Component R108 From CMP-2002-08276-2[1 kO] To CMP-2002-08276-2[CRCW04021K00FKED] in Ethernet.SchDoc

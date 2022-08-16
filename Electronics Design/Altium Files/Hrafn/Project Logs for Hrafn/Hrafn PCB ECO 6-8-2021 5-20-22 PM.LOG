@@ -1,0 +1,58 @@
+Change Component Footprint: Designator=C7 Old Footprint=CAPC1608X90X20LL10 New Footprint=FP-GRT188-0_2-MFG
+Change Component Footprint: Designator=C14 Old Footprint=CAPC1608X90X20LL10 New Footprint=FP-GRT188-0_2-MFG
+Change Component Footprint: Designator=C16 Old Footprint=CAPC1608X90X20LL10 New Footprint=FP-GRT188-0_2-MFG
+Change Component Footprint: Designator=C22 Old Footprint=CAPC1608X90X20LL10 New Footprint=FP-GRT188-0_2-MFG
+Change Component Footprint: Designator=C26 Old Footprint=CAPC1608X90X20LL10 New Footprint=FP-GRT188-0_2-MFG
+Change Component Comment : Designator=C7 Old Comment=10 uF New Comment=GRT188R61E106ME13D
+Change Component Comment : Designator=C14 Old Comment=10 uF New Comment=GRT188R61E106ME13D
+Change Component Comment : Designator=C16 Old Comment=10 uF New Comment=GRT188R61E106ME13D
+Change Component Comment : Designator=C22 Old Comment=10 uF New Comment=GRT188R61E106ME13D
+Change Component Comment : Designator=C26 Old Comment=10 uF New Comment=GRT188R61E106ME13D
+Change Managed Component Library Link : Designator=C16 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=34833BB1-BB92-4981-851C-45053F04873E New ItemGUID=0C359808-31B9-4D68-8CF8-D139364A4161 Old RevisionGUID=D4229FAD-4DB3-44DA-BBBA-9E3C1C468F6A New RevisionGUID=03CDB279-7A00-462B-9436-475BAAE028AF
+Change Managed Component Library Link : Designator=C22 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=34833BB1-BB92-4981-851C-45053F04873E New ItemGUID=0C359808-31B9-4D68-8CF8-D139364A4161 Old RevisionGUID=D4229FAD-4DB3-44DA-BBBA-9E3C1C468F6A New RevisionGUID=03CDB279-7A00-462B-9436-475BAAE028AF
+Change Managed Component Library Link : Designator=C26 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=34833BB1-BB92-4981-851C-45053F04873E New ItemGUID=0C359808-31B9-4D68-8CF8-D139364A4161 Old RevisionGUID=D4229FAD-4DB3-44DA-BBBA-9E3C1C468F6A New RevisionGUID=03CDB279-7A00-462B-9436-475BAAE028AF
+Change component parameters: Designator = "C16" ("C16"); Footprint = "CAPC1608X90X20LL10"; UniqueID = "\XSCYCGRR\RQVNQEXO\RWZWSAZV" ("\XSCYCGRR\RQVNQEXO\RWZWSAZV")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.063inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ratings"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "0.035inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.031inch"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C22" ("C22"); Footprint = "CAPC1608X90X20LL10"; UniqueID = "\XSCYCGRR\RQVNQEXO\HFHFRAYD" ("\XSCYCGRR\RQVNQEXO\HFHFRAYD")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.063inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ratings"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "0.035inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.031inch"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C26" ("C26"); Footprint = "CAPC1608X90X20LL10"; UniqueID = "\XSCYCGRR\RQVNQEXO\HAJPKAAU" ("\XSCYCGRR\RQVNQEXO\HAJPKAAU")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.063inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ratings"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "0.035inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.031inch"; VariantName = "[No Variations]"

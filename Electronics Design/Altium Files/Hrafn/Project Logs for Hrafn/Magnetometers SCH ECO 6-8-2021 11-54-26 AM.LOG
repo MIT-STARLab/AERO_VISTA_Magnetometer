@@ -1,0 +1,156 @@
+Removed Parameter Case/Package:0402 from Part C90
+Removed Parameter Case/Package:0402 from Part C95
+Removed Parameter Case/Package:0402 from Part C98
+Removed Parameter Case Code (Imperial):0402 from Part C90
+Removed Parameter Case Code (Imperial):0402 from Part C95
+Removed Parameter Case Code (Imperial):0402 from Part C98
+Removed Parameter Case Code (Metric):1005 from Part C90
+Removed Parameter Case Code (Metric):1005 from Part C95
+Removed Parameter Case Code (Metric):1005 from Part C98
+Removed Parameter Datasheet URL:http://psearch.en.murata.com/capacitor/product/GRM155R71C104KA88%23.pdf from Part C90
+Removed Parameter Datasheet URL:http://psearch.en.murata.com/capacitor/product/GRM155R71C104KA88%23.pdf from Part C95
+Removed Parameter Datasheet URL:http://psearch.en.murata.com/capacitor/product/GRM155R71C104KA88%23.pdf from Part C98
+Removed Parameter Datasheet Version:42675.0 from Part C90
+Removed Parameter Datasheet Version:42675.0 from Part C95
+Removed Parameter Datasheet Version:42675.0 from Part C98
+Removed Parameter Depth:0.5mm from Part C90
+Removed Parameter Depth:0.5mm from Part C95
+Removed Parameter Depth:0.5mm from Part C98
+Removed Parameter Dielectric:X7R from Part C90
+Removed Parameter Dielectric:X7R from Part C95
+Removed Parameter Dielectric:X7R from Part C98
+Removed Parameter Dielectric Material:Ceramic from Part C90
+Removed Parameter Dielectric Material:Ceramic from Part C95
+Removed Parameter Dielectric Material:Ceramic from Part C98
+Removed Parameter Insulation Resistance:10GR from Part C90
+Removed Parameter Insulation Resistance:10GR from Part C95
+Removed Parameter Insulation Resistance:10GR from Part C98
+Removed Parameter Length:1mm from Part C90
+Removed Parameter Length:1mm from Part C95
+Removed Parameter Length:1mm from Part C98
+Removed Parameter Manufacturer URL:http://www.murata.com/ from Part C90
+Removed Parameter Manufacturer URL:http://www.murata.com/ from Part C95
+Removed Parameter Manufacturer URL:http://www.murata.com/ from Part C98
+Removed Parameter Max Operating Temperature:125degC from Part C90
+Removed Parameter Max Operating Temperature:125degC from Part C95
+Removed Parameter Max Operating Temperature:125degC from Part C98
+Removed Parameter Min Operating Temperature:-55degC from Part C90
+Removed Parameter Min Operating Temperature:-55degC from Part C95
+Removed Parameter Min Operating Temperature:-55degC from Part C98
+Removed Parameter Mount:SurfaceMount from Part C90
+Removed Parameter Mount:SurfaceMount from Part C95
+Removed Parameter Mount:SurfaceMount from Part C98
+Removed Parameter Number of Pins:2 from Part C90
+Removed Parameter Number of Pins:2 from Part C95
+Removed Parameter Number of Pins:2 from Part C98
+Removed Parameter Package Description:2-Pin Surface Mount Device, Body 1 x 0.5 mm from Part C90
+Removed Parameter Package Description:2-Pin Surface Mount Device, Body 1 x 0.5 mm from Part C95
+Removed Parameter Package Description:2-Pin Surface Mount Device, Body 1 x 0.5 mm from Part C98
+Removed Parameter Package Quantity:1 from Part C90
+Removed Parameter Package Quantity:1 from Part C95
+Removed Parameter Package Quantity:1 from Part C98
+Removed Parameter Package Reference:0402 from Part C90
+Removed Parameter Package Reference:0402 from Part C95
+Removed Parameter Package Reference:0402 from Part C98
+Removed Parameter Packaging:TapeandReel from Part C90
+Removed Parameter Packaging:TapeandReel from Part C95
+Removed Parameter Packaging:TapeandReel from Part C98
+Removed Parameter Radiation Hardening:No from Part C90
+Removed Parameter Radiation Hardening:No from Part C95
+Removed Parameter Radiation Hardening:No from Part C98
+Removed Parameter REACH SVHC:NoSVHC from Part C90
+Removed Parameter REACH SVHC:NoSVHC from Part C95
+Removed Parameter REACH SVHC:NoSVHC from Part C98
+Removed Parameter RoHSCompliant:true from Part C90
+Removed Parameter RoHSCompliant:true from Part C95
+Removed Parameter RoHSCompliant:true from Part C98
+Removed Parameter Termination:SMD/SMT from Part C90
+Removed Parameter Termination:SMD/SMT from Part C95
+Removed Parameter Termination:SMD/SMT from Part C98
+Removed Parameter Thickness:0.022inch from Part C90
+Removed Parameter Thickness:0.022inch from Part C95
+Removed Parameter Thickness:0.022inch from Part C98
+Removed Parameter Voltage:16V from Part C90
+Removed Parameter Voltage:16V from Part C95
+Removed Parameter Voltage:16V from Part C98
+Removed Parameter Voltage Rating (DC):16V from Part C90
+Removed Parameter Voltage Rating (DC):16V from Part C95
+Removed Parameter Voltage Rating (DC):16V from Part C98
+Removed Parameter Width:0.5mm from Part C90
+Removed Parameter Width:0.5mm from Part C95
+Removed Parameter Width:0.5mm from Part C98
+Change Value of Parameter Capacitance in Part C98 Old=100nF New=0.10µF
+Change Value of Parameter Capacitance in Part C95 Old=100nF New=0.10µF
+Change Value of Parameter Capacitance in Part C90 Old=100nF New=0.10µF
+Change Component Parameter Description in C98 Old=Chip Capacitor, 0.1 uF, +/- 10%, 16 V, -55 to 125 degC, 0402 (1005 Metric), RoHS, Tape and Reel New=CAP Ceramic 0.10µF 10% X7R 16Vdc 0402 SMD
+Change Component Parameter Description in C95 Old=Chip Capacitor, 0.1 uF, +/- 10%, 16 V, -55 to 125 degC, 0402 (1005 Metric), RoHS, Tape and Reel New=CAP Ceramic 0.10µF 10% X7R 16Vdc 0402 SMD
+Change Component Parameter Description in C90 Old=Chip Capacitor, 0.1 uF, +/- 10%, 16 V, -55 to 125 degC, 0402 (1005 Metric), RoHS, Tape and Reel New=CAP Ceramic 0.10µF 10% X7R 16Vdc 0402 SMD
+Change Value of Parameter Height in Part C98 Old=0.5mm New=0.55mm
+Change Value of Parameter Height in Part C95 Old=0.5mm New=0.55mm
+Change Value of Parameter Height in Part C90 Old=0.5mm New=0.55mm
+Change Value of Parameter Lead Free in Part C98 Old=LeadFree New=yes
+Change Value of Parameter Lead Free in Part C95 Old=LeadFree New=yes
+Change Value of Parameter Lead Free in Part C90 Old=LeadFree New=yes
+Change Value of Parameter Voltage Rating in Part C98 Old=16V New=16Vdc
+Change Value of Parameter Voltage Rating in Part C95 Old=16V New=16Vdc
+Change Value of Parameter Voltage Rating in Part C90 Old=16V New=16Vdc
+Added Parameter Category=Cap to Part C90
+Added Parameter Category=Cap to Part C95
+Added Parameter Category=Cap to Part C98
+Added Parameter ComponentLink2Description=Datasheet to Part C90
+Added Parameter ComponentLink2Description=Datasheet to Part C95
+Added Parameter ComponentLink2Description=Datasheet to Part C98
+Added Parameter ComponentLink2URL=https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R71H471KA01-01A.pdf to Part C90
+Added Parameter ComponentLink2URL=https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R71H471KA01-01A.pdf to Part C95
+Added Parameter ComponentLink2URL=https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R71H471KA01-01A.pdf to Part C98
+Added Parameter Device Class L1=Passive Components to Part C90
+Added Parameter Device Class L1=Passive Components to Part C95
+Added Parameter Device Class L1=Passive Components to Part C98
+Added Parameter Device Class L2=Capacitors to Part C90
+Added Parameter Device Class L2=Capacitors to Part C95
+Added Parameter Device Class L2=Capacitors to Part C98
+Added Parameter Device Class L3=Ceramic Capacitors to Part C90
+Added Parameter Device Class L3=Ceramic Capacitors to Part C95
+Added Parameter Device Class L3=Ceramic Capacitors to Part C98
+Added Parameter Digikey Description=CAP CER 0.1UF 16V X7R 0402 to Part C90
+Added Parameter Digikey Description=CAP CER 0.1UF 16V X7R 0402 to Part C95
+Added Parameter Digikey Description=CAP CER 0.1UF 16V X7R 0402 to Part C98
+Added Parameter Ipc Land Pattern Name=CAPC10050X219 to Part C90
+Added Parameter Ipc Land Pattern Name=CAPC10050X219 to Part C95
+Added Parameter Ipc Land Pattern Name=CAPC10050X219 to Part C98
+Added Parameter Manufacturer Part Number=GRM155R71C104KA88D to Part C90
+Added Parameter Manufacturer Part Number=GRM155R71C104KA88D to Part C95
+Added Parameter Manufacturer Part Number=GRM155R71C104KA88D to Part C98
+Added Parameter Mouser Description=0402 0.1 uF 16V ±10 % Tolerance X7R SMT Multilayer Ceramic Capacitor to Part C90
+Added Parameter Mouser Description=0402 0.1 uF 16V ±10 % Tolerance X7R SMT Multilayer Ceramic Capacitor to Part C95
+Added Parameter Mouser Description=0402 0.1 uF 16V ±10 % Tolerance X7R SMT Multilayer Ceramic Capacitor to Part C98
+Added Parameter Octopart=https://octopart.com/grm155r71c104ka88d-murata-196880 to Part C90
+Added Parameter Octopart=https://octopart.com/grm155r71c104ka88d-murata-196880 to Part C95
+Added Parameter Octopart=https://octopart.com/grm155r71c104ka88d-murata-196880 to Part C98
+Added Parameter Package=GRM15 to Part C90
+Added Parameter Package=GRM15 to Part C95
+Added Parameter Package=GRM15 to Part C98
+Added Parameter RoHS=TRUE to Part C90
+Added Parameter RoHS=TRUE to Part C95
+Added Parameter RoHS=TRUE to Part C98
+Added Parameter Standoff Height=0mm to Part C90
+Added Parameter Standoff Height=0mm to Part C95
+Added Parameter Standoff Height=0mm to Part C98
+Added Parameter Temperature=-55°C to +125°C to Part C90
+Added Parameter Temperature=-55°C to +125°C to Part C95
+Added Parameter Temperature=-55°C to +125°C to Part C98
+Added Parameter Temperature Characteristic=X7R to Part C90
+Added Parameter Temperature Characteristic=X7R to Part C95
+Added Parameter Temperature Characteristic=X7R to Part C98
+Added Parameter Temperature Range High=+125°C to Part C90
+Added Parameter Temperature Range High=+125°C to Part C95
+Added Parameter Temperature Range High=+125°C to Part C98
+Added Parameter Temperature Range Low=-55°C to Part C90
+Added Parameter Temperature Range Low=-55°C to Part C95
+Added Parameter Temperature Range Low=-55°C to Part C98
+Added Parameter Value=0.10µF to Part C90
+Added Parameter Value=0.10µF to Part C95
+Added Parameter Value=0.10µF to Part C98
+Update Managed Component C90 From CMP-2100-03641-2[0.1 uF] To CMP-2100-03641-2[GRM155R71C104KA88D] in Magnetometers.SchDoc
+Update Managed Component C95 From CMP-2100-03641-2[0.1 uF] To CMP-2100-03641-2[GRM155R71C104KA88D] in Magnetometers.SchDoc
+Update Managed Component C98 From CMP-2100-03641-2[0.1 uF] To CMP-2100-03641-2[GRM155R71C104KA88D] in Magnetometers.SchDoc

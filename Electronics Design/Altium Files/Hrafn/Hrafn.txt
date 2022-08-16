@@ -1,0 +1,17 @@
+Board Information Report
+Filename     : C:\Users\Public\Documents\Altium\Projects\Hrafn\Hrafn.PcbDoc
+Date         : 2/15/2022
+Time         : 1:34:19 PM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 85mmx94.73mm
+    Components on board, 391
+count : 2
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 944
+    Connections routed, 944
+    Connections remaining, 0
+count : 4

@@ -1,0 +1,28 @@
+Removed Parameter ComponentLink1Description:Manufacturer URL from Part U23
+Removed Parameter ComponentLink1URL:http://www.microchip.com/ from Part U23
+Removed Parameter ComponentLink2Description:Datasheet from Part U23
+Removed Parameter ComponentLink2URL:http://ww1.microchip.com/downloads/en/DeviceDoc/21801F.pdf from Part U23
+Removed Parameter ComponentLink3Description:Package Specification from Part U23
+Removed Parameter ComponentLink3URL:http://www.microchip.com/stellent/groups/techpub_sg/documents/packagingspec/en012702.pdf from Part U23
+Removed Parameter DatasheetVersion:revF, Oct-2010 from Part U23
+Removed Parameter PackageDescription:20-Lead Plastic Quad Flat, No Lead Package (ML) - 4x4x0.9 mm Body [QFN] from Part U23
+Removed Parameter PackageReference:QFN-ML20 from Part U23
+Removed Parameter PackageVersion:revBB, Aug-2009 from Part U23
+Added Parameter Case/Package=QFN to Part U23
+Added Parameter Contact Plating=Tin to Part U23
+Added Parameter Data Rate=1000Kbps to Part U23
+Added Parameter Interface=SPI to Part U23
+Added Parameter Lead Free=Lead Free to Part U23
+Added Parameter Max Operating Temperature=85°C to Part U23
+Added Parameter Max Supply Current=10mA to Part U23
+Added Parameter Max Supply Voltage=5.5V to Part U23
+Added Parameter Min Operating Temperature=-40°C to Part U23
+Added Parameter Min Supply Voltage=2.7V to Part U23
+Added Parameter Mount=Surface Mount to Part U23
+Added Parameter Nominal Supply Current=10mA to Part U23
+Added Parameter Number of Pins=20 to Part U23
+Added Parameter Number of Transceivers=1 to Part U23
+Added Parameter Package Quantity=3300 to Part U23
+Added Parameter Packaging=Tape and Reel to Part U23
+Added Parameter Radiation Hardening=No to Part U23
+Update Managed Component U23 From CMP-0186-00186-2[MCP2515T-I/ML] To CMP-0186-00186-2[MCP2515T-I/ML] in CAN_Bus.SchDoc

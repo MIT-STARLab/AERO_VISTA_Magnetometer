@@ -1,0 +1,106 @@
+Removed Parameter 3-State Output:No from Part U13
+Removed Parameter 3-State Output:No from Part U13
+Removed Parameter Bits(#):1 from Part U13
+Removed Parameter Bits(#):1 from Part U13
+Removed Parameter DatasheetVersion:SCLS318S from Part U13
+Removed Parameter DatasheetVersion:SCLS318S from Part U13
+Removed Parameter F @ Nom Voltage(Max)(Mhz):75 from Part U13
+Removed Parameter F @ Nom Voltage(Max)(Mhz):75 from Part U13
+Removed Parameter Generic Part Number:SN74AHC1G04 from Part U13
+Removed Parameter Generic Part Number:SN74AHC1G04 from Part U13
+Removed Parameter ICC @ Nom Voltage(Max)(mA):0.01 from Part U13
+Removed Parameter ICC @ Nom Voltage(Max)(mA):0.01 from Part U13
+Removed Parameter Input Type:CMOS from Part U13
+Removed Parameter Input Type:CMOS from Part U13
+Removed Parameter Logic:Inverting from Part U13
+Removed Parameter Logic:Inverting from Part U13
+Removed Parameter Operating Temperature Range(C):-40 to 125 from Part U13
+Removed Parameter Operating Temperature Range(C):-40 to 125 from Part U13
+Removed Parameter Output Drive (IOL/IOH)(Max)(mA):50/-50 from Part U13
+Removed Parameter Output Drive (IOL/IOH)(Max)(mA):50/-50 from Part U13
+Removed Parameter Output Type:CMOS from Part U13
+Removed Parameter Output Type:CMOS from Part U13
+Removed Parameter PackageReference:DBV0005A from Part U13
+Removed Parameter PackageReference:DBV0005A from Part U13
+Removed Parameter Rating:Catalog from Part U13
+Removed Parameter Rating:Catalog from Part U13
+Removed Parameter Schmitt Trigger:No from Part U13
+Removed Parameter Schmitt Trigger:No from Part U13
+Removed Parameter Sub-Family:Inverting Buffer/Driver from Part U13
+Removed Parameter Sub-Family:Inverting Buffer/Driver from Part U13
+Removed Parameter Technology Family:AHC from Part U13
+Removed Parameter Technology Family:AHC from Part U13
+Removed Parameter tpd @ Nom Voltage(Max)(ns):10.6,7.5 from Part U13
+Removed Parameter tpd @ Nom Voltage(Max)(ns):10.6,7.5 from Part U13
+Removed Parameter VCC(Max)(V):5.5 from Part U13
+Removed Parameter VCC(Max)(V):5.5 from Part U13
+Removed Parameter VCC(Min)(V):2 from Part U13
+Removed Parameter VCC(Min)(V):2 from Part U13
+Removed Parameter Voltage(Nom)(V):3.3,5 from Part U13
+Removed Parameter Voltage(Nom)(V):3.3,5 from Part U13
+Change Component Parameter Description in U13 Old=Single Inverter Gate, DBV0005A, LARGE T&R New=Inverter IC 1 Channel  SOT-23-5
+Change Component Parameter Description in U13 Old=Single Inverter Gate, DBV0005A, LARGE T&R New=Inverter IC 1 Channel  SOT-23-5
+Added Parameter Ambient Temperature Range High=+125°C to Part U13
+Added Parameter Ambient Temperature Range High=+125°C to Part U13
+Added Parameter Ambient Temperature Range Low=-40°C to Part U13
+Added Parameter Ambient Temperature Range Low=-40°C to Part U13
+Added Parameter Automotive=No to Part U13
+Added Parameter Automotive=No to Part U13
+Added Parameter Category=IC to Part U13
+Added Parameter Category=IC to Part U13
+Added Parameter ComponentLink2Description=Datasheet to Part U13
+Added Parameter ComponentLink2Description=Datasheet to Part U13
+Added Parameter ComponentLink2URL=http://www.ti.com/lit/ds/symlink/sn74ahc1g04.pdf to Part U13
+Added Parameter ComponentLink2URL=http://www.ti.com/lit/ds/symlink/sn74ahc1g04.pdf to Part U13
+Added Parameter Device Class L1=Integrated Circuits (ICs) to Part U13
+Added Parameter Device Class L1=Integrated Circuits (ICs) to Part U13
+Added Parameter Device Class L2=Logic ICs to Part U13
+Added Parameter Device Class L2=Logic ICs to Part U13
+Added Parameter Device Class L3=Logic Gates to Part U13
+Added Parameter Device Class L3=Logic Gates to Part U13
+Added Parameter Digikey Description=IC INVERTER 1CH 1-INP SOT23-5 to Part U13
+Added Parameter Digikey Description=IC INVERTER 1CH 1-INP SOT23-5 to Part U13
+Added Parameter Height=1.45mm to Part U13
+Added Parameter Height=1.45mm to Part U13
+Added Parameter Ipc Land Pattern Name=SOT95P280X145-5 to Part U13
+Added Parameter Ipc Land Pattern Name=SOT95P280X145-5 to Part U13
+Added Parameter Lead Free=Yes to Part U13
+Added Parameter Lead Free=Yes to Part U13
+Added Parameter Logic Function Desc=Inverting to Part U13
+Added Parameter Logic Function Desc=Inverting to Part U13
+Added Parameter Manufacturer Part Number=SN74AHC1G04DBVR to Part U13
+Added Parameter Manufacturer Part Number=SN74AHC1G04DBVR to Part U13
+Added Parameter Max Junction Temp=+150°C to Part U13
+Added Parameter Max Junction Temp=+150°C to Part U13
+Added Parameter Max Supply Voltage=5.5V to Part U13
+Added Parameter Max Supply Voltage=5.5V to Part U13
+Added Parameter Min Supply Voltage=2V to Part U13
+Added Parameter Min Supply Voltage=2V to Part U13
+Added Parameter Mouser Description=IC: digital; inverter; Channels: 1; Inputs: 1; SMD; SOT23-5; 2÷5.5VDC to Part U13
+Added Parameter Mouser Description=IC: digital; inverter; Channels: 1; Inputs: 1; SMD; SOT23-5; 2÷5.5VDC to Part U13
+Added Parameter Nominal Supply Current=1uA to Part U13
+Added Parameter Nominal Supply Current=1uA to Part U13
+Added Parameter Number Of Circuits=1 to Part U13
+Added Parameter Number Of Circuits=1 to Part U13
+Added Parameter Number Of Inputs=1 to Part U13
+Added Parameter Number Of Inputs=1 to Part U13
+Added Parameter Number Of Outputs=1 to Part U13
+Added Parameter Number Of Outputs=1 to Part U13
+Added Parameter Octopart=https://octopart.com/sn74ahc1g04dbvr-texas+instruments-464402 to Part U13
+Added Parameter Octopart=https://octopart.com/sn74ahc1g04dbvr-texas+instruments-464402 to Part U13
+Added Parameter Package=DBV0005A to Part U13
+Added Parameter Package=DBV0005A to Part U13
+Added Parameter Propagation Delay=5.3ns to Part U13
+Added Parameter Propagation Delay=5.3ns to Part U13
+Added Parameter RoHS=TRUE to Part U13
+Added Parameter RoHS=TRUE to Part U13
+Added Parameter Standoff Height=0mm to Part U13
+Added Parameter Standoff Height=0mm to Part U13
+Added Parameter Temperature=-40°C to +125°C to Part U13
+Added Parameter Temperature=-40°C to +125°C to Part U13
+Added Parameter Temperature Range High=+125°C to Part U13
+Added Parameter Temperature Range High=+125°C to Part U13
+Added Parameter Temperature Range Low=-40°C to Part U13
+Added Parameter Temperature Range Low=-40°C to Part U13
+Update Managed Component U13 From CMP-0859-00023-4[SN74AHC1G04DBVR] To CMP-0859-00023-4[SN74AHC1G04DBVR] in Magnetometer_Channel.SchDoc
+Update Managed Component U13 From CMP-0859-00023-4[SN74AHC1G04DBVR] To CMP-0859-00023-4[SN74AHC1G04DBVR] in Magnetometer_Channel.SchDoc

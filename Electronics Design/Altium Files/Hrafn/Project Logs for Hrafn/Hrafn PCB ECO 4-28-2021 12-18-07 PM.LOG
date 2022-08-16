@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=DGND Pin=C26-1
+Removed Pin From Net: NetName=AGND Pin=C52A-1
+Removed Pin From Net: NetName=NetC52A_2 Pin=C52A-2
+Removed Pin From Net: NetName=AGND Pin=C52B-1
+Removed Pin From Net: NetName=NetC52B_2 Pin=C52B-2
+Removed Pin From Net: NetName=AGND Pin=C53A-1
+Removed Pin From Net: NetName=NetC53A_2 Pin=C53A-2
+Removed Pin From Net: NetName=AGND Pin=C53B-1
+Removed Pin From Net: NetName=NetC53B_2 Pin=C53B-2
+Removed Pin From Net: NetName=AGND Pin=C54A-1
+Removed Pin From Net: NetName=NetC54A_2 Pin=C54A-2
+Removed Pin From Net: NetName=AGND Pin=C54B-1
+Removed Pin From Net: NetName=NetC54B_2 Pin=C54B-2
+Removed Pin From Net: NetName=AGND Pin=C55A-1
+Removed Pin From Net: NetName=NetC55A_2 Pin=C55A-2
+Removed Pin From Net: NetName=AGND Pin=C55B-1
+Removed Pin From Net: NetName=NetC55B_2 Pin=C55B-2
+Removed Member From Class: ClassName=MC1 Member=C52A
+Removed Member From Class: ClassName=MC2 Member=C52B
+Removed Member From Class: ClassName=MC1 Member=C53A
+Removed Member From Class: ClassName=MC2 Member=C53B
+Removed Member From Class: ClassName=MC1 Member=C54A
+Removed Member From Class: ClassName=MC2 Member=C54B
+Removed Member From Class: ClassName=MC1 Member=C55A
+Removed Member From Class: ClassName=MC2 Member=C55B
+Added Pin To Net: NetName=AGND Pin=C26-1
+Change Net Name : Old Net Name=NetC52A_2 New Net Name=NetR88A_1
+Change Net Name : Old Net Name=NetC52B_2 New Net Name=NetR88B_1
+Change Net Name : Old Net Name=NetC53A_2 New Net Name=NetR92A_2
+Change Net Name : Old Net Name=NetC53B_2 New Net Name=NetR92B_2
+Change Net Name : Old Net Name=NetC54A_2 New Net Name=NetR93A_2
+Change Net Name : Old Net Name=NetC54B_2 New Net Name=NetR93B_2
+Change Net Name : Old Net Name=NetC55A_2 New Net Name=NetR94A_2
+Change Net Name : Old Net Name=NetC55B_2 New Net Name=NetR94B_2

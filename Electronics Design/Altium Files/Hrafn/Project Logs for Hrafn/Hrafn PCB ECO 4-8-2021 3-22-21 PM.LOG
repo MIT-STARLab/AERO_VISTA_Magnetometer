@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=Vsr Pin=C39B-1
+Removed Pin From Net: NetName=Vsr Pin=Q2B-2
+Removed Pin From Net: NetName=Vsr Pin=Q3B-2
+Removed Pin From Net: NetName=Vsr Pin=R81B-1
+Change Net Name : Old Net Name=Vsr New Net Name=VsrA
+Added Pin To Net: NetName=VsrB Pin=C39B-1
+Added Pin To Net: NetName=VsrB Pin=Q2B-2
+Added Pin To Net: NetName=VsrB Pin=Q3B-2
+Added Pin To Net: NetName=VsrB Pin=R81B-1
+Added Net: Name=VsrB

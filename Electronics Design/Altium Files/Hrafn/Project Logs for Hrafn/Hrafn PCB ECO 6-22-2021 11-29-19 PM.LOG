@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=D3V3 Pin=R105-2
+Removed Pin From Net: NetName=D3V3 Pin=R139-2
+Removed Pin From Net: NetName=D3V3 Pin=R140-2
+Added Pin To Net: NetName=NetC64_2 Pin=R105-2
+Added Pin To Net: NetName=NetC64_2 Pin=R139-2
+Added Pin To Net: NetName=NetC64_2 Pin=R140-2
+Change Net Name : Old Net Name=NetC64_2 New Net Name=ETH_3V3

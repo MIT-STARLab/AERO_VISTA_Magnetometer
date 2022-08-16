@@ -1,0 +1,90 @@
+Removed Parameter Manufacturer:Vishay Dale from Part R106
+Removed Parameter Manufacturer:Vishay Dale from Part R109
+Removed Parameter Manufacturer:Vishay Dale from Part R110
+Removed Parameter Part Number:CRCW060350R0FKEA from Part R106
+Removed Parameter Part Number:CRCW060350R0FKEA from Part R109
+Removed Parameter Part Number:CRCW060350R0FKEA from Part R110
+Change Value of Parameter Resistance in Part R110 Old=50 O New=50R
+Change Value of Parameter Resistance in Part R109 Old=50 O New=50R
+Change Value of Parameter Resistance in Part R106 Old=50 O New=50R
+Added Parameter Case/Package=0603 to Part R106
+Added Parameter Case/Package=0603 to Part R109
+Added Parameter Case/Package=0603 to Part R110
+Added Parameter Case Code (Imperial)=0603 to Part R106
+Added Parameter Case Code (Imperial)=0603 to Part R109
+Added Parameter Case Code (Imperial)=0603 to Part R110
+Added Parameter Case Code (Metric)=1608 to Part R106
+Added Parameter Case Code (Metric)=1608 to Part R109
+Added Parameter Case Code (Metric)=1608 to Part R110
+Added Parameter Composition=Thick Film to Part R106
+Added Parameter Composition=Thick Film to Part R109
+Added Parameter Composition=Thick Film to Part R110
+Added Parameter Contact Plating=Tin to Part R106
+Added Parameter Contact Plating=Tin to Part R109
+Added Parameter Contact Plating=Tin to Part R110
+Added Parameter Depth=0.85mm to Part R106
+Added Parameter Depth=0.85mm to Part R109
+Added Parameter Depth=0.85mm to Part R110
+Added Parameter Height=0.45mm to Part R106
+Added Parameter Height=0.45mm to Part R109
+Added Parameter Height=0.45mm to Part R110
+Added Parameter Lead Free=Lead Free to Part R106
+Added Parameter Lead Free=Lead Free to Part R109
+Added Parameter Lead Free=Lead Free to Part R110
+Added Parameter Length=1.55mm to Part R106
+Added Parameter Length=1.55mm to Part R109
+Added Parameter Length=1.55mm to Part R110
+Added Parameter Max Operating Temperature=155°C to Part R106
+Added Parameter Max Operating Temperature=155°C to Part R109
+Added Parameter Max Operating Temperature=155°C to Part R110
+Added Parameter Military Standard=Not to Part R106
+Added Parameter Military Standard=Not to Part R109
+Added Parameter Military Standard=Not to Part R110
+Added Parameter Min Operating Temperature=-55°C to Part R106
+Added Parameter Min Operating Temperature=-55°C to Part R109
+Added Parameter Min Operating Temperature=-55°C to Part R110
+Added Parameter Mount=Surface Mount to Part R106
+Added Parameter Mount=Surface Mount to Part R109
+Added Parameter Mount=Surface Mount to Part R110
+Added Parameter Number of Pins=2 to Part R106
+Added Parameter Number of Pins=2 to Part R109
+Added Parameter Number of Pins=2 to Part R110
+Added Parameter Package Quantity=5000 to Part R106
+Added Parameter Package Quantity=5000 to Part R109
+Added Parameter Package Quantity=5000 to Part R110
+Added Parameter Packaging=Tape and Reel to Part R106
+Added Parameter Packaging=Tape and Reel to Part R109
+Added Parameter Packaging=Tape and Reel to Part R110
+Added Parameter Power Rating=100mW to Part R106
+Added Parameter Power Rating=100mW to Part R109
+Added Parameter Power Rating=100mW to Part R110
+Added Parameter Radiation Hardening=No to Part R106
+Added Parameter Radiation Hardening=No to Part R109
+Added Parameter Radiation Hardening=No to Part R110
+Added Parameter REACH SVHC=No SVHC to Part R106
+Added Parameter REACH SVHC=No SVHC to Part R109
+Added Parameter REACH SVHC=No SVHC to Part R110
+Added Parameter Temperature Coefficient=100ppm/°C to Part R106
+Added Parameter Temperature Coefficient=100ppm/°C to Part R109
+Added Parameter Temperature Coefficient=100ppm/°C to Part R110
+Added Parameter Termination=SMD/SMT to Part R106
+Added Parameter Termination=SMD/SMT to Part R109
+Added Parameter Termination=SMD/SMT to Part R110
+Added Parameter Tolerance=1% to Part R106
+Added Parameter Tolerance=1% to Part R109
+Added Parameter Tolerance=1% to Part R110
+Added Parameter Voltage Rating (DC)=75V to Part R106
+Added Parameter Voltage Rating (DC)=75V to Part R109
+Added Parameter Voltage Rating (DC)=75V to Part R110
+Added Parameter Voltage Rating=75V to Part R106
+Added Parameter Voltage Rating=75V to Part R109
+Added Parameter Voltage Rating=75V to Part R110
+Added Parameter Weight=7.1E-05oz to Part R106
+Added Parameter Weight=7.1E-05oz to Part R109
+Added Parameter Weight=7.1E-05oz to Part R110
+Added Parameter Width=0.85mm to Part R106
+Added Parameter Width=0.85mm to Part R109
+Added Parameter Width=0.85mm to Part R110
+Update Managed Component R106 From CMP-2000-03436-2[50 O] To CMP-2000-03436-2[CRCW060350R0FKEA] in Ethernet.SchDoc
+Update Managed Component R109 From CMP-2000-03436-2[50 O] To CMP-2000-03436-2[CRCW060350R0FKEA] in Ethernet.SchDoc
+Update Managed Component R110 From CMP-2000-03436-2[50 O] To CMP-2000-03436-2[CRCW060350R0FKEA] in Ethernet.SchDoc

@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=U20 Old Footprint=QFP50P900X900X160-48N New Footprint=TSQFP50P900X900X160-48L
+Added Member To Class: ClassName=U_Ethernet Member=Component C66 0.1 uF

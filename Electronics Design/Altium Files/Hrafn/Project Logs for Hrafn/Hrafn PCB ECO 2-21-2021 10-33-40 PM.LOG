@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=DGND Pin=C18-1
+Removed Pin From Net: NetName=D5V Pin=C18-2
+Removed Pin From Net: NetName=DGND Pin=C35-1
+Removed Pin From Net: NetName=D3V3 Pin=C35-2
+Removed Member From Class: ClassName=U_Power_HK Member=C18
+Removed Member From Class: ClassName=U_Power_HK Member=C35

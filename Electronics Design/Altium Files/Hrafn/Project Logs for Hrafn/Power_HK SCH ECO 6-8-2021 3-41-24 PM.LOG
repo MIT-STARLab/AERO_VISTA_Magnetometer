@@ -1,0 +1,140 @@
+Removed Parameter Case-EIA:0402 from Part R59
+Removed Parameter Case-EIA:0402 from Part R60
+Removed Parameter Case-EIA:0402 from Part R73
+Removed Parameter Case-EIA:0402 from Part R74
+Removed Parameter Case-Metric:1005 from Part R59
+Removed Parameter Case-Metric:1005 from Part R60
+Removed Parameter Case-Metric:1005 from Part R73
+Removed Parameter Case-Metric:1005 from Part R74
+Removed Parameter Power:0.063 W from Part R59
+Removed Parameter Power:0.063 W from Part R60
+Removed Parameter Power:0.063 W from Part R73
+Removed Parameter Power:0.063 W from Part R74
+Removed Parameter Technology:SMT from Part R59
+Removed Parameter Technology:SMT from Part R60
+Removed Parameter Technology:SMT from Part R73
+Removed Parameter Technology:SMT from Part R74
+Removed Parameter Value:100.00 Ohm from Part R59
+Removed Parameter Value:100.00 Ohm from Part R60
+Removed Parameter Value:100.00 Ohm from Part R73
+Removed Parameter Value:100.00 Ohm from Part R74
+Change Value of Parameter Tolerance in Part R74 Old=1 % New=1%
+Change Value of Parameter Tolerance in Part R73 Old=1 % New=1%
+Change Value of Parameter Tolerance in Part R60 Old=1 % New=1%
+Change Value of Parameter Tolerance in Part R59 Old=1 % New=1%
+Added Parameter Case/Package=0402 to Part R59
+Added Parameter Case/Package=0402 to Part R60
+Added Parameter Case/Package=0402 to Part R73
+Added Parameter Case/Package=0402 to Part R74
+Added Parameter Case Code (Imperial)=0402 to Part R59
+Added Parameter Case Code (Imperial)=0402 to Part R60
+Added Parameter Case Code (Imperial)=0402 to Part R73
+Added Parameter Case Code (Imperial)=0402 to Part R74
+Added Parameter Case Code (Metric)=1005 to Part R59
+Added Parameter Case Code (Metric)=1005 to Part R60
+Added Parameter Case Code (Metric)=1005 to Part R73
+Added Parameter Case Code (Metric)=1005 to Part R74
+Added Parameter Composition=Thick Film to Part R59
+Added Parameter Composition=Thick Film to Part R60
+Added Parameter Composition=Thick Film to Part R73
+Added Parameter Composition=Thick Film to Part R74
+Added Parameter Contact Plating=Tin to Part R59
+Added Parameter Contact Plating=Tin to Part R60
+Added Parameter Contact Plating=Tin to Part R73
+Added Parameter Contact Plating=Tin to Part R74
+Added Parameter Depth=0.5mm to Part R59
+Added Parameter Depth=0.5mm to Part R60
+Added Parameter Depth=0.5mm to Part R73
+Added Parameter Depth=0.5mm to Part R74
+Added Parameter Features=Automotive AEC-Q200 to Part R59
+Added Parameter Features=Automotive AEC-Q200 to Part R60
+Added Parameter Features=Automotive AEC-Q200 to Part R73
+Added Parameter Features=Automotive AEC-Q200 to Part R74
+Added Parameter Height=0.35mm to Part R59
+Added Parameter Height=0.35mm to Part R60
+Added Parameter Height=0.35mm to Part R73
+Added Parameter Height=0.35mm to Part R74
+Added Parameter Lead Free=Lead Free to Part R59
+Added Parameter Lead Free=Lead Free to Part R60
+Added Parameter Lead Free=Lead Free to Part R73
+Added Parameter Lead Free=Lead Free to Part R74
+Added Parameter Length=1mm to Part R59
+Added Parameter Length=1mm to Part R60
+Added Parameter Length=1mm to Part R73
+Added Parameter Length=1mm to Part R74
+Added Parameter Max Operating Temperature=155°C to Part R59
+Added Parameter Max Operating Temperature=155°C to Part R60
+Added Parameter Max Operating Temperature=155°C to Part R73
+Added Parameter Max Operating Temperature=155°C to Part R74
+Added Parameter Max Power Dissipation=63mW to Part R59
+Added Parameter Max Power Dissipation=63mW to Part R60
+Added Parameter Max Power Dissipation=63mW to Part R73
+Added Parameter Max Power Dissipation=63mW to Part R74
+Added Parameter Military Standard=Not to Part R59
+Added Parameter Military Standard=Not to Part R60
+Added Parameter Military Standard=Not to Part R73
+Added Parameter Military Standard=Not to Part R74
+Added Parameter Min Operating Temperature=-55°C to Part R59
+Added Parameter Min Operating Temperature=-55°C to Part R60
+Added Parameter Min Operating Temperature=-55°C to Part R73
+Added Parameter Min Operating Temperature=-55°C to Part R74
+Added Parameter Mount=Surface Mount to Part R59
+Added Parameter Mount=Surface Mount to Part R60
+Added Parameter Mount=Surface Mount to Part R73
+Added Parameter Mount=Surface Mount to Part R74
+Added Parameter Number of Terminations=2 to Part R59
+Added Parameter Number of Terminations=2 to Part R60
+Added Parameter Number of Terminations=2 to Part R73
+Added Parameter Number of Terminations=2 to Part R74
+Added Parameter Package Quantity=10 to Part R59
+Added Parameter Package Quantity=10 to Part R60
+Added Parameter Package Quantity=10 to Part R73
+Added Parameter Package Quantity=10 to Part R74
+Added Parameter Packaging=Tape and Reel to Part R59
+Added Parameter Packaging=Tape and Reel to Part R60
+Added Parameter Packaging=Tape and Reel to Part R73
+Added Parameter Packaging=Tape and Reel to Part R74
+Added Parameter Power Rating=63mW to Part R59
+Added Parameter Power Rating=63mW to Part R60
+Added Parameter Power Rating=63mW to Part R73
+Added Parameter Power Rating=63mW to Part R74
+Added Parameter Radiation Hardening=No to Part R59
+Added Parameter Radiation Hardening=No to Part R60
+Added Parameter Radiation Hardening=No to Part R73
+Added Parameter Radiation Hardening=No to Part R74
+Added Parameter Resistance=100R to Part R59
+Added Parameter Resistance=100R to Part R60
+Added Parameter Resistance=100R to Part R73
+Added Parameter Resistance=100R to Part R74
+Added Parameter Temperature Coefficient=100ppm/°C to Part R59
+Added Parameter Temperature Coefficient=100ppm/°C to Part R60
+Added Parameter Temperature Coefficient=100ppm/°C to Part R73
+Added Parameter Temperature Coefficient=100ppm/°C to Part R74
+Added Parameter Termination=SMD/SMT to Part R59
+Added Parameter Termination=SMD/SMT to Part R60
+Added Parameter Termination=SMD/SMT to Part R73
+Added Parameter Termination=SMD/SMT to Part R74
+Added Parameter Voltage Rating (DC)=50V to Part R59
+Added Parameter Voltage Rating (DC)=50V to Part R60
+Added Parameter Voltage Rating (DC)=50V to Part R73
+Added Parameter Voltage Rating (DC)=50V to Part R74
+Added Parameter Voltage Rating=50V to Part R59
+Added Parameter Voltage Rating=50V to Part R60
+Added Parameter Voltage Rating=50V to Part R73
+Added Parameter Voltage Rating=50V to Part R74
+Added Parameter Weight=2.3E-05oz to Part R59
+Added Parameter Weight=2.3E-05oz to Part R60
+Added Parameter Weight=2.3E-05oz to Part R73
+Added Parameter Weight=2.3E-05oz to Part R74
+Added Parameter Width=0.02inch to Part R59
+Added Parameter Width=0.02inch to Part R60
+Added Parameter Width=0.02inch to Part R73
+Added Parameter Width=0.02inch to Part R74
+Added Parameter Working Voltage=50V to Part R59
+Added Parameter Working Voltage=50V to Part R60
+Added Parameter Working Voltage=50V to Part R73
+Added Parameter Working Voltage=50V to Part R74
+Update Managed Component R59 From CMP-1011-00397-3[100] To CMP-1011-00397-3[CRCW0402100RFKED] in Power_HK.SchDoc
+Update Managed Component R60 From CMP-1011-00397-3[100] To CMP-1011-00397-3[CRCW0402100RFKED] in Power_HK.SchDoc
+Update Managed Component R73 From CMP-1011-00397-3[100] To CMP-1011-00397-3[CRCW0402100RFKED] in Power_HK.SchDoc
+Update Managed Component R74 From CMP-1011-00397-3[100] To CMP-1011-00397-3[CRCW0402100RFKED] in Power_HK.SchDoc

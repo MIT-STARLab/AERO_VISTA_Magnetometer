@@ -1,0 +1,26 @@
+Removed Parameter Case-EIA:0402 from Part C100
+Removed Parameter Case-EIA:0402 from Part C101
+Removed Parameter Case-Metric:1005 from Part C100
+Removed Parameter Case-Metric:1005 from Part C101
+Removed Parameter Max Thickness:0.6 mm from Part C100
+Removed Parameter Max Thickness:0.6 mm from Part C101
+Removed Parameter Rated Voltage:16 V from Part C100
+Removed Parameter Rated Voltage:16 V from Part C101
+Removed Parameter Technology:SMT from Part C100
+Removed Parameter Technology:SMT from Part C101
+Change Value of Parameter Tolerance in Part C101 Old=Â±5% New=20%
+Change Value of Parameter Tolerance in Part C100 Old=Â±5% New=20%
+Added Parameter Case/Package=0402 to Part C100
+Added Parameter Case/Package=0402 to Part C101
+Added Parameter Max Operating Temperature=85°C to Part C100
+Added Parameter Max Operating Temperature=85°C to Part C101
+Added Parameter Min Operating Temperature=-55°C to Part C100
+Added Parameter Min Operating Temperature=-55°C to Part C101
+Added Parameter Mounting Technology=SMT to Part C100
+Added Parameter Mounting Technology=SMT to Part C101
+Added Parameter Pins=2 to Part C100
+Added Parameter Pins=2 to Part C101
+Added Parameter Voltage Rating=10V to Part C100
+Added Parameter Voltage Rating=10V to Part C101
+Update Managed Component C100 From CMP-001-00061-2[0.1 uF] To CMP-001-00061-2[Capacitor 100nF +/-20% 10V 0402] in Magnetometer_Filter.SchDoc
+Update Managed Component C101 From CMP-001-00061-2[0.1 uF] To CMP-001-00061-2[Capacitor 100nF +/-20% 10V 0402] in Magnetometer_Filter.SchDoc

@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=2_C Pin=R133C-1
+Removed Pin From Net: NetName=2_T Pin=R133D-1
+Added Pin To Net: NetName=1_C Pin=R133C-1
+Added Pin To Net: NetName=1_T Pin=R133D-1
+Added Room: Name=LCF
+Added Room: Name=MC1
+Added Room: Name=MC2
+Added Room: Name=MF1
+Added Room: Name=MF2
+Added Room: Name=MF3
+Added Room: Name=MF4
+Added Room: Name=MF5
+Added Room: Name=MF6
+Added Room: Name=MF7
+Added Room: Name=MF8
+Added Room: Name=U_CAN_Bus
+Added Room: Name=U_Clock
+Added Room: Name=U_Ethernet
+Added Room: Name=U_Hrafn_Top
+Added Room: Name=U_Magnetometers
+Added Room: Name=U_Power_HK

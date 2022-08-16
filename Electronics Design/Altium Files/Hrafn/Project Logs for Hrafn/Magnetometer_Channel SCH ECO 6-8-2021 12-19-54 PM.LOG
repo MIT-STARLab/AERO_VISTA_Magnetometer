@@ -1,0 +1,60 @@
+Removed Parameter Part Number:C0603X104K5RACTU from Part C40
+Removed Parameter Part Number:C0603X104K5RACTU from Part C52
+Change Component Parameter Description in C52 Old= New=Ceramic Chip Capacitor 0.1µF ±10% 50V
+Change Component Parameter Description in C40 Old= New=Ceramic Chip Capacitor 0.1µF ±10% 50V
+Added Parameter Automotive=No to Part C40
+Added Parameter Automotive=No to Part C52
+Added Parameter Capacitance=100nF to Part C40
+Added Parameter Capacitance=100nF to Part C52
+Added Parameter Category=Cap to Part C40
+Added Parameter Category=Cap to Part C52
+Added Parameter ComponentLink2Description=Datasheet to Part C40
+Added Parameter ComponentLink2Description=Datasheet to Part C52
+Added Parameter ComponentLink2URL=https://content.kemet.com/datasheets/KEM_C1013_X7R_FT-CAP_SMD.pdf to Part C40
+Added Parameter ComponentLink2URL=https://content.kemet.com/datasheets/KEM_C1013_X7R_FT-CAP_SMD.pdf to Part C52
+Added Parameter Device Class L1=Passive Components to Part C40
+Added Parameter Device Class L1=Passive Components to Part C52
+Added Parameter Device Class L2=Capacitors to Part C40
+Added Parameter Device Class L2=Capacitors to Part C52
+Added Parameter Device Class L3=Ceramic Capacitors to Part C40
+Added Parameter Device Class L3=Ceramic Capacitors to Part C52
+Added Parameter Digikey Description=CAP CER 0.1UF 50V X7R 0603 to Part C40
+Added Parameter Digikey Description=CAP CER 0.1UF 50V X7R 0603 to Part C52
+Added Parameter Height=0.95mm to Part C40
+Added Parameter Height=0.95mm to Part C52
+Added Parameter Ipc Land Pattern Name=CAPC16080X80 to Part C40
+Added Parameter Ipc Land Pattern Name=CAPC16080X80 to Part C52
+Added Parameter Lead Free=Yes to Part C40
+Added Parameter Lead Free=Yes to Part C52
+Added Parameter Manufacturer Part Number=C0603X104K5RACTU to Part C40
+Added Parameter Manufacturer Part Number=C0603X104K5RACTU to Part C52
+Added Parameter Material=Ceramic to Part C40
+Added Parameter Material=Ceramic to Part C52
+Added Parameter Mouser Description=Capacitor; Ceramic; Cap 0.1uF; Tol+10%; SMT; Flexible Termination; Vol-Rtg 50V; TR to Part C40
+Added Parameter Mouser Description=Capacitor; Ceramic; Cap 0.1uF; Tol+10%; SMT; Flexible Termination; Vol-Rtg 50V; TR to Part C52
+Added Parameter Octopart=https://octopart.com/c0603x104k5ractu-kemet-9145062 to Part C40
+Added Parameter Octopart=https://octopart.com/c0603x104k5ractu-kemet-9145062 to Part C52
+Added Parameter Package=C0603-CJ to Part C40
+Added Parameter Package=C0603-CJ to Part C52
+Added Parameter RoHS=TRUE to Part C40
+Added Parameter RoHS=TRUE to Part C52
+Added Parameter Temperature=-55°C to +125°C to Part C40
+Added Parameter Temperature=-55°C to +125°C to Part C52
+Added Parameter Temperature Characteristic=X7R to Part C40
+Added Parameter Temperature Characteristic=X7R to Part C52
+Added Parameter Temperature Coefficient=15% to Part C40
+Added Parameter Temperature Coefficient=15% to Part C52
+Added Parameter Temperature Range High=+125°C to Part C40
+Added Parameter Temperature Range High=+125°C to Part C52
+Added Parameter Temperature Range Low=-55°C to Part C40
+Added Parameter Temperature Range Low=-55°C to Part C52
+Added Parameter Tolerance=10% to Part C40
+Added Parameter Tolerance=10% to Part C52
+Added Parameter Value=100nF to Part C40
+Added Parameter Value=100nF to Part C52
+Added Parameter Voltage=50V to Part C40
+Added Parameter Voltage=50V to Part C52
+Added Parameter Voltage Rating=50V to Part C40
+Added Parameter Voltage Rating=50V to Part C52
+Update Managed Component C40 From CMP-2006-03300-2[0.1 uF] To CMP-2006-03300-2[C0603X104K5RACTU] in Magnetometer_Channel.SchDoc
+Update Managed Component C52 From CMP-2006-03300-2[0.1 uF] To CMP-2006-03300-2[C0603X104K5RACTU] in Magnetometer_Channel.SchDoc

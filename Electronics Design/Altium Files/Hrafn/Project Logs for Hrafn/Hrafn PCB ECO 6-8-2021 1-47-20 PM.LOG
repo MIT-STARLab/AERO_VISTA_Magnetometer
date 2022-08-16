@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=R107 Old Footprint=RESC1005X40X25NL05T05 New Footprint=RESC1005X40X25LL05T05
+Change Component Footprint: Designator=R108 Old Footprint=RESC1005X40X25NL05T05 New Footprint=RESC1005X40X25LL05T05
+Change Component Comment : Designator=R107 Old Comment=1 kO New Comment=ERJ-2GEJ102X
+Change Component Comment : Designator=R108 Old Comment=1 kO New Comment=ERJ-2GEJ102X
+Change Managed Component Library Link : Designator=R107 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=DED0A103-8242-4C3B-A0F5-6E68BC6D65B9 New ItemGUID=F72F106E-FC05-49CD-B3E8-884EA0DDBECE Old RevisionGUID=00611061-385D-47B6-8971-667CB5571BC6 New RevisionGUID=FC3603CD-1450-47FB-BF0D-9BEFE91AB1FF
+Change Managed Component Library Link : Designator=R108 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=DED0A103-8242-4C3B-A0F5-6E68BC6D65B9 New ItemGUID=F72F106E-FC05-49CD-B3E8-884EA0DDBECE Old RevisionGUID=00611061-385D-47B6-8971-667CB5571BC6 New RevisionGUID=FC3603CD-1450-47FB-BF0D-9BEFE91AB1FF
+Change component parameters: Designator = "R107" ("R107"); Footprint = "RESC1005X40X25NL05T05"; UniqueID = "\XSCYCGRR\SAZKBMBE\WFHKUXSD" ("\XSCYCGRR\SAZKBMBE\WFHKUXSD")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "ERJ-2GEJ102X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R108" ("R108"); Footprint = "RESC1005X40X25NL05T05"; UniqueID = "\XSCYCGRR\SAZKBMBE\UERPTXBT" ("\XSCYCGRR\SAZKBMBE\UERPTXBT")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "ERJ-2GEJ102X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "1k"; VariantName = "[No Variations]"

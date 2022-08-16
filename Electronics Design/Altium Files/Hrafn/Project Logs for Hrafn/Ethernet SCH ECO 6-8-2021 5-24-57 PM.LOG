@@ -1,0 +1,58 @@
+Removed Parameter Applications:GeneralPurpose from Part C72
+Removed Parameter Datasheet URL:http://download.siliconexpert.com/pdfs/2015/4/21/15/54/45/779/tdk_/manual/37024850441143360mlcc_commercial_general_en.pdf from Part C72
+Removed Parameter Datasheet Version:Mar-15 from Part C72
+Removed Parameter Design Resources:20WNon-IsolatedBuckLEDDriverUsingPLLNK460KG from Part C72
+Removed Parameter Family:CeramicCapacitors from Part C72
+Removed Parameter Features:- from Part C72
+Removed Parameter Height - Seated (Max):- from Part C72
+Removed Parameter Kits:445-9003-KIT-ND-KITCAPCERHICAPMLCCSMD from Part C72
+Removed Parameter Lead Spacing:- from Part C72
+Removed Parameter Lead Style:- from Part C72
+Removed Parameter Manufacturer URL:http://www.tdk.com/ from Part C72
+Removed Parameter Mounting Type:SurfaceMount,MLCC from Part C72
+Removed Parameter Online Catalog:CSeries,GeneralPurpose from Part C72
+Removed Parameter Operating Temperature:-55degC~85degC from Part C72
+Removed Parameter Other Names:445-7486-1 from Part C72
+Removed Parameter Package / Case:0603(1608Metric) from Part C72
+Removed Parameter Package Description:2-Pin Surface Mount Device, Body 1.6 x 0.8 mm from Part C72
+Removed Parameter Package Reference:603 from Part C72
+Removed Parameter Packaging:CutTape(CT) from Part C72
+Removed Parameter PCN Part Number:MLCCPartNumberChange30/Nov/2012 from Part C72
+Removed Parameter Product Training Modules:CSeriesGeneralApplicationsSEAT,CCV,andTVCLDesignToolsGuidetoReplacinganElectrolyticCapacitorwithanMLCC from Part C72
+Removed Parameter Ratings:- from Part C72
+Removed Parameter RoHS Information:RoHSCertificate-MLCC from Part C72
+Removed Parameter Series:C from Part C72
+Removed Parameter Size / Dimension:0.063"Lx0.031"W(1.60mmx0.80mm) from Part C72
+Removed Parameter Standard Package:1 from Part C72
+Removed Parameter Thickness (Max):0.035"(0.90mm) from Part C72
+Removed Parameter Voltage - Rated:10V from Part C72
+Change Value of Parameter Capacitance in Part C72 Old=10µF New=10uF
+Change Value of Parameter Category in Part C72 Old=Capacitors New=Cap
+Change Component Parameter Description in C72 Old=Chip Capacitor, 10 uF, +/- 10%, 10 V, -55 to 85 degC, 0603 (1608 Metric), RoHS, Tape and Reel New=10µF ±10% 10V Ceramic Capacitor X5R 0603 (1608 Metric)
+Change Value of Parameter Temperature Coefficient in Part C72 Old=X5R New=15%
+Change Value of Parameter Tolerance in Part C72 Old=±10% New=10%
+Added Parameter Automotive=No to Part C72
+Added Parameter ComponentLink2Description=Datasheet to Part C72
+Added Parameter ComponentLink2URL=https://product.tdk.com/info/en/documents/chara_sheet/C1608X5R1A106K080AC.pdf to Part C72
+Added Parameter Device Class L1=Passive Components to Part C72
+Added Parameter Device Class L2=Capacitors to Part C72
+Added Parameter Device Class L3=Ceramic Capacitors to Part C72
+Added Parameter Digikey Description=CAP CER 10UF 10V X5R 0603 to Part C72
+Added Parameter Footprint Url=https://product.tdk.com/info/en/catalog/spec/mlccspec_commercial_general_midvoltage_en.pdf to Part C72
+Added Parameter Height=0.9mm to Part C72
+Added Parameter Ipc Land Pattern Name=CAPC16080X80 to Part C72
+Added Parameter Lead Free=Yes to Part C72
+Added Parameter Manufacturer Part Number=C1608X5R1A106K080AC to Part C72
+Added Parameter Material=Ceramic to Part C72
+Added Parameter Mouser Description=CAP CER 10UF 10V X5R 0603 to Part C72
+Added Parameter Octopart=https://octopart.com/c1608x5r1a106k080ac-tdk-26013468 to Part C72
+Added Parameter Package=C1608-080 to Part C72
+Added Parameter RoHS=TRUE to Part C72
+Added Parameter Temperature=-55°C to +85°C to Part C72
+Added Parameter Temperature Characteristic=X5R to Part C72
+Added Parameter Temperature Range High=+85°C to Part C72
+Added Parameter Temperature Range Low=-55°C to Part C72
+Added Parameter Value=10uF to Part C72
+Added Parameter Voltage=10V to Part C72
+Added Parameter Voltage Rating=10V to Part C72
+Update Managed Component C72 From CMP-2000-04979-2[10 uF] To CMP-2000-04979-2[C1608X5R1A106K080AC] in Ethernet.SchDoc

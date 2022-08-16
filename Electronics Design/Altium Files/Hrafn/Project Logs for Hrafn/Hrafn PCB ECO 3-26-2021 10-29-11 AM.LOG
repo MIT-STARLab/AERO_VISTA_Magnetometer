@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=3V3_Pi Pin=P1-1
+Removed Pin From Net: NetName=D3V3 Pin=R110-1
+Removed Member From Class: ClassName=U_Ethernet Member=R110
+Added Component: Designator=R104(RESC1005X40X25LL05T05)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-2GEJ223X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "22kO"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=D3V3 Pin=R104-2
+Added Pin To Net: NetName=ETH_RESETb Pin=P1-1
+Added Pin To Net: NetName=ETH_RESETb Pin=R21-1
+Added Pin To Net: NetName=ETH_RESETb Pin=R104-1
+Added Pin To Net: NetName=ETH_RESETb Pin=U21-6
+Added Net: Name=ETH_RESETb
+Added Member To Class: ClassName=U_Hrafn_Top Member=Component R104 22kO

@@ -1,0 +1,78 @@
+Removed Parameter Case-EIA:0402 from Part C63
+Removed Parameter Case-EIA:0402 from Part C65
+Removed Parameter Case-EIA:0402 from Part C66
+Removed Parameter Case-EIA:0402 from Part C67
+Removed Parameter Case-EIA:0402 from Part C68
+Removed Parameter Case-EIA:0402 from Part C69
+Removed Parameter Case-Metric:1005 from Part C63
+Removed Parameter Case-Metric:1005 from Part C65
+Removed Parameter Case-Metric:1005 from Part C66
+Removed Parameter Case-Metric:1005 from Part C67
+Removed Parameter Case-Metric:1005 from Part C68
+Removed Parameter Case-Metric:1005 from Part C69
+Removed Parameter Max Thickness:0.6 mm from Part C63
+Removed Parameter Max Thickness:0.6 mm from Part C65
+Removed Parameter Max Thickness:0.6 mm from Part C66
+Removed Parameter Max Thickness:0.6 mm from Part C67
+Removed Parameter Max Thickness:0.6 mm from Part C68
+Removed Parameter Max Thickness:0.6 mm from Part C69
+Removed Parameter Rated Voltage:16 V from Part C63
+Removed Parameter Rated Voltage:16 V from Part C65
+Removed Parameter Rated Voltage:16 V from Part C66
+Removed Parameter Rated Voltage:16 V from Part C67
+Removed Parameter Rated Voltage:16 V from Part C68
+Removed Parameter Rated Voltage:16 V from Part C69
+Removed Parameter Technology:SMT from Part C63
+Removed Parameter Technology:SMT from Part C65
+Removed Parameter Technology:SMT from Part C66
+Removed Parameter Technology:SMT from Part C67
+Removed Parameter Technology:SMT from Part C68
+Removed Parameter Technology:SMT from Part C69
+Change Value of Parameter Tolerance in Part C69 Old=Â±5% New=20%
+Change Value of Parameter Tolerance in Part C68 Old=Â±5% New=20%
+Change Value of Parameter Tolerance in Part C67 Old=Â±5% New=20%
+Change Value of Parameter Tolerance in Part C66 Old=Â±5% New=20%
+Change Value of Parameter Tolerance in Part C65 Old=Â±5% New=20%
+Change Value of Parameter Tolerance in Part C63 Old=Â±5% New=20%
+Added Parameter Case/Package=0402 to Part C63
+Added Parameter Case/Package=0402 to Part C65
+Added Parameter Case/Package=0402 to Part C66
+Added Parameter Case/Package=0402 to Part C67
+Added Parameter Case/Package=0402 to Part C68
+Added Parameter Case/Package=0402 to Part C69
+Added Parameter Max Operating Temperature=85°C to Part C63
+Added Parameter Max Operating Temperature=85°C to Part C65
+Added Parameter Max Operating Temperature=85°C to Part C66
+Added Parameter Max Operating Temperature=85°C to Part C67
+Added Parameter Max Operating Temperature=85°C to Part C68
+Added Parameter Max Operating Temperature=85°C to Part C69
+Added Parameter Min Operating Temperature=-55°C to Part C63
+Added Parameter Min Operating Temperature=-55°C to Part C65
+Added Parameter Min Operating Temperature=-55°C to Part C66
+Added Parameter Min Operating Temperature=-55°C to Part C67
+Added Parameter Min Operating Temperature=-55°C to Part C68
+Added Parameter Min Operating Temperature=-55°C to Part C69
+Added Parameter Mounting Technology=SMT to Part C63
+Added Parameter Mounting Technology=SMT to Part C65
+Added Parameter Mounting Technology=SMT to Part C66
+Added Parameter Mounting Technology=SMT to Part C67
+Added Parameter Mounting Technology=SMT to Part C68
+Added Parameter Mounting Technology=SMT to Part C69
+Added Parameter Pins=2 to Part C63
+Added Parameter Pins=2 to Part C65
+Added Parameter Pins=2 to Part C66
+Added Parameter Pins=2 to Part C67
+Added Parameter Pins=2 to Part C68
+Added Parameter Pins=2 to Part C69
+Added Parameter Voltage Rating=10V to Part C63
+Added Parameter Voltage Rating=10V to Part C65
+Added Parameter Voltage Rating=10V to Part C66
+Added Parameter Voltage Rating=10V to Part C67
+Added Parameter Voltage Rating=10V to Part C68
+Added Parameter Voltage Rating=10V to Part C69
+Update Managed Component C63 From CMP-001-00061-2[0.1 uF] To CMP-001-00061-2[Capacitor 100nF +/-20% 10V 0402] in Ethernet.SchDoc
+Update Managed Component C65 From CMP-001-00061-2[0.1 uF] To CMP-001-00061-2[Capacitor 100nF +/-20% 10V 0402] in Ethernet.SchDoc
+Update Managed Component C66 From CMP-001-00061-2[0.1 uF] To CMP-001-00061-2[Capacitor 100nF +/-20% 10V 0402] in Ethernet.SchDoc
+Update Managed Component C67 From CMP-001-00061-2[0.1 uF] To CMP-001-00061-2[Capacitor 100nF +/-20% 10V 0402] in Ethernet.SchDoc
+Update Managed Component C68 From CMP-001-00061-2[0.1 uF] To CMP-001-00061-2[Capacitor 100nF +/-20% 10V 0402] in Ethernet.SchDoc
+Update Managed Component C69 From CMP-001-00061-2[0.1 uF] To CMP-001-00061-2[Capacitor 100nF +/-20% 10V 0402] in Ethernet.SchDoc

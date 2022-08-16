@@ -1,0 +1,52 @@
+Removed Parameter Case/Package:0402 from Part C43
+Removed Parameter Case Code (Imperial):0402 from Part C43
+Removed Parameter Case Code (Metric):1005 from Part C43
+Removed Parameter Datasheet URL:http://psearch.en.murata.com/capacitor/product/GRM155R71C104KA88%23.pdf from Part C43
+Removed Parameter Datasheet Version:42675.0 from Part C43
+Removed Parameter Depth:0.5mm from Part C43
+Removed Parameter Dielectric:X7R from Part C43
+Removed Parameter Dielectric Material:Ceramic from Part C43
+Removed Parameter Insulation Resistance:10GR from Part C43
+Removed Parameter Length:1mm from Part C43
+Removed Parameter Manufacturer URL:http://www.murata.com/ from Part C43
+Removed Parameter Max Operating Temperature:125degC from Part C43
+Removed Parameter Min Operating Temperature:-55degC from Part C43
+Removed Parameter Mount:SurfaceMount from Part C43
+Removed Parameter Number of Pins:2 from Part C43
+Removed Parameter Package Description:2-Pin Surface Mount Device, Body 1 x 0.5 mm from Part C43
+Removed Parameter Package Quantity:1 from Part C43
+Removed Parameter Package Reference:0402 from Part C43
+Removed Parameter Packaging:TapeandReel from Part C43
+Removed Parameter Radiation Hardening:No from Part C43
+Removed Parameter REACH SVHC:NoSVHC from Part C43
+Removed Parameter RoHSCompliant:true from Part C43
+Removed Parameter Termination:SMD/SMT from Part C43
+Removed Parameter Thickness:0.022inch from Part C43
+Removed Parameter Voltage:16V from Part C43
+Removed Parameter Voltage Rating (DC):16V from Part C43
+Removed Parameter Width:0.5mm from Part C43
+Change Value of Parameter Capacitance in Part C43 Old=100nF New=0.10µF
+Change Component Parameter Description in C43 Old=Chip Capacitor, 0.1 uF, +/- 10%, 16 V, -55 to 125 degC, 0402 (1005 Metric), RoHS, Tape and Reel New=CAP Ceramic 0.10µF 10% X7R 16Vdc 0402 SMD
+Change Value of Parameter Height in Part C43 Old=0.5mm New=0.55mm
+Change Value of Parameter Lead Free in Part C43 Old=LeadFree New=yes
+Change Value of Parameter Voltage Rating in Part C43 Old=16V New=16Vdc
+Added Parameter Category=Cap to Part C43
+Added Parameter ComponentLink2Description=Datasheet to Part C43
+Added Parameter ComponentLink2URL=https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R71H471KA01-01A.pdf to Part C43
+Added Parameter Device Class L1=Passive Components to Part C43
+Added Parameter Device Class L2=Capacitors to Part C43
+Added Parameter Device Class L3=Ceramic Capacitors to Part C43
+Added Parameter Digikey Description=CAP CER 0.1UF 16V X7R 0402 to Part C43
+Added Parameter Ipc Land Pattern Name=CAPC10050X219 to Part C43
+Added Parameter Manufacturer Part Number=GRM155R71C104KA88D to Part C43
+Added Parameter Mouser Description=0402 0.1 uF 16V ±10 % Tolerance X7R SMT Multilayer Ceramic Capacitor to Part C43
+Added Parameter Octopart=https://octopart.com/grm155r71c104ka88d-murata-196880 to Part C43
+Added Parameter Package=GRM15 to Part C43
+Added Parameter RoHS=TRUE to Part C43
+Added Parameter Standoff Height=0mm to Part C43
+Added Parameter Temperature=-55°C to +125°C to Part C43
+Added Parameter Temperature Characteristic=X7R to Part C43
+Added Parameter Temperature Range High=+125°C to Part C43
+Added Parameter Temperature Range Low=-55°C to Part C43
+Added Parameter Value=0.10µF to Part C43
+Update Managed Component C43 From CMP-2100-03641-2[0.1 uF] To CMP-2100-03641-2[GRM155R71C104KA88D] in Magnetometer_Channel.SchDoc

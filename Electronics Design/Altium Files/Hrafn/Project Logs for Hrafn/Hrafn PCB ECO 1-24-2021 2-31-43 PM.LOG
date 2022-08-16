@@ -1,0 +1,88 @@
+Added Component: Designator=U26(AD7779)
+Add component (AddParameter): Name = "Category"; Value = "Analog to Digital Converters (ADCs)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.mouser.com/ds/2/609/AD7779-907534.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.mouser.com/ds/2/609/AD7779-907534.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.farnell.com/datasheets/2251075.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.farnell.com/datasheets/2251075.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "http://www.farnell.com/datasheets/2170257.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.farnell.com/datasheets/2170257.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "http://www.analog.com/media/en/technical-documentation/data-sheets/AD7779.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "http://www.analog.com/media/en/technical-documentation/data-sheets/AD7779.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "Serial,SPI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Contains Lead"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "AD7779ACPZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "3.6V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "2.2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of A/D Converters"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Bits"; Value = "24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Inputs"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "64"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=13.27000, 10=12.19800, 25=11.69200, 100=9.79600, 250=9.16400, 500=8.53200, 1000=8.40560 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resolution"; Value = "24b"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sampling Rate"; Value = "16000S/s"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "259"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "AD7779ACPZ-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AGND Pin=U26-0
+Added Pin To Net: NetName=AGND Pin=U26-0
+Added Pin To Net: NetName=AGND Pin=U26-0
+Added Pin To Net: NetName=AGND Pin=U26-0
+Added Pin To Net: NetName=NetC110A_1 Pin=U26-1
+Added Pin To Net: NetName=NetC110A_2 Pin=U26-2
+Added Pin To Net: NetName=NetC110B_1 Pin=U26-3
+Added Pin To Net: NetName=NetC110B_2 Pin=U26-4
+Added Pin To Net: NetName=AGND Pin=U26-5
+Added Pin To Net: NetName=A3V3 Pin=U26-6
+Added Pin To Net: NetName=NetC110C_1 Pin=U26-9
+Added Pin To Net: NetName=NetC110C_2 Pin=U26-10
+Added Pin To Net: NetName=NetC110D_1 Pin=U26-11
+Added Pin To Net: NetName=NetC110D_2 Pin=U26-12
+Added Pin To Net: NetName=NetR124_1 Pin=U26-13
+Added Pin To Net: NetName=NetR125_1 Pin=U26-14
+Added Pin To Net: NetName=NetR126_1 Pin=U26-15
+Added Pin To Net: NetName=MAG_ALERT Pin=U26-16
+Added Pin To Net: NetName=NetR127_1 Pin=U26-17
+Added Pin To Net: NetName=MAG_CSb Pin=U26-18
+Added Pin To Net: NetName=SCLK1 Pin=U26-19
+Added Pin To Net: NetName=MOSI1 Pin=U26-20
+Added Pin To Net: NetName=MISO1 Pin=U26-21
+Added Pin To Net: NetName=AGND Pin=U26-22
+Added Pin To Net: NetName=NetC102_2 Pin=U26-23
+Added Pin To Net: NetName=D3V3 Pin=U26-24
+Added Pin To Net: NetName=MAG_DRDYb Pin=U26-30
+Added Pin To Net: NetName=AGND Pin=U26-31
+Added Pin To Net: NetName=NetR129_2 Pin=U26-32
+Added Pin To Net: NetName=MAG_STARTb Pin=U26-33
+Added Pin To Net: NetName=NetR128_2 Pin=U26-34
+Added Pin To Net: NetName=NetR128_1 Pin=U26-35
+Added Pin To Net: NetName=MAG_RESETb Pin=U26-36
+Added Pin To Net: NetName=NetC110H_2 Pin=U26-37
+Added Pin To Net: NetName=NetC110H_1 Pin=U26-38
+Added Pin To Net: NetName=NetC110G_2 Pin=U26-39
+Added Pin To Net: NetName=NetC110G_1 Pin=U26-40
+Added Pin To Net: NetName=A3V3 Pin=U26-43
+Added Pin To Net: NetName=AGND Pin=U26-44
+Added Pin To Net: NetName=NetC110F_2 Pin=U26-45
+Added Pin To Net: NetName=NetC110F_1 Pin=U26-46
+Added Pin To Net: NetName=NetC110E_2 Pin=U26-47
+Added Pin To Net: NetName=NetC110E_1 Pin=U26-48
+Added Pin To Net: NetName=NetC105_2 Pin=U26-49
+Added Pin To Net: NetName=AGND Pin=U26-50
+Added Pin To Net: NetName=NetC103_2 Pin=U26-51
+Added Pin To Net: NetName=A3V3 Pin=U26-52
+Added Pin To Net: NetName=AGND Pin=U26-53
+Added Pin To Net: NetName=NetR121_1 Pin=U26-54
+Added Pin To Net: NetName=NetR122_1 Pin=U26-55
+Added Pin To Net: NetName=NetR123_1 Pin=U26-56
+Added Pin To Net: NetName=A3V3 Pin=U26-58
+Added Pin To Net: NetName=NetC104_2 Pin=U26-59
+Added Pin To Net: NetName=AGND Pin=U26-60
+Added Pin To Net: NetName=AGND Pin=U26-61
+Added Pin To Net: NetName=A3V3 Pin=U26-62
+Added Member To Class: ClassName=U_Magnetometers Member=Component U26 AD7779

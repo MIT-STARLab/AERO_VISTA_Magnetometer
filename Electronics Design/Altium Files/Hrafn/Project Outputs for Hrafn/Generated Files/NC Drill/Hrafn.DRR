@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Hrafn.PcbDoc   6/24/2021  1:50:27 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Hrafn-RoundHoles.TXT
+ASCII SlotHoles File : Hrafn-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             8         PTH        0.00inch (0.00mm)
+T2      10mil (0.25mm)                                            Round             36        PTH        0.00inch (0.00mm)
+T3      10mil (0.254mm)                                           Round             1122      PTH        0.00inch (0.00mm)
+T4      22mil (0.55mm)                                            Round             50        PTH        0.00inch (0.00mm)
+T5      32mil (0.813mm)         +/-3mil (0.076mm)                 Round             39        PTH        0.00inch (0.00mm)
+T6      32mil (0.813mm)         +/-3mil (0.076mm)                 Slot              1         PTH        0.00inch (0.00mm)
+T7      39mil (1mm)                                               Slot              10        NPTH       0.00inch (0.00mm)
+T8      100mil (2.54mm)                                           Round             16        NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              1282
+
+Total Processing Time (hh:mm:ss) : 00:00:02

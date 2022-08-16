@@ -1,0 +1,33 @@
+Removed Parameter Manufacturer:Vishay Dale from Part R103
+Removed Parameter Part Number:CRCW040220K0FKED from Part R103
+Change Value of Parameter Resistance in Part R103 Old=220 O New=20kR
+Added Parameter Case/Package=0402 to Part R103
+Added Parameter Case Code (Imperial)=0402 to Part R103
+Added Parameter Case Code (Metric)=1005 to Part R103
+Added Parameter Composition=Thick Film to Part R103
+Added Parameter Contact Plating=Tin to Part R103
+Added Parameter Depth=0.5mm to Part R103
+Added Parameter Features=Automotive AEC-Q200 to Part R103
+Added Parameter Height=0.35mm to Part R103
+Added Parameter Lead Free=Lead Free to Part R103
+Added Parameter Length=1mm to Part R103
+Added Parameter Max Operating Temperature=155°C to Part R103
+Added Parameter Max Power Dissipation=63mW to Part R103
+Added Parameter Military Standard=Not to Part R103
+Added Parameter Min Operating Temperature=-55°C to Part R103
+Added Parameter Mount=Surface Mount to Part R103
+Added Parameter Number of Pins=2 to Part R103
+Added Parameter Number of Terminations=2 to Part R103
+Added Parameter Package Quantity=10 to Part R103
+Added Parameter Packaging=Tape and Reel to Part R103
+Added Parameter Power Rating=63mW to Part R103
+Added Parameter Radiation Hardening=No to Part R103
+Added Parameter Temperature Coefficient=100ppm/°C to Part R103
+Added Parameter Termination=SMD/SMT to Part R103
+Added Parameter Tolerance=1% to Part R103
+Added Parameter Voltage Rating (DC)=50V to Part R103
+Added Parameter Voltage Rating=50V to Part R103
+Added Parameter Weight=2.3E-05oz to Part R103
+Added Parameter Width=0.5mm to Part R103
+Added Parameter Working Voltage=50V to Part R103
+Update Managed Component R103 From CMP-2002-08356-2[220 O] To CMP-2002-08356-2[CRCW040220K0FKED] in Ethernet.SchDoc

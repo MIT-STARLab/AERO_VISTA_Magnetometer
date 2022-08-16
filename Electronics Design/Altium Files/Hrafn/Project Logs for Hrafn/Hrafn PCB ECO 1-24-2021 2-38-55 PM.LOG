@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=L1 Old Footprint=CDRH125 - duplicate New Footprint=CDRH125
+Added Pin To Net: NetName=NetC24_1 Pin=L1-0

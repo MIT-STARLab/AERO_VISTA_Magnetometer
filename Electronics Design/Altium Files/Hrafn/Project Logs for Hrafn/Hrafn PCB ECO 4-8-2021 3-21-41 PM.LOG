@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=Vsr Pin=C39B-1
+Removed Pin From Net: NetName=Vsr Pin=Q2B-2
+Removed Pin From Net: NetName=Vsr Pin=Q3B-2
+Removed Pin From Net: NetName=Vsr Pin=R81B-1
+Change Net Name : Old Net Name=Vsr New Net Name=VsrA
+Added Pin To Net: NetName=VsrB Pin=C39B-1
+Added Pin To Net: NetName=VsrB Pin=Q2B-2
+Added Pin To Net: NetName=VsrB Pin=Q3B-2
+Added Pin To Net: NetName=VsrB Pin=R81B-1
+Added Net: Name=VsrB
+Added Room: Name=LCF
+Added Room: Name=MC1
+Added Room: Name=MC2
+Added Room: Name=MF1
+Added Room: Name=MF2
+Added Room: Name=MF3
+Added Room: Name=MF4
+Added Room: Name=MF5
+Added Room: Name=MF6
+Added Room: Name=MF7
+Added Room: Name=MF8
+Added Room: Name=U_CAN_Bus
+Added Room: Name=U_Clock
+Added Room: Name=U_Ethernet
+Added Room: Name=U_Hrafn_Top
+Added Room: Name=U_Magnetometers
+Added Room: Name=U_Power_HK

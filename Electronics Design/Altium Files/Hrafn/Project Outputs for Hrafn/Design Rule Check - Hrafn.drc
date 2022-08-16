@@ -1,0 +1,147 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Public\Documents\Altium\Projects\Hrafn\Hrafn.PcbDoc
+Date     : 8/27/2021
+Time     : 2:27:34 PM
+
+Processing Rule : Clearance Constraint (Gap=0.152mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.127mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.152mm) (OnLayer('High Speed Bottom') Or OnLayer('High Speed Top')),(InNet('GND'))
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.093mm) (Max=0.441mm) (Preferred=0.381mm) (InNetClass('50S'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.152mm) (Max=0.762mm) (Preferred=0.203mm) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.152mm) (Max=2.54mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.305mm) (Conductor Width=0.254mm) (Air Gap=0.203mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.254mm) (Conductor Width=0.203mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.178mm) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.102mm) (IsVia)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.152mm) (Max=25.4mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.203mm) (Max=6.375mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.076mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.076mm) ((IsVia OR InPadClass('All Pads'))),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.127mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=1.27mm) (InDifferentialPairClass('RS422'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=1.27mm) (InDifferentialPairClass('ETH'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=1.27mm) (InDifferentialPairClass('LVDS'))
+Rule Violations :0
+
+Processing Rule : Room MC1 (Bounding Region = (30.977mm, 63.496mm, 52.96mm, 100.727mm) (InComponentClass('MC1'))
+Rule Violations :0
+
+Processing Rule : Room MF3 (Bounding Region = (38.005mm, 78.152mm, 40.263mm, 83.46mm) (InComponentClass('MF3'))
+Rule Violations :0
+
+Processing Rule : Room MF2 (Bounding Region = (35.605mm, 78.178mm, 37.863mm, 83.486mm) (InComponentClass('MF2'))
+Rule Violations :0
+
+Processing Rule : Room MF8 (Bounding Region = (78.13mm, 77.851mm, 83.464mm, 80.137mm) (InComponentClass('MF8'))
+Rule Violations :0
+
+Processing Rule : Room MF6 (Bounding Region = (73.025mm, 77.927mm, 75.311mm, 83.261mm) (InComponentClass('MF6'))
+Rule Violations :0
+
+Processing Rule : Room MF7 (Bounding Region = (75.565mm, 77.927mm, 77.851mm, 83.261mm) (InComponentClass('MF7'))
+Rule Violations :0
+
+Processing Rule : Room MC2 (Bounding Region = (64.643mm, 63.525mm, 87.173mm, 101.016mm) (InComponentClass('MC2'))
+Rule Violations :0
+
+Processing Rule : Room MF5 (Bounding Region = (70.46mm, 77.927mm, 72.746mm, 83.261mm) (InComponentClass('MF5'))
+Rule Violations :0
+
+Processing Rule : Room MF4 (Bounding Region = (40.489mm, 77.462mm, 45.797mm, 79.72mm) (InComponentClass('MF4'))
+Rule Violations :0
+
+Processing Rule : Room U_CAN_Bus (Bounding Region = (66.214mm, 14.949mm, 84.2mm, 64.662mm) (InComponentClass('U_CAN_Bus'))
+Rule Violations :0
+
+Processing Rule : Room U_Clock (Bounding Region = (43.9mm, 14.899mm, 74.386mm, 60.229mm) (InComponentClass('U_Clock'))
+Rule Violations :0
+
+Processing Rule : Room LCF (Bounding Region = (37.096mm, 57.551mm, 46.929mm, 63.934mm) (InComponentClass('LCF'))
+Rule Violations :0
+
+Processing Rule : Room MF1 (Bounding Region = (33.13mm, 78.152mm, 35.388mm, 83.46mm) (InComponentClass('MF1'))
+Rule Violations :0
+
+Processing Rule : Room U_Magnetometers (Bounding Region = (51.203mm, 73.692mm, 68.227mm, 102.178mm) (InComponentClass('U_Magnetometers'))
+Rule Violations :0
+
+Processing Rule : Room U_Power_HK (Bounding Region = (19.076mm, 14.924mm, 94.565mm, 94.805mm) (InComponentClass('U_Power_HK'))
+Rule Violations :0
+
+Processing Rule : Room U_Ethernet (Bounding Region = (82.905mm, 14.939mm, 99.315mm, 68.951mm) (InComponentClass('U_Ethernet'))
+Rule Violations :0
+
+Processing Rule : Room U_Hrafn_Top (Bounding Region = (27.255mm, 30.073mm, 89.968mm, 47.824mm) (InComponentClass('U_Hrafn_Top'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:07

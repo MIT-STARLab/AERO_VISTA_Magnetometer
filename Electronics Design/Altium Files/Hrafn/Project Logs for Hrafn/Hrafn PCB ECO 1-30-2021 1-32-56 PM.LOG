@@ -1,0 +1,72 @@
+Change Component Footprint: Designator=C4 Old Footprint=CAPC5750X28M New Footprint=FP-CGA6P-IPC_B
+Change Component Footprint: Designator=C5 Old Footprint=CAPC5750X28M New Footprint=FP-CGA6P-IPC_B
+Change Component Footprint: Designator=C3 Old Footprint=FP-CGA9P-IPC_A New Footprint=FP-CGA6P-IPC_B
+Change Component Footprint: Designator=C15 Old Footprint=FP-CGA9P-IPC_A New Footprint=FP-CGA6P-IPC_B
+Change Component Footprint: Designator=C60 Old Footprint=FP-CGA9P-IPC_A New Footprint=FP-CGA6P-IPC_B
+Change Component Footprint: Designator=C85 Old Footprint=FP-CGA9P-IPC_A New Footprint=FP-CGA6P-IPC_B
+Change Component Footprint: Designator=C96 Old Footprint=FP-CGA9P-IPC_A New Footprint=FP-CGA6P-IPC_B
+Change Component Footprint: Designator=C99 Old Footprint=FP-CGA9P-IPC_A New Footprint=FP-CGA6P-IPC_B
+Change Component Footprint: Designator=C109 Old Footprint=FP-CGA9P-IPC_A New Footprint=FP-CGA6P-IPC_B
+Change Component Comment : Designator=C3 Old Comment=CGA9N3X7R1C476M230KB New Comment=CGA6P1X7S1A476M250AC
+Change Component Comment : Designator=C15 Old Comment=CGA9N3X7R1C476M230KB New Comment=CGA6P1X7S1A476M250AC
+Change Component Comment : Designator=C60 Old Comment=CGA9N3X7R1C476M230KB New Comment=CGA6P1X7S1A476M250AC
+Change Component Comment : Designator=C85 Old Comment=CGA9N3X7R1C476M230KB New Comment=CGA6P1X7S1A476M250AC
+Change Component Comment : Designator=C96 Old Comment=CGA9N3X7R1C476M230KB New Comment=CGA6P1X7S1A476M250AC
+Change Component Comment : Designator=C99 Old Comment=CGA9N3X7R1C476M230KB New Comment=CGA6P1X7S1A476M250AC
+Change Component Comment : Designator=C109 Old Comment=CGA9N3X7R1C476M230KB New Comment=CGA6P1X7S1A476M250AC
+Change Component Comment : Designator=C4 Old Comment=CGA9N3X7R1E476M230KB New Comment=CGA6P1X7S1A476M250AC
+Change Component Comment : Designator=C5 Old Comment=CGA9N3X7R1E476M230KB New Comment=CGA6P1X7S1A476M250AC
+Change Managed Component Library Link : Designator=C3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=857548E7-8937-4336-A826-52D1CC87494B New ItemGUID=725AB064-C950-4D91-9F4E-8C93EA2B3460 Old RevisionGUID=3AE9DBAD-7BEA-4F04-B623-80AA7BE80C0C New RevisionGUID=63C1A005-91D5-41CB-A186-57FA8BF67622
+Change Managed Component Library Link : Designator=C15 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=857548E7-8937-4336-A826-52D1CC87494B New ItemGUID=725AB064-C950-4D91-9F4E-8C93EA2B3460 Old RevisionGUID=3AE9DBAD-7BEA-4F04-B623-80AA7BE80C0C New RevisionGUID=63C1A005-91D5-41CB-A186-57FA8BF67622
+Change Managed Component Library Link : Designator=C60 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=857548E7-8937-4336-A826-52D1CC87494B New ItemGUID=725AB064-C950-4D91-9F4E-8C93EA2B3460 Old RevisionGUID=3AE9DBAD-7BEA-4F04-B623-80AA7BE80C0C New RevisionGUID=63C1A005-91D5-41CB-A186-57FA8BF67622
+Change Managed Component Library Link : Designator=C85 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=857548E7-8937-4336-A826-52D1CC87494B New ItemGUID=725AB064-C950-4D91-9F4E-8C93EA2B3460 Old RevisionGUID=3AE9DBAD-7BEA-4F04-B623-80AA7BE80C0C New RevisionGUID=63C1A005-91D5-41CB-A186-57FA8BF67622
+Change Managed Component Library Link : Designator=C96 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=857548E7-8937-4336-A826-52D1CC87494B New ItemGUID=725AB064-C950-4D91-9F4E-8C93EA2B3460 Old RevisionGUID=3AE9DBAD-7BEA-4F04-B623-80AA7BE80C0C New RevisionGUID=63C1A005-91D5-41CB-A186-57FA8BF67622
+Change Managed Component Library Link : Designator=C99 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=857548E7-8937-4336-A826-52D1CC87494B New ItemGUID=725AB064-C950-4D91-9F4E-8C93EA2B3460 Old RevisionGUID=3AE9DBAD-7BEA-4F04-B623-80AA7BE80C0C New RevisionGUID=63C1A005-91D5-41CB-A186-57FA8BF67622
+Change Managed Component Library Link : Designator=C109 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=857548E7-8937-4336-A826-52D1CC87494B New ItemGUID=725AB064-C950-4D91-9F4E-8C93EA2B3460 Old RevisionGUID=3AE9DBAD-7BEA-4F04-B623-80AA7BE80C0C New RevisionGUID=63C1A005-91D5-41CB-A186-57FA8BF67622
+Change Managed Component Library Link : Designator=C4 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=725AB064-C950-4D91-9F4E-8C93EA2B3460 Old RevisionGUID= New RevisionGUID=63C1A005-91D5-41CB-A186-57FA8BF67622
+Change Managed Component Library Link : Designator=C5 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=725AB064-C950-4D91-9F4E-8C93EA2B3460 Old RevisionGUID= New RevisionGUID=63C1A005-91D5-41CB-A186-57FA8BF67622
+Change component parameters: Designator = "C4" ("C4"); Footprint = "CAPC5750X28M"; UniqueID = "\XSCYCGRR\RQVNQEXO\BRNWOTME" ("\XSCYCGRR\RQVNQEXO\BRNWOTME")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "47 uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "10 V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "CAPC5750X28M"; UniqueID = "\XSCYCGRR\RQVNQEXO\HMDYWCIL" ("\XSCYCGRR\RQVNQEXO\HMDYWCIL")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "47 uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "10 V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "FP-CGA9P-IPC_A"; UniqueID = "\XSCYCGRR\RHKLDKXQ" ("\XSCYCGRR\RHKLDKXQ")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "47 uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "10 V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C15" ("C15"); Footprint = "FP-CGA9P-IPC_A"; UniqueID = "\XSCYCGRR\RQVNQEXO\RSTUJIDA" ("\XSCYCGRR\RQVNQEXO\RSTUJIDA")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "47 uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "10 V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C60" ("C60"); Footprint = "FP-CGA9P-IPC_A"; UniqueID = "\XSCYCGRR\RQVNQEXO\UJCTWYXC" ("\XSCYCGRR\RQVNQEXO\UJCTWYXC")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "47 uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "10 V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C85" ("C85"); Footprint = "FP-CGA9P-IPC_A"; UniqueID = "\XSCYCGRR\GIJUCJGC\HFZLQSQP" ("\XSCYCGRR\GIJUCJGC\HFZLQSQP")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "47 uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "10 V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C96" ("C96"); Footprint = "FP-CGA9P-IPC_A"; UniqueID = "\XSCYCGRR\VERKDXRB\CPJQNEEH" ("\XSCYCGRR\VERKDXRB\CPJQNEEH")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "10 uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "10 V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C99" ("C99"); Footprint = "FP-CGA9P-IPC_A"; UniqueID = "\XSCYCGRR\TELXTRJF\IYWHZFFA" ("\XSCYCGRR\TELXTRJF\IYWHZFFA")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "10 uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "10 V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C109" ("C109"); Footprint = "FP-CGA9P-IPC_A"; UniqueID = "\XSCYCGRR\TELXTRJF\WTJWEONY" ("\XSCYCGRR\TELXTRJF\WTJWEONY")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "47 uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "10 V"; VariantName = "[No Variations]"

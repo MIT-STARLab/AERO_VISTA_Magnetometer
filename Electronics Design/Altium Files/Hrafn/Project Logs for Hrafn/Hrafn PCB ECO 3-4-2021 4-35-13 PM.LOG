@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=D3V3 Pin=FB4-1
+Removed Pin From Net: NetName=DGND Pin=R44-1
+Removed Pin From Net: NetName=CAN_INT Pin=R44-2
+Removed Pin From Net: NetName=D3V3 Pin=U24-17
+Change Component Footprint: Designator=FL1 Old Footprint=FIL_BNX028-01L New Footprint=FIL_BNX028-01L - small
+Added Component: Designator=R103(RESC1005X40X25LL05T05)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW040220K0FKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "220 O"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=D5V Pin=FB4-1
+Added Pin To Net: NetName=CAN_INT Pin=R44-1
+Added Pin To Net: NetName=D3V3 Pin=R44-2
+Added Pin To Net: NetName=D3V3 Pin=R103-1
+Added Pin To Net: NetName=NetR103_2 Pin=R103-2
+Added Pin To Net: NetName=NetR103_2 Pin=U24-17
+Added Net: Name=NetR103_2
+Added Member To Class: ClassName=U_CAN_Bus Member=Component R103 220 O

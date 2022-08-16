@@ -1,0 +1,204 @@
+Removed Parameter Case-EIA:0402 from Part C63
+Removed Parameter Case-EIA:0402 from Part C65
+Removed Parameter Case-EIA:0402 from Part C66
+Removed Parameter Case-EIA:0402 from Part C67
+Removed Parameter Case-EIA:0402 from Part C68
+Removed Parameter Case-EIA:0402 from Part C69
+Removed Parameter Case-Metric:1005 from Part C63
+Removed Parameter Case-Metric:1005 from Part C65
+Removed Parameter Case-Metric:1005 from Part C66
+Removed Parameter Case-Metric:1005 from Part C67
+Removed Parameter Case-Metric:1005 from Part C68
+Removed Parameter Case-Metric:1005 from Part C69
+Removed Parameter Max Thickness:0.6 mm from Part C63
+Removed Parameter Max Thickness:0.6 mm from Part C65
+Removed Parameter Max Thickness:0.6 mm from Part C66
+Removed Parameter Max Thickness:0.6 mm from Part C67
+Removed Parameter Max Thickness:0.6 mm from Part C68
+Removed Parameter Max Thickness:0.6 mm from Part C69
+Removed Parameter Rated Voltage:16 V from Part C63
+Removed Parameter Rated Voltage:16 V from Part C65
+Removed Parameter Rated Voltage:16 V from Part C66
+Removed Parameter Rated Voltage:16 V from Part C67
+Removed Parameter Rated Voltage:16 V from Part C68
+Removed Parameter Rated Voltage:16 V from Part C69
+Removed Parameter Technology:SMT from Part C63
+Removed Parameter Technology:SMT from Part C65
+Removed Parameter Technology:SMT from Part C66
+Removed Parameter Technology:SMT from Part C67
+Removed Parameter Technology:SMT from Part C68
+Removed Parameter Technology:SMT from Part C69
+Change Component Parameter Description in C69 Old=CAP 100nF 16V ±5% 0402 (1005 Metric) Thickness 0.6mm SMD New=C0402 0.10 µF X7R 5.00% 16 V
+Change Component Parameter Description in C68 Old=CAP 100nF 16V ±5% 0402 (1005 Metric) Thickness 0.6mm SMD New=C0402 0.10 µF X7R 5.00% 16 V
+Change Component Parameter Description in C67 Old=CAP 100nF 16V ±5% 0402 (1005 Metric) Thickness 0.6mm SMD New=C0402 0.10 µF X7R 5.00% 16 V
+Change Component Parameter Description in C66 Old=CAP 100nF 16V ±5% 0402 (1005 Metric) Thickness 0.6mm SMD New=C0402 0.10 µF X7R 5.00% 16 V
+Change Component Parameter Description in C65 Old=CAP 100nF 16V ±5% 0402 (1005 Metric) Thickness 0.6mm SMD New=C0402 0.10 µF X7R 5.00% 16 V
+Change Component Parameter Description in C63 Old=CAP 100nF 16V ±5% 0402 (1005 Metric) Thickness 0.6mm SMD New=C0402 0.10 µF X7R 5.00% 16 V
+Change Value of Parameter Tolerance in Part C69 Old=Â±5% New=0.05
+Change Value of Parameter Tolerance in Part C68 Old=Â±5% New=0.05
+Change Value of Parameter Tolerance in Part C67 Old=Â±5% New=0.05
+Change Value of Parameter Tolerance in Part C66 Old=Â±5% New=0.05
+Change Value of Parameter Tolerance in Part C65 Old=Â±5% New=0.05
+Change Value of Parameter Tolerance in Part C63 Old=Â±5% New=0.05
+Change Value of Parameter Value in Part C69 Old=100nF New=0.10 µF
+Change Value of Parameter Value in Part C68 Old=100nF New=0.10 µF
+Change Value of Parameter Value in Part C67 Old=100nF New=0.10 µF
+Change Value of Parameter Value in Part C66 Old=100nF New=0.10 µF
+Change Value of Parameter Value in Part C65 Old=100nF New=0.10 µF
+Change Value of Parameter Value in Part C63 Old=100nF New=0.10 µF
+Added Parameter Automotive=No to Part C63
+Added Parameter Automotive=No to Part C65
+Added Parameter Automotive=No to Part C66
+Added Parameter Automotive=No to Part C67
+Added Parameter Automotive=No to Part C68
+Added Parameter Automotive=No to Part C69
+Added Parameter Capacitance=0.10 µF to Part C63
+Added Parameter Capacitance=0.10 µF to Part C65
+Added Parameter Capacitance=0.10 µF to Part C66
+Added Parameter Capacitance=0.10 µF to Part C67
+Added Parameter Capacitance=0.10 µF to Part C68
+Added Parameter Capacitance=0.10 µF to Part C69
+Added Parameter Category=Cap to Part C63
+Added Parameter Category=Cap to Part C65
+Added Parameter Category=Cap to Part C66
+Added Parameter Category=Cap to Part C67
+Added Parameter Category=Cap to Part C68
+Added Parameter Category=Cap to Part C69
+Added Parameter ComponentLink2Description=Datasheet to Part C63
+Added Parameter ComponentLink2Description=Datasheet to Part C65
+Added Parameter ComponentLink2Description=Datasheet to Part C66
+Added Parameter ComponentLink2Description=Datasheet to Part C67
+Added Parameter ComponentLink2Description=Datasheet to Part C68
+Added Parameter ComponentLink2Description=Datasheet to Part C69
+Added Parameter ComponentLink2URL=https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf to Part C63
+Added Parameter ComponentLink2URL=https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf to Part C65
+Added Parameter ComponentLink2URL=https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf to Part C66
+Added Parameter ComponentLink2URL=https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf to Part C67
+Added Parameter ComponentLink2URL=https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf to Part C68
+Added Parameter ComponentLink2URL=https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf to Part C69
+Added Parameter Device Class L1=Passive Components to Part C63
+Added Parameter Device Class L1=Passive Components to Part C65
+Added Parameter Device Class L1=Passive Components to Part C66
+Added Parameter Device Class L1=Passive Components to Part C67
+Added Parameter Device Class L1=Passive Components to Part C68
+Added Parameter Device Class L1=Passive Components to Part C69
+Added Parameter Device Class L2=Capacitors to Part C63
+Added Parameter Device Class L2=Capacitors to Part C65
+Added Parameter Device Class L2=Capacitors to Part C66
+Added Parameter Device Class L2=Capacitors to Part C67
+Added Parameter Device Class L2=Capacitors to Part C68
+Added Parameter Device Class L2=Capacitors to Part C69
+Added Parameter Device Class L3=Ceramic Capacitors to Part C63
+Added Parameter Device Class L3=Ceramic Capacitors to Part C65
+Added Parameter Device Class L3=Ceramic Capacitors to Part C66
+Added Parameter Device Class L3=Ceramic Capacitors to Part C67
+Added Parameter Device Class L3=Ceramic Capacitors to Part C68
+Added Parameter Device Class L3=Ceramic Capacitors to Part C69
+Added Parameter Digikey Description=CAP CER 0.1UF 16V 5% X7R 0402 to Part C63
+Added Parameter Digikey Description=CAP CER 0.1UF 16V 5% X7R 0402 to Part C65
+Added Parameter Digikey Description=CAP CER 0.1UF 16V 5% X7R 0402 to Part C66
+Added Parameter Digikey Description=CAP CER 0.1UF 16V 5% X7R 0402 to Part C67
+Added Parameter Digikey Description=CAP CER 0.1UF 16V 5% X7R 0402 to Part C68
+Added Parameter Digikey Description=CAP CER 0.1UF 16V 5% X7R 0402 to Part C69
+Added Parameter Height=0.55mm to Part C63
+Added Parameter Height=0.55mm to Part C65
+Added Parameter Height=0.55mm to Part C66
+Added Parameter Height=0.55mm to Part C67
+Added Parameter Height=0.55mm to Part C68
+Added Parameter Height=0.55mm to Part C69
+Added Parameter Ipc Land Pattern Name=CAPC10050X50 to Part C63
+Added Parameter Ipc Land Pattern Name=CAPC10050X50 to Part C65
+Added Parameter Ipc Land Pattern Name=CAPC10050X50 to Part C66
+Added Parameter Ipc Land Pattern Name=CAPC10050X50 to Part C67
+Added Parameter Ipc Land Pattern Name=CAPC10050X50 to Part C68
+Added Parameter Ipc Land Pattern Name=CAPC10050X50 to Part C69
+Added Parameter Lead Free=Yes to Part C63
+Added Parameter Lead Free=Yes to Part C65
+Added Parameter Lead Free=Yes to Part C66
+Added Parameter Lead Free=Yes to Part C67
+Added Parameter Lead Free=Yes to Part C68
+Added Parameter Lead Free=Yes to Part C69
+Added Parameter Manufacturer=Kemet to Part C63
+Added Parameter Manufacturer=Kemet to Part C65
+Added Parameter Manufacturer=Kemet to Part C66
+Added Parameter Manufacturer=Kemet to Part C67
+Added Parameter Manufacturer=Kemet to Part C68
+Added Parameter Manufacturer=Kemet to Part C69
+Added Parameter Manufacturer Part Number=C0402C104J4RACTU to Part C63
+Added Parameter Manufacturer Part Number=C0402C104J4RACTU to Part C65
+Added Parameter Manufacturer Part Number=C0402C104J4RACTU to Part C66
+Added Parameter Manufacturer Part Number=C0402C104J4RACTU to Part C67
+Added Parameter Manufacturer Part Number=C0402C104J4RACTU to Part C68
+Added Parameter Manufacturer Part Number=C0402C104J4RACTU to Part C69
+Added Parameter Material=Ceramic to Part C63
+Added Parameter Material=Ceramic to Part C65
+Added Parameter Material=Ceramic to Part C66
+Added Parameter Material=Ceramic to Part C67
+Added Parameter Material=Ceramic to Part C68
+Added Parameter Material=Ceramic to Part C69
+Added Parameter Mouser Description=CAP CER 0.1UF 16V X7R 0402 to Part C63
+Added Parameter Mouser Description=CAP CER 0.1UF 16V X7R 0402 to Part C65
+Added Parameter Mouser Description=CAP CER 0.1UF 16V X7R 0402 to Part C66
+Added Parameter Mouser Description=CAP CER 0.1UF 16V X7R 0402 to Part C67
+Added Parameter Mouser Description=CAP CER 0.1UF 16V X7R 0402 to Part C68
+Added Parameter Mouser Description=CAP CER 0.1UF 16V X7R 0402 to Part C69
+Added Parameter Octopart=https://octopart.com/c0402c104j4ractu-kemet-12573893 to Part C63
+Added Parameter Octopart=https://octopart.com/c0402c104j4ractu-kemet-12573893 to Part C65
+Added Parameter Octopart=https://octopart.com/c0402c104j4ractu-kemet-12573893 to Part C66
+Added Parameter Octopart=https://octopart.com/c0402c104j4ractu-kemet-12573893 to Part C67
+Added Parameter Octopart=https://octopart.com/c0402c104j4ractu-kemet-12573893 to Part C68
+Added Parameter Octopart=https://octopart.com/c0402c104j4ractu-kemet-12573893 to Part C69
+Added Parameter Package=C0402-BB to Part C63
+Added Parameter Package=C0402-BB to Part C65
+Added Parameter Package=C0402-BB to Part C66
+Added Parameter Package=C0402-BB to Part C67
+Added Parameter Package=C0402-BB to Part C68
+Added Parameter Package=C0402-BB to Part C69
+Added Parameter RoHS=TRUE to Part C63
+Added Parameter RoHS=TRUE to Part C65
+Added Parameter RoHS=TRUE to Part C66
+Added Parameter RoHS=TRUE to Part C67
+Added Parameter RoHS=TRUE to Part C68
+Added Parameter RoHS=TRUE to Part C69
+Added Parameter Temperature=-55°C to +125°C to Part C63
+Added Parameter Temperature=-55°C to +125°C to Part C65
+Added Parameter Temperature=-55°C to +125°C to Part C66
+Added Parameter Temperature=-55°C to +125°C to Part C67
+Added Parameter Temperature=-55°C to +125°C to Part C68
+Added Parameter Temperature=-55°C to +125°C to Part C69
+Added Parameter Temperature Characteristic=X7R to Part C63
+Added Parameter Temperature Characteristic=X7R to Part C65
+Added Parameter Temperature Characteristic=X7R to Part C66
+Added Parameter Temperature Characteristic=X7R to Part C67
+Added Parameter Temperature Characteristic=X7R to Part C68
+Added Parameter Temperature Characteristic=X7R to Part C69
+Added Parameter Temperature Coefficient=15% to Part C63
+Added Parameter Temperature Coefficient=15% to Part C65
+Added Parameter Temperature Coefficient=15% to Part C66
+Added Parameter Temperature Coefficient=15% to Part C67
+Added Parameter Temperature Coefficient=15% to Part C68
+Added Parameter Temperature Coefficient=15% to Part C69
+Added Parameter Temperature Range High=+125°C to Part C63
+Added Parameter Temperature Range High=+125°C to Part C65
+Added Parameter Temperature Range High=+125°C to Part C66
+Added Parameter Temperature Range High=+125°C to Part C67
+Added Parameter Temperature Range High=+125°C to Part C68
+Added Parameter Temperature Range High=+125°C to Part C69
+Added Parameter Temperature Range Low=-55°C to Part C63
+Added Parameter Temperature Range Low=-55°C to Part C65
+Added Parameter Temperature Range Low=-55°C to Part C66
+Added Parameter Temperature Range Low=-55°C to Part C67
+Added Parameter Temperature Range Low=-55°C to Part C68
+Added Parameter Temperature Range Low=-55°C to Part C69
+Added Parameter Voltage Rating=16 V to Part C63
+Added Parameter Voltage Rating=16 V to Part C65
+Added Parameter Voltage Rating=16 V to Part C66
+Added Parameter Voltage Rating=16 V to Part C67
+Added Parameter Voltage Rating=16 V to Part C68
+Added Parameter Voltage Rating=16 V to Part C69
+Update Managed Component C63 From CMP-1034-02068-3[0.1 uF] To CMP-1034-02068-3[C0402C104J4RACTU] in Ethernet.SchDoc
+Update Managed Component C65 From CMP-1034-02068-3[0.1 uF] To CMP-1034-02068-3[C0402C104J4RACTU] in Ethernet.SchDoc
+Update Managed Component C66 From CMP-1034-02068-3[0.1 uF] To CMP-1034-02068-3[C0402C104J4RACTU] in Ethernet.SchDoc
+Update Managed Component C67 From CMP-1034-02068-3[0.1 uF] To CMP-1034-02068-3[C0402C104J4RACTU] in Ethernet.SchDoc
+Update Managed Component C68 From CMP-1034-02068-3[0.1 uF] To CMP-1034-02068-3[C0402C104J4RACTU] in Ethernet.SchDoc
+Update Managed Component C69 From CMP-1034-02068-3[0.1 uF] To CMP-1034-02068-3[C0402C104J4RACTU] in Ethernet.SchDoc

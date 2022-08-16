@@ -1,0 +1,297 @@
+Removed Parameter Manufacturer:Vishay Dale from Part R117
+Removed Parameter Manufacturer:Vishay Dale from Part R118
+Removed Parameter Manufacturer:Vishay Dale from Part R119
+Removed Parameter Manufacturer:Vishay Dale from Part R120
+Removed Parameter Manufacturer:Vishay Dale from Part R121
+Removed Parameter Manufacturer:Vishay Dale from Part R122
+Removed Parameter Manufacturer:Vishay Dale from Part R123
+Removed Parameter Manufacturer:Vishay Dale from Part R124
+Removed Parameter Manufacturer:Vishay Dale from Part R125
+Removed Parameter Part Number:CRCW040220K0FKED from Part R117
+Removed Parameter Part Number:CRCW040220K0FKED from Part R118
+Removed Parameter Part Number:CRCW040220K0FKED from Part R119
+Removed Parameter Part Number:CRCW040220K0FKED from Part R120
+Removed Parameter Part Number:CRCW040220K0FKED from Part R121
+Removed Parameter Part Number:CRCW040220K0FKED from Part R122
+Removed Parameter Part Number:CRCW040220K0FKED from Part R123
+Removed Parameter Part Number:CRCW040220K0FKED from Part R124
+Removed Parameter Part Number:CRCW040220K0FKED from Part R125
+Change Value of Parameter Resistance in Part R125 Old=220 O New=20kR
+Change Value of Parameter Resistance in Part R124 Old=220 O New=20kR
+Change Value of Parameter Resistance in Part R123 Old=220 O New=20kR
+Change Value of Parameter Resistance in Part R122 Old=220 O New=20kR
+Change Value of Parameter Resistance in Part R121 Old=220 O New=20kR
+Change Value of Parameter Resistance in Part R120 Old=220 O New=20kR
+Change Value of Parameter Resistance in Part R119 Old=220 O New=20kR
+Change Value of Parameter Resistance in Part R118 Old=220 O New=20kR
+Change Value of Parameter Resistance in Part R117 Old=220 O New=20kR
+Added Parameter Case/Package=0402 to Part R117
+Added Parameter Case/Package=0402 to Part R118
+Added Parameter Case/Package=0402 to Part R119
+Added Parameter Case/Package=0402 to Part R120
+Added Parameter Case/Package=0402 to Part R121
+Added Parameter Case/Package=0402 to Part R122
+Added Parameter Case/Package=0402 to Part R123
+Added Parameter Case/Package=0402 to Part R124
+Added Parameter Case/Package=0402 to Part R125
+Added Parameter Case Code (Imperial)=0402 to Part R117
+Added Parameter Case Code (Imperial)=0402 to Part R118
+Added Parameter Case Code (Imperial)=0402 to Part R119
+Added Parameter Case Code (Imperial)=0402 to Part R120
+Added Parameter Case Code (Imperial)=0402 to Part R121
+Added Parameter Case Code (Imperial)=0402 to Part R122
+Added Parameter Case Code (Imperial)=0402 to Part R123
+Added Parameter Case Code (Imperial)=0402 to Part R124
+Added Parameter Case Code (Imperial)=0402 to Part R125
+Added Parameter Case Code (Metric)=1005 to Part R117
+Added Parameter Case Code (Metric)=1005 to Part R118
+Added Parameter Case Code (Metric)=1005 to Part R119
+Added Parameter Case Code (Metric)=1005 to Part R120
+Added Parameter Case Code (Metric)=1005 to Part R121
+Added Parameter Case Code (Metric)=1005 to Part R122
+Added Parameter Case Code (Metric)=1005 to Part R123
+Added Parameter Case Code (Metric)=1005 to Part R124
+Added Parameter Case Code (Metric)=1005 to Part R125
+Added Parameter Composition=Thick Film to Part R117
+Added Parameter Composition=Thick Film to Part R118
+Added Parameter Composition=Thick Film to Part R119
+Added Parameter Composition=Thick Film to Part R120
+Added Parameter Composition=Thick Film to Part R121
+Added Parameter Composition=Thick Film to Part R122
+Added Parameter Composition=Thick Film to Part R123
+Added Parameter Composition=Thick Film to Part R124
+Added Parameter Composition=Thick Film to Part R125
+Added Parameter Contact Plating=Tin to Part R117
+Added Parameter Contact Plating=Tin to Part R118
+Added Parameter Contact Plating=Tin to Part R119
+Added Parameter Contact Plating=Tin to Part R120
+Added Parameter Contact Plating=Tin to Part R121
+Added Parameter Contact Plating=Tin to Part R122
+Added Parameter Contact Plating=Tin to Part R123
+Added Parameter Contact Plating=Tin to Part R124
+Added Parameter Contact Plating=Tin to Part R125
+Added Parameter Depth=0.5mm to Part R117
+Added Parameter Depth=0.5mm to Part R118
+Added Parameter Depth=0.5mm to Part R119
+Added Parameter Depth=0.5mm to Part R120
+Added Parameter Depth=0.5mm to Part R121
+Added Parameter Depth=0.5mm to Part R122
+Added Parameter Depth=0.5mm to Part R123
+Added Parameter Depth=0.5mm to Part R124
+Added Parameter Depth=0.5mm to Part R125
+Added Parameter Features=Automotive AEC-Q200 to Part R117
+Added Parameter Features=Automotive AEC-Q200 to Part R118
+Added Parameter Features=Automotive AEC-Q200 to Part R119
+Added Parameter Features=Automotive AEC-Q200 to Part R120
+Added Parameter Features=Automotive AEC-Q200 to Part R121
+Added Parameter Features=Automotive AEC-Q200 to Part R122
+Added Parameter Features=Automotive AEC-Q200 to Part R123
+Added Parameter Features=Automotive AEC-Q200 to Part R124
+Added Parameter Features=Automotive AEC-Q200 to Part R125
+Added Parameter Height=0.35mm to Part R117
+Added Parameter Height=0.35mm to Part R118
+Added Parameter Height=0.35mm to Part R119
+Added Parameter Height=0.35mm to Part R120
+Added Parameter Height=0.35mm to Part R121
+Added Parameter Height=0.35mm to Part R122
+Added Parameter Height=0.35mm to Part R123
+Added Parameter Height=0.35mm to Part R124
+Added Parameter Height=0.35mm to Part R125
+Added Parameter Lead Free=Lead Free to Part R117
+Added Parameter Lead Free=Lead Free to Part R118
+Added Parameter Lead Free=Lead Free to Part R119
+Added Parameter Lead Free=Lead Free to Part R120
+Added Parameter Lead Free=Lead Free to Part R121
+Added Parameter Lead Free=Lead Free to Part R122
+Added Parameter Lead Free=Lead Free to Part R123
+Added Parameter Lead Free=Lead Free to Part R124
+Added Parameter Lead Free=Lead Free to Part R125
+Added Parameter Length=1mm to Part R117
+Added Parameter Length=1mm to Part R118
+Added Parameter Length=1mm to Part R119
+Added Parameter Length=1mm to Part R120
+Added Parameter Length=1mm to Part R121
+Added Parameter Length=1mm to Part R122
+Added Parameter Length=1mm to Part R123
+Added Parameter Length=1mm to Part R124
+Added Parameter Length=1mm to Part R125
+Added Parameter Max Operating Temperature=155°C to Part R117
+Added Parameter Max Operating Temperature=155°C to Part R118
+Added Parameter Max Operating Temperature=155°C to Part R119
+Added Parameter Max Operating Temperature=155°C to Part R120
+Added Parameter Max Operating Temperature=155°C to Part R121
+Added Parameter Max Operating Temperature=155°C to Part R122
+Added Parameter Max Operating Temperature=155°C to Part R123
+Added Parameter Max Operating Temperature=155°C to Part R124
+Added Parameter Max Operating Temperature=155°C to Part R125
+Added Parameter Max Power Dissipation=63mW to Part R117
+Added Parameter Max Power Dissipation=63mW to Part R118
+Added Parameter Max Power Dissipation=63mW to Part R119
+Added Parameter Max Power Dissipation=63mW to Part R120
+Added Parameter Max Power Dissipation=63mW to Part R121
+Added Parameter Max Power Dissipation=63mW to Part R122
+Added Parameter Max Power Dissipation=63mW to Part R123
+Added Parameter Max Power Dissipation=63mW to Part R124
+Added Parameter Max Power Dissipation=63mW to Part R125
+Added Parameter Military Standard=Not to Part R117
+Added Parameter Military Standard=Not to Part R118
+Added Parameter Military Standard=Not to Part R119
+Added Parameter Military Standard=Not to Part R120
+Added Parameter Military Standard=Not to Part R121
+Added Parameter Military Standard=Not to Part R122
+Added Parameter Military Standard=Not to Part R123
+Added Parameter Military Standard=Not to Part R124
+Added Parameter Military Standard=Not to Part R125
+Added Parameter Min Operating Temperature=-55°C to Part R117
+Added Parameter Min Operating Temperature=-55°C to Part R118
+Added Parameter Min Operating Temperature=-55°C to Part R119
+Added Parameter Min Operating Temperature=-55°C to Part R120
+Added Parameter Min Operating Temperature=-55°C to Part R121
+Added Parameter Min Operating Temperature=-55°C to Part R122
+Added Parameter Min Operating Temperature=-55°C to Part R123
+Added Parameter Min Operating Temperature=-55°C to Part R124
+Added Parameter Min Operating Temperature=-55°C to Part R125
+Added Parameter Mount=Surface Mount to Part R117
+Added Parameter Mount=Surface Mount to Part R118
+Added Parameter Mount=Surface Mount to Part R119
+Added Parameter Mount=Surface Mount to Part R120
+Added Parameter Mount=Surface Mount to Part R121
+Added Parameter Mount=Surface Mount to Part R122
+Added Parameter Mount=Surface Mount to Part R123
+Added Parameter Mount=Surface Mount to Part R124
+Added Parameter Mount=Surface Mount to Part R125
+Added Parameter Number of Pins=2 to Part R117
+Added Parameter Number of Pins=2 to Part R118
+Added Parameter Number of Pins=2 to Part R119
+Added Parameter Number of Pins=2 to Part R120
+Added Parameter Number of Pins=2 to Part R121
+Added Parameter Number of Pins=2 to Part R122
+Added Parameter Number of Pins=2 to Part R123
+Added Parameter Number of Pins=2 to Part R124
+Added Parameter Number of Pins=2 to Part R125
+Added Parameter Number of Terminations=2 to Part R117
+Added Parameter Number of Terminations=2 to Part R118
+Added Parameter Number of Terminations=2 to Part R119
+Added Parameter Number of Terminations=2 to Part R120
+Added Parameter Number of Terminations=2 to Part R121
+Added Parameter Number of Terminations=2 to Part R122
+Added Parameter Number of Terminations=2 to Part R123
+Added Parameter Number of Terminations=2 to Part R124
+Added Parameter Number of Terminations=2 to Part R125
+Added Parameter Package Quantity=10 to Part R117
+Added Parameter Package Quantity=10 to Part R118
+Added Parameter Package Quantity=10 to Part R119
+Added Parameter Package Quantity=10 to Part R120
+Added Parameter Package Quantity=10 to Part R121
+Added Parameter Package Quantity=10 to Part R122
+Added Parameter Package Quantity=10 to Part R123
+Added Parameter Package Quantity=10 to Part R124
+Added Parameter Package Quantity=10 to Part R125
+Added Parameter Packaging=Tape and Reel to Part R117
+Added Parameter Packaging=Tape and Reel to Part R118
+Added Parameter Packaging=Tape and Reel to Part R119
+Added Parameter Packaging=Tape and Reel to Part R120
+Added Parameter Packaging=Tape and Reel to Part R121
+Added Parameter Packaging=Tape and Reel to Part R122
+Added Parameter Packaging=Tape and Reel to Part R123
+Added Parameter Packaging=Tape and Reel to Part R124
+Added Parameter Packaging=Tape and Reel to Part R125
+Added Parameter Power Rating=63mW to Part R117
+Added Parameter Power Rating=63mW to Part R118
+Added Parameter Power Rating=63mW to Part R119
+Added Parameter Power Rating=63mW to Part R120
+Added Parameter Power Rating=63mW to Part R121
+Added Parameter Power Rating=63mW to Part R122
+Added Parameter Power Rating=63mW to Part R123
+Added Parameter Power Rating=63mW to Part R124
+Added Parameter Power Rating=63mW to Part R125
+Added Parameter Radiation Hardening=No to Part R117
+Added Parameter Radiation Hardening=No to Part R118
+Added Parameter Radiation Hardening=No to Part R119
+Added Parameter Radiation Hardening=No to Part R120
+Added Parameter Radiation Hardening=No to Part R121
+Added Parameter Radiation Hardening=No to Part R122
+Added Parameter Radiation Hardening=No to Part R123
+Added Parameter Radiation Hardening=No to Part R124
+Added Parameter Radiation Hardening=No to Part R125
+Added Parameter Temperature Coefficient=100ppm/°C to Part R117
+Added Parameter Temperature Coefficient=100ppm/°C to Part R118
+Added Parameter Temperature Coefficient=100ppm/°C to Part R119
+Added Parameter Temperature Coefficient=100ppm/°C to Part R120
+Added Parameter Temperature Coefficient=100ppm/°C to Part R121
+Added Parameter Temperature Coefficient=100ppm/°C to Part R122
+Added Parameter Temperature Coefficient=100ppm/°C to Part R123
+Added Parameter Temperature Coefficient=100ppm/°C to Part R124
+Added Parameter Temperature Coefficient=100ppm/°C to Part R125
+Added Parameter Termination=SMD/SMT to Part R117
+Added Parameter Termination=SMD/SMT to Part R118
+Added Parameter Termination=SMD/SMT to Part R119
+Added Parameter Termination=SMD/SMT to Part R120
+Added Parameter Termination=SMD/SMT to Part R121
+Added Parameter Termination=SMD/SMT to Part R122
+Added Parameter Termination=SMD/SMT to Part R123
+Added Parameter Termination=SMD/SMT to Part R124
+Added Parameter Termination=SMD/SMT to Part R125
+Added Parameter Tolerance=1% to Part R117
+Added Parameter Tolerance=1% to Part R118
+Added Parameter Tolerance=1% to Part R119
+Added Parameter Tolerance=1% to Part R120
+Added Parameter Tolerance=1% to Part R121
+Added Parameter Tolerance=1% to Part R122
+Added Parameter Tolerance=1% to Part R123
+Added Parameter Tolerance=1% to Part R124
+Added Parameter Tolerance=1% to Part R125
+Added Parameter Voltage Rating (DC)=50V to Part R117
+Added Parameter Voltage Rating (DC)=50V to Part R118
+Added Parameter Voltage Rating (DC)=50V to Part R119
+Added Parameter Voltage Rating (DC)=50V to Part R120
+Added Parameter Voltage Rating (DC)=50V to Part R121
+Added Parameter Voltage Rating (DC)=50V to Part R122
+Added Parameter Voltage Rating (DC)=50V to Part R123
+Added Parameter Voltage Rating (DC)=50V to Part R124
+Added Parameter Voltage Rating (DC)=50V to Part R125
+Added Parameter Voltage Rating=50V to Part R117
+Added Parameter Voltage Rating=50V to Part R118
+Added Parameter Voltage Rating=50V to Part R119
+Added Parameter Voltage Rating=50V to Part R120
+Added Parameter Voltage Rating=50V to Part R121
+Added Parameter Voltage Rating=50V to Part R122
+Added Parameter Voltage Rating=50V to Part R123
+Added Parameter Voltage Rating=50V to Part R124
+Added Parameter Voltage Rating=50V to Part R125
+Added Parameter Weight=2.3E-05oz to Part R117
+Added Parameter Weight=2.3E-05oz to Part R118
+Added Parameter Weight=2.3E-05oz to Part R119
+Added Parameter Weight=2.3E-05oz to Part R120
+Added Parameter Weight=2.3E-05oz to Part R121
+Added Parameter Weight=2.3E-05oz to Part R122
+Added Parameter Weight=2.3E-05oz to Part R123
+Added Parameter Weight=2.3E-05oz to Part R124
+Added Parameter Weight=2.3E-05oz to Part R125
+Added Parameter Width=0.5mm to Part R117
+Added Parameter Width=0.5mm to Part R118
+Added Parameter Width=0.5mm to Part R119
+Added Parameter Width=0.5mm to Part R120
+Added Parameter Width=0.5mm to Part R121
+Added Parameter Width=0.5mm to Part R122
+Added Parameter Width=0.5mm to Part R123
+Added Parameter Width=0.5mm to Part R124
+Added Parameter Width=0.5mm to Part R125
+Added Parameter Working Voltage=50V to Part R117
+Added Parameter Working Voltage=50V to Part R118
+Added Parameter Working Voltage=50V to Part R119
+Added Parameter Working Voltage=50V to Part R120
+Added Parameter Working Voltage=50V to Part R121
+Added Parameter Working Voltage=50V to Part R122
+Added Parameter Working Voltage=50V to Part R123
+Added Parameter Working Voltage=50V to Part R124
+Added Parameter Working Voltage=50V to Part R125
+Update Managed Component R117 From CMP-2002-08356-2[220 O] To CMP-2002-08356-2[CRCW040220K0FKED] in Magnetometers.SchDoc
+Update Managed Component R118 From CMP-2002-08356-2[220 O] To CMP-2002-08356-2[CRCW040220K0FKED] in Magnetometers.SchDoc
+Update Managed Component R119 From CMP-2002-08356-2[220 O] To CMP-2002-08356-2[CRCW040220K0FKED] in Magnetometers.SchDoc
+Update Managed Component R120 From CMP-2002-08356-2[220 O] To CMP-2002-08356-2[CRCW040220K0FKED] in Magnetometers.SchDoc
+Update Managed Component R121 From CMP-2002-08356-2[220 O] To CMP-2002-08356-2[CRCW040220K0FKED] in Magnetometers.SchDoc
+Update Managed Component R122 From CMP-2002-08356-2[220 O] To CMP-2002-08356-2[CRCW040220K0FKED] in Magnetometers.SchDoc
+Update Managed Component R123 From CMP-2002-08356-2[220 O] To CMP-2002-08356-2[CRCW040220K0FKED] in Magnetometers.SchDoc
+Update Managed Component R124 From CMP-2002-08356-2[220 O] To CMP-2002-08356-2[CRCW040220K0FKED] in Magnetometers.SchDoc
+Update Managed Component R125 From CMP-2002-08356-2[220 O] To CMP-2002-08356-2[CRCW040220K0FKED] in Magnetometers.SchDoc

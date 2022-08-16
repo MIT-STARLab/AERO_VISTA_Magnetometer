@@ -1,0 +1,162 @@
+Removed Member From Class: ClassName=U_Ethernet Member=C22
+Removed Member From Class: ClassName=U_Clock Member=C37
+Removed Member From Class: ClassName=U_CAN_Bus Member=C56
+Removed Member From Class: ClassName=U_Magnetometers Member=C56
+Removed Member From Class: ClassName=U_Magnetometers Member=C77
+Removed Member From Class: ClassName=U_Magnetometers Member=C79
+Removed Member From Class: ClassName=U_Magnetometers Member=C80
+Removed Member From Class: ClassName=LCF Member=C84
+Removed Member From Class: ClassName=LCF Member=C91
+Removed Member From Class: ClassName=U_Ethernet Member=C91
+Removed Member From Class: ClassName=LCF Member=C93
+Removed Member From Class: ClassName=U_Ethernet Member=C93
+Removed Member From Class: ClassName=U_CAN_Bus Member=FB6
+Removed Member From Class: ClassName=U_Ethernet Member=R46
+Removed Member From Class: ClassName=U_CAN_Bus Member=R109
+Removed Member From Class: ClassName=U_CAN_Bus Member=R111
+Removed Member From Class: ClassName=U_Magnetometers Member=R114
+Removed Member From Class: ClassName=U_Magnetometers Member=R116
+Removed Member From Class: ClassName=LCF Member=R127
+Removed Member From Class: ClassName=U_Clock Member=R127
+Added Member To Class: ClassName=U_Power_HK Member=Component C4 0.1 uF
+Added Member To Class: ClassName=U_Power_HK Member=Component C6 0.1 uF
+Added Member To Class: ClassName=U_Power_HK Member=Component C8 1 uF
+Added Member To Class: ClassName=U_Power_HK Member=Component C10 0.1 uF
+Added Member To Class: ClassName=U_Power_HK Member=Component C19 10 nF
+Added Member To Class: ClassName=U_Power_HK Member=Component C21 CGA6P1X7S1A476M250AC
+Added Member To Class: ClassName=U_Power_HK Member=Component C29 0.1 uF
+Added Member To Class: ClassName=U_Power_HK Member=Component C30 10 nF
+Added Member To Class: ClassName=U_Power_HK Member=Component C31 0.1 uF
+Added Member To Class: ClassName=U_Power_HK Member=Component C33 10 nF
+Added Member To Class: ClassName=U_Power_HK Member=Component C36 15 nF
+Added Member To Class: ClassName=U_Power_HK Member=Component C37 CGA6P1X7S1A476M250AC
+Added Member To Class: ClassName=MC1 Member=Component C41A (C41) 22uF
+Added Member To Class: ClassName=MC2 Member=Component C43B (C43) 0.1 uF
+Added Member To Class: ClassName=MC1 Member=Component C44A (C44) 1 uF
+Added Member To Class: ClassName=MC2 Member=Component C44B (C44) 1 uF
+Added Member To Class: ClassName=MC1 Member=Component C45A (C45) 4.7uF
+Added Member To Class: ClassName=MC2 Member=Component C45B (C45) 4.7uF
+Added Member To Class: ClassName=MC1 Member=Component C46A (C46) 1 uF
+Added Member To Class: ClassName=MC2 Member=Component C46B (C46) 1 uF
+Added Member To Class: ClassName=MC1 Member=Component C47A (C47) 0.1 uF
+Added Member To Class: ClassName=MC2 Member=Component C47B (C47) 0.1 uF
+Added Member To Class: ClassName=MC1 Member=Component C48A (C48) 470 pF
+Added Member To Class: ClassName=MC2 Member=Component C48B (C48) 470 pF
+Added Member To Class: ClassName=MC1 Member=Component C49A (C49) 470 pF
+Added Member To Class: ClassName=MC2 Member=Component C49B (C49) 470 pF
+Added Member To Class: ClassName=MC1 Member=Component C50A (C50) 470 pF
+Added Member To Class: ClassName=MC2 Member=Component C50B (C50) 470 pF
+Added Member To Class: ClassName=MC1 Member=Component C51A (C51) 0.1 uF
+Added Member To Class: ClassName=MC2 Member=Component C51B (C51) 0.1 uF
+Added Member To Class: ClassName=U_Clock Member=Component C58 CGA6P1X7S1A476M250AC
+Added Member To Class: ClassName=U_Clock Member=Component C59 10 uF
+Added Member To Class: ClassName=U_Clock Member=Component C60 0.1 uF
+Added Member To Class: ClassName=U_Ethernet Member=Component C63 0.1 uF
+Added Member To Class: ClassName=U_Ethernet Member=Component C65 0.1 uF
+Added Member To Class: ClassName=U_Ethernet Member=Component C67 0.1 uF
+Added Member To Class: ClassName=U_Ethernet Member=Component C69 0.1 uF
+Added Member To Class: ClassName=U_Ethernet Member=Component C71 CGA6P1X7S1A476M250AC
+Added Member To Class: ClassName=U_Ethernet Member=Component C73 0.1 uF
+Added Member To Class: ClassName=U_CAN_Bus Member=Component C78 10 uF
+Added Member To Class: ClassName=U_Magnetometers Member=Component C88 CGA6P1X7S1A476M250AC
+Added Member To Class: ClassName=U_Magnetometers Member=Component C90 0.1 uF
+Added Member To Class: ClassName=U_Magnetometers Member=Component C92 1 uF
+Added Member To Class: ClassName=U_Magnetometers Member=Component C94 0.1 uF
+Added Member To Class: ClassName=U_Magnetometers Member=Component C96 CGA6P1X7S1A476M250AC
+Added Member To Class: ClassName=U_Magnetometers Member=Component C97 10 uF
+Added Member To Class: ClassName=U_Magnetometers Member=Component C98 0.1 uF
+Added Member To Class: ClassName=LCF Member=Component C102 0.1 uF
+Added Member To Class: ClassName=LCF Member=Component C103 10 uF
+Added Member To Class: ClassName=LCF Member=Component C104 10 uF
+Added Member To Class: ClassName=U_Power_HK Member=Component FB3 BLM18PG121SH1D
+Added Member To Class: ClassName=U_Ethernet Member=Component FB5 BLM18PG121SH1D
+Added Member To Class: ClassName=U_CAN_Bus Member=Component FB7 BLM18PG121SH1D
+Added Member To Class: ClassName=U_Power_HK Member=Component R48 10k
+Added Member To Class: ClassName=U_Power_HK Member=Component R50 10k
+Added Member To Class: ClassName=U_Power_HK Member=Component R52 10k
+Added Member To Class: ClassName=U_Power_HK Member=Component R54 10k
+Added Member To Class: ClassName=U_Power_HK Member=Component R56 4.99K
+Added Member To Class: ClassName=U_Power_HK Member=Component R58 AC0603JR-070RL
+Added Member To Class: ClassName=U_Power_HK Member=Component R59 100
+Added Member To Class: ClassName=U_Power_HK Member=Component R60 100
+Added Member To Class: ClassName=U_Power_HK Member=Component R61 100K
+Added Member To Class: ClassName=U_Power_HK Member=Component R62 20m
+Added Member To Class: ClassName=U_Power_HK Member=Component R63 22k
+Added Member To Class: ClassName=U_Power_HK Member=Component R64 0.5
+Added Member To Class: ClassName=U_Power_HK Member=Component R66 4.99K
+Added Member To Class: ClassName=U_Power_HK Member=Component R67 4.99K
+Added Member To Class: ClassName=U_Power_HK Member=Component R68 2 kO 0.1%
+Added Member To Class: ClassName=U_Power_HK Member=Component R69 220 O
+Added Member To Class: ClassName=U_Power_HK Member=Component R70 1.74 kO
+Added Member To Class: ClassName=U_Power_HK Member=Component R71 10k
+Added Member To Class: ClassName=U_Power_HK Member=Component R72 1 KOhm
+Added Member To Class: ClassName=U_Power_HK Member=Component R73 100
+Added Member To Class: ClassName=U_Power_HK Member=Component R74 100
+Added Member To Class: ClassName=U_Power_HK Member=Component R75 100K
+Added Member To Class: ClassName=U_Power_HK Member=Component R76 20m
+Added Member To Class: ClassName=U_Power_HK Member=Component R77 2 kO 0.1%
+Added Member To Class: ClassName=U_Power_HK Member=Component R78 2 kO 0.1%
+Added Member To Class: ClassName=U_Power_HK Member=Component R79 47 kO
+Added Member To Class: ClassName=MC1 Member=Component R82A (R82) 120
+Added Member To Class: ClassName=MC2 Member=Component R82B (R82) 120
+Added Member To Class: ClassName=MC1 Member=Component R83A (R83) 2 kO 0.1%
+Added Member To Class: ClassName=MC2 Member=Component R83B (R83) 2 kO 0.1%
+Added Member To Class: ClassName=MC1 Member=Component R84A (R84) 0
+Added Member To Class: ClassName=MC2 Member=Component R84B (R84) 0
+Added Member To Class: ClassName=MC1 Member=Component R85A (R85) 0
+Added Member To Class: ClassName=MC2 Member=Component R85B (R85) 0
+Added Member To Class: ClassName=MC1 Member=Component R86A (R86) 249KO
+Added Member To Class: ClassName=MC2 Member=Component R86B (R86) 249KO
+Added Member To Class: ClassName=MC1 Member=Component R87A (R87) 249KO
+Added Member To Class: ClassName=MC2 Member=Component R87B (R87) 249KO
+Added Member To Class: ClassName=MC1 Member=Component R88A (R88) 249KO
+Added Member To Class: ClassName=MC2 Member=Component R88B (R88) 249KO
+Added Member To Class: ClassName=MC1 Member=Component R89A (R89) 10 KO 0.1%
+Added Member To Class: ClassName=MC2 Member=Component R89B (R89) 10 KO 0.1%
+Added Member To Class: ClassName=MC1 Member=Component R90A (R90) 4.99KO
+Added Member To Class: ClassName=MC2 Member=Component R90B (R90) 4.99KO
+Added Member To Class: ClassName=MC1 Member=Component R91A (R91) 4.99KO
+Added Member To Class: ClassName=MC2 Member=Component R91B (R91) 4.99KO
+Added Member To Class: ClassName=MC1 Member=Component R92A (R92) 4.99KO
+Added Member To Class: ClassName=MC2 Member=Component R92B (R92) 4.99KO
+Added Member To Class: ClassName=MC1 Member=Component R93A (R93) 4.99KO
+Added Member To Class: ClassName=MC2 Member=Component R93B (R93) 4.99KO
+Added Member To Class: ClassName=MC1 Member=Component R94A (R94) 4.99KO
+Added Member To Class: ClassName=MC2 Member=Component R94B (R94) 4.99KO
+Added Member To Class: ClassName=MC1 Member=Component R95A (R95) 4.99KO
+Added Member To Class: ClassName=MC2 Member=Component R95B (R95) 4.99KO
+Added Member To Class: ClassName=MC1 Member=Component R96A (R96) 10 KO 0.1%
+Added Member To Class: ClassName=MC2 Member=Component R96B (R96) 10 KO 0.1%
+Added Member To Class: ClassName=MC1 Member=Component R97A (R97) 249KO
+Added Member To Class: ClassName=MC2 Member=Component R97B (R97) 249KO
+Added Member To Class: ClassName=MC1 Member=Component R98A (R98) 249KO
+Added Member To Class: ClassName=MC2 Member=Component R98B (R98) 249KO
+Added Member To Class: ClassName=U_Clock Member=Component R100 100 Ohm
+Added Member To Class: ClassName=U_Clock Member=Component R102 5.1 kO
+Added Member To Class: ClassName=U_Ethernet Member=Component R104 50 O
+Added Member To Class: ClassName=U_Ethernet Member=Component R106 50 O
+Added Member To Class: ClassName=U_Ethernet Member=Component R108 1 kO
+Added Member To Class: ClassName=U_CAN_Bus Member=Component R113 220 O
+Added Member To Class: ClassName=U_CAN_Bus Member=Component R115 1 kO
+Added Member To Class: ClassName=U_Magnetometers Member=Component R117 220 O
+Added Member To Class: ClassName=U_Magnetometers Member=Component R119 220 O
+Added Member To Class: ClassName=U_Magnetometers Member=Component R126 100K
+Added Member To Class: ClassName=U_Magnetometers Member=Component R128 274k
+Added Member To Class: ClassName=LCF Member=Component R131 0.22 O
+Added Member To Class: ClassName=U_Power_HK Member=Component U7 TPS79133DBVR
+Added Member To Class: ClassName=U_Power_HK Member=Component U8 AD590J
+Added Member To Class: ClassName=MC1 Member=Component U10A (U10) REF3040AIDBZT
+Added Member To Class: ClassName=MC2 Member=Component U10B (U10) REF3040AIDBZT
+Added Member To Class: ClassName=MC1 Member=Component U11A (U11) HMC1053
+Added Member To Class: ClassName=MC2 Member=Component U11B (U11) HMC1053
+Added Member To Class: ClassName=MC1 Member=Component U12A (U12) AD590L/M
+Added Member To Class: ClassName=MC2 Member=Component U12B (U12) AD590L/M
+Added Member To Class: ClassName=MC1 Member=Component U13A (U13A) SN74AHC1G04DBVR
+Added Member To Class: ClassName=MC2 Member=Component U13B (U13A) SN74AHC1G04DBVR
+Added Member To Class: ClassName=MC1 Member=Component U14A (U14A) LMP2022MM/NOPB
+Added Member To Class: ClassName=MC2 Member=Component U14B (U14A) LMP2022MM/NOPB
+Added Member To Class: ClassName=U_Clock Member=Component U16 DS90LV012ATMF/NOPB
+Added Member To Class: ClassName=U_Clock Member=Component U18 DS90LV012ATMF/NOPB
+Added Member To Class: ClassName=U_Ethernet Member=Component U22 CM1224-04SO
+Added Member To Class: ClassName=U_CAN_Bus Member=Component U24 SN65HVD230DR
+Added Member To Class: ClassName=U_Magnetometers Member=Component U26 FPF2701MPX

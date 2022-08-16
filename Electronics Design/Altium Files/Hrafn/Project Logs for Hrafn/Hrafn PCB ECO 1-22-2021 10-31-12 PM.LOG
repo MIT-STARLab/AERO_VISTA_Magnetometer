@@ -1,0 +1,218 @@
+Change Component Designator: OldDesignator=C38_U_Magnetometer_Channel1 NewDesignator=C38_2
+Change Component Designator: OldDesignator=C38_U_Magnetometer_Channel2 NewDesignator=C38_1
+Change Component Designator: OldDesignator=C39_U_Magnetometer_Channel1 NewDesignator=C39_2
+Change Component Designator: OldDesignator=C39_U_Magnetometer_Channel2 NewDesignator=C39_1
+Change Component Designator: OldDesignator=C41_U_Magnetometer_Channel1 NewDesignator=C41_2
+Change Component Designator: OldDesignator=C41_U_Magnetometer_Channel2 NewDesignator=C41_1
+Change Component Designator: OldDesignator=C43_U_Magnetometer_Channel1 NewDesignator=C43_2
+Change Component Designator: OldDesignator=C43_U_Magnetometer_Channel2 NewDesignator=C43_1
+Change Component Designator: OldDesignator=C44_U_Magnetometer_Channel1 NewDesignator=C44_2
+Change Component Designator: OldDesignator=C44_U_Magnetometer_Channel2 NewDesignator=C44_1
+Change Component Designator: OldDesignator=C45_U_Magnetometer_Channel1 NewDesignator=C45_2
+Change Component Designator: OldDesignator=C45_U_Magnetometer_Channel2 NewDesignator=C45_1
+Change Component Designator: OldDesignator=C46_U_Magnetometer_Channel1 NewDesignator=C46_2
+Change Component Designator: OldDesignator=C46_U_Magnetometer_Channel2 NewDesignator=C46_1
+Change Component Designator: OldDesignator=C47_U_Magnetometer_Channel1 NewDesignator=C47_2
+Change Component Designator: OldDesignator=C47_U_Magnetometer_Channel2 NewDesignator=C47_1
+Change Component Designator: OldDesignator=C48_U_Magnetometer_Channel1 NewDesignator=C48_2
+Change Component Designator: OldDesignator=C48_U_Magnetometer_Channel2 NewDesignator=C48_1
+Change Component Designator: OldDesignator=C49_U_Magnetometer_Channel1 NewDesignator=C49_2
+Change Component Designator: OldDesignator=C49_U_Magnetometer_Channel2 NewDesignator=C49_1
+Change Component Designator: OldDesignator=C50_U_Magnetometer_Channel1 NewDesignator=C50_2
+Change Component Designator: OldDesignator=C50_U_Magnetometer_Channel2 NewDesignator=C50_1
+Change Component Designator: OldDesignator=C51_U_Magnetometer_Channel1 NewDesignator=C51_2
+Change Component Designator: OldDesignator=C51_U_Magnetometer_Channel2 NewDesignator=C51_1
+Change Component Designator: OldDesignator=C52_U_Magnetometer_Channel1 NewDesignator=C52_2
+Change Component Designator: OldDesignator=C52_U_Magnetometer_Channel2 NewDesignator=C52_1
+Change Component Designator: OldDesignator=C53_U_Magnetometer_Channel1 NewDesignator=C53_2
+Change Component Designator: OldDesignator=C53_U_Magnetometer_Channel2 NewDesignator=C53_1
+Change Component Designator: OldDesignator=C54_U_Magnetometer_Channel1 NewDesignator=C54_2
+Change Component Designator: OldDesignator=C54_U_Magnetometer_Channel2 NewDesignator=C54_1
+Change Component Designator: OldDesignator=C55_U_Magnetometer_Channel1 NewDesignator=C55_2
+Change Component Designator: OldDesignator=C55_U_Magnetometer_Channel2 NewDesignator=C55_1
+Change Component Designator: OldDesignator=C61_U_Magnetometer_Channel1 NewDesignator=C61_2
+Change Component Designator: OldDesignator=C61_U_Magnetometer_Channel2 NewDesignator=C61_1
+Change Component Designator: OldDesignator=C62_U_Magnetometer_Channel1 NewDesignator=C62_2
+Change Component Designator: OldDesignator=C62_U_Magnetometer_Channel2 NewDesignator=C62_1
+Change Component Designator: OldDesignator=C110_U_Magnetometer_Filter1 NewDesignator=C110_1
+Change Component Designator: OldDesignator=C110_U_Magnetometer_Filter2 NewDesignator=C110_2
+Change Component Designator: OldDesignator=C110_U_Magnetometer_Filter3 NewDesignator=C110_3
+Change Component Designator: OldDesignator=C110_U_Magnetometer_Filter4 NewDesignator=C110_4
+Change Component Designator: OldDesignator=C110_U_Magnetometer_Filter5 NewDesignator=C110_5
+Change Component Designator: OldDesignator=C110_U_Magnetometer_Filter6 NewDesignator=C110_6
+Change Component Designator: OldDesignator=C110_U_Magnetometer_Filter7 NewDesignator=C110_7
+Change Component Designator: OldDesignator=C110_U_Magnetometer_Filter8 NewDesignator=C110_8
+Change Component Designator: OldDesignator=C111_U_Magnetometer_Filter1 NewDesignator=C111_1
+Change Component Designator: OldDesignator=C111_U_Magnetometer_Filter2 NewDesignator=C111_2
+Change Component Designator: OldDesignator=C111_U_Magnetometer_Filter3 NewDesignator=C111_3
+Change Component Designator: OldDesignator=C111_U_Magnetometer_Filter4 NewDesignator=C111_4
+Change Component Designator: OldDesignator=C111_U_Magnetometer_Filter5 NewDesignator=C111_5
+Change Component Designator: OldDesignator=C111_U_Magnetometer_Filter6 NewDesignator=C111_6
+Change Component Designator: OldDesignator=C111_U_Magnetometer_Filter7 NewDesignator=C111_7
+Change Component Designator: OldDesignator=C111_U_Magnetometer_Filter8 NewDesignator=C111_8
+Change Component Designator: OldDesignator=C112_U_Magnetometer_Filter1 NewDesignator=C112_1
+Change Component Designator: OldDesignator=C112_U_Magnetometer_Filter2 NewDesignator=C112_2
+Change Component Designator: OldDesignator=C112_U_Magnetometer_Filter3 NewDesignator=C112_3
+Change Component Designator: OldDesignator=C112_U_Magnetometer_Filter4 NewDesignator=C112_4
+Change Component Designator: OldDesignator=C112_U_Magnetometer_Filter5 NewDesignator=C112_5
+Change Component Designator: OldDesignator=C112_U_Magnetometer_Filter6 NewDesignator=C112_6
+Change Component Designator: OldDesignator=C112_U_Magnetometer_Filter7 NewDesignator=C112_7
+Change Component Designator: OldDesignator=C112_U_Magnetometer_Filter8 NewDesignator=C112_8
+Change Component Designator: OldDesignator=C113_U_LC_Filter1 NewDesignator=C113_1
+Change Component Designator: OldDesignator=C113_U_LC_Filter2 NewDesignator=C113_2
+Change Component Designator: OldDesignator=C114_U_LC_Filter1 NewDesignator=C114_1
+Change Component Designator: OldDesignator=C114_U_LC_Filter2 NewDesignator=C114_2
+Change Component Designator: OldDesignator=C115_U_LC_Filter1 NewDesignator=C115_1
+Change Component Designator: OldDesignator=C115_U_LC_Filter2 NewDesignator=C115_2
+Change Component Designator: OldDesignator=L2_U_LC_Filter1 NewDesignator=L2_1
+Change Component Designator: OldDesignator=L2_U_LC_Filter2 NewDesignator=L2_2
+Change Component Designator: OldDesignator=P4_U_Magnetometer_Channel1 NewDesignator=P4_2
+Change Component Designator: OldDesignator=P4_U_Magnetometer_Channel2 NewDesignator=P4_1
+Change Component Designator: OldDesignator=Q2_U_Magnetometer_Channel1 NewDesignator=Q2_2
+Change Component Designator: OldDesignator=Q2_U_Magnetometer_Channel2 NewDesignator=Q2_1
+Change Component Designator: OldDesignator=Q3_U_Magnetometer_Channel1 NewDesignator=Q3_2
+Change Component Designator: OldDesignator=Q3_U_Magnetometer_Channel2 NewDesignator=Q3_1
+Change Component Designator: OldDesignator=R81_U_Magnetometer_Channel1 NewDesignator=R81_2
+Change Component Designator: OldDesignator=R81_U_Magnetometer_Channel2 NewDesignator=R81_1
+Change Component Designator: OldDesignator=R82_U_Magnetometer_Channel1 NewDesignator=R82_2
+Change Component Designator: OldDesignator=R82_U_Magnetometer_Channel2 NewDesignator=R82_1
+Change Component Designator: OldDesignator=R83_U_Magnetometer_Channel1 NewDesignator=R83_2
+Change Component Designator: OldDesignator=R83_U_Magnetometer_Channel2 NewDesignator=R83_1
+Change Component Designator: OldDesignator=R84_U_Magnetometer_Channel1 NewDesignator=R84_2
+Change Component Designator: OldDesignator=R84_U_Magnetometer_Channel2 NewDesignator=R84_1
+Change Component Designator: OldDesignator=R85_U_Magnetometer_Channel1 NewDesignator=R85_2
+Change Component Designator: OldDesignator=R85_U_Magnetometer_Channel2 NewDesignator=R85_1
+Change Component Designator: OldDesignator=R86_U_Magnetometer_Channel1 NewDesignator=R86_2
+Change Component Designator: OldDesignator=R86_U_Magnetometer_Channel2 NewDesignator=R86_1
+Change Component Designator: OldDesignator=R87_U_Magnetometer_Channel1 NewDesignator=R87_2
+Change Component Designator: OldDesignator=R87_U_Magnetometer_Channel2 NewDesignator=R87_1
+Change Component Designator: OldDesignator=R88_U_Magnetometer_Channel1 NewDesignator=R88_2
+Change Component Designator: OldDesignator=R88_U_Magnetometer_Channel2 NewDesignator=R88_1
+Change Component Designator: OldDesignator=R89_U_Magnetometer_Channel1 NewDesignator=R89_2
+Change Component Designator: OldDesignator=R89_U_Magnetometer_Channel2 NewDesignator=R89_1
+Change Component Designator: OldDesignator=R90_U_Magnetometer_Channel1 NewDesignator=R90_2
+Change Component Designator: OldDesignator=R90_U_Magnetometer_Channel2 NewDesignator=R90_1
+Change Component Designator: OldDesignator=R91_U_Magnetometer_Channel1 NewDesignator=R91_2
+Change Component Designator: OldDesignator=R91_U_Magnetometer_Channel2 NewDesignator=R91_1
+Change Component Designator: OldDesignator=R92_U_Magnetometer_Channel1 NewDesignator=R92_2
+Change Component Designator: OldDesignator=R92_U_Magnetometer_Channel2 NewDesignator=R92_1
+Change Component Designator: OldDesignator=R93_U_Magnetometer_Channel1 NewDesignator=R93_2
+Change Component Designator: OldDesignator=R93_U_Magnetometer_Channel2 NewDesignator=R93_1
+Change Component Designator: OldDesignator=R94_U_Magnetometer_Channel1 NewDesignator=R94_2
+Change Component Designator: OldDesignator=R94_U_Magnetometer_Channel2 NewDesignator=R94_1
+Change Component Designator: OldDesignator=R95_U_Magnetometer_Channel1 NewDesignator=R95_2
+Change Component Designator: OldDesignator=R95_U_Magnetometer_Channel2 NewDesignator=R95_1
+Change Component Designator: OldDesignator=R96_U_Magnetometer_Channel1 NewDesignator=R96_2
+Change Component Designator: OldDesignator=R96_U_Magnetometer_Channel2 NewDesignator=R96_1
+Change Component Designator: OldDesignator=R97_U_Magnetometer_Channel1 NewDesignator=R97_2
+Change Component Designator: OldDesignator=R97_U_Magnetometer_Channel2 NewDesignator=R97_1
+Change Component Designator: OldDesignator=R98_U_Magnetometer_Channel1 NewDesignator=R98_2
+Change Component Designator: OldDesignator=R98_U_Magnetometer_Channel2 NewDesignator=R98_1
+Change Component Designator: OldDesignator=R133_U_Magnetometer_Filter1 NewDesignator=R133_1
+Change Component Designator: OldDesignator=R133_U_Magnetometer_Filter2 NewDesignator=R133_2
+Change Component Designator: OldDesignator=R133_U_Magnetometer_Filter3 NewDesignator=R133_3
+Change Component Designator: OldDesignator=R133_U_Magnetometer_Filter4 NewDesignator=R133_4
+Change Component Designator: OldDesignator=R133_U_Magnetometer_Filter5 NewDesignator=R133_5
+Change Component Designator: OldDesignator=R133_U_Magnetometer_Filter6 NewDesignator=R133_6
+Change Component Designator: OldDesignator=R133_U_Magnetometer_Filter7 NewDesignator=R133_7
+Change Component Designator: OldDesignator=R133_U_Magnetometer_Filter8 NewDesignator=R133_8
+Change Component Designator: OldDesignator=R134_U_Magnetometer_Filter1 NewDesignator=R134_1
+Change Component Designator: OldDesignator=R134_U_Magnetometer_Filter2 NewDesignator=R134_2
+Change Component Designator: OldDesignator=R134_U_Magnetometer_Filter3 NewDesignator=R134_3
+Change Component Designator: OldDesignator=R134_U_Magnetometer_Filter4 NewDesignator=R134_4
+Change Component Designator: OldDesignator=R134_U_Magnetometer_Filter5 NewDesignator=R134_5
+Change Component Designator: OldDesignator=R134_U_Magnetometer_Filter6 NewDesignator=R134_6
+Change Component Designator: OldDesignator=R134_U_Magnetometer_Filter7 NewDesignator=R134_7
+Change Component Designator: OldDesignator=R134_U_Magnetometer_Filter8 NewDesignator=R134_8
+Change Component Designator: OldDesignator=R135_U_LC_Filter1 NewDesignator=R135_1
+Change Component Designator: OldDesignator=R135_U_LC_Filter2 NewDesignator=R135_2
+Change Component Designator: OldDesignator=U9_U_Magnetometer_Channel1 NewDesignator=U9_2
+Change Component Designator: OldDesignator=U9_U_Magnetometer_Channel2 NewDesignator=U9_1
+Change Component Designator: OldDesignator=U10_U_Magnetometer_Channel1 NewDesignator=U10_2
+Change Component Designator: OldDesignator=U10_U_Magnetometer_Channel2 NewDesignator=U10_1
+Change Component Designator: OldDesignator=U11_U_Magnetometer_Channel1 NewDesignator=U11_2
+Change Component Designator: OldDesignator=U11_U_Magnetometer_Channel2 NewDesignator=U11_1
+Change Component Designator: OldDesignator=U12_U_Magnetometer_Channel1 NewDesignator=U12_2
+Change Component Designator: OldDesignator=U12_U_Magnetometer_Channel2 NewDesignator=U12_1
+Change Component Designator: OldDesignator=U13_U_Magnetometer_Channel1 NewDesignator=U13_2
+Change Component Designator: OldDesignator=U13_U_Magnetometer_Channel2 NewDesignator=U13_1
+Change Component Designator: OldDesignator=U14_U_Magnetometer_Channel1 NewDesignator=U14_2
+Change Component Designator: OldDesignator=U14_U_Magnetometer_Channel2 NewDesignator=U14_1
+Change Net Name : Old Net Name=NetC44_U_Magnetometer_Channel1_1 New Net Name=NetC44_2_1
+Change Net Name : Old Net Name=NetC44_U_Magnetometer_Channel2_1 New Net Name=NetC44_1_1
+Change Net Name : Old Net Name=NetC47_U_Magnetometer_Channel1_1 New Net Name=NetC47_2_1
+Change Net Name : Old Net Name=NetC47_U_Magnetometer_Channel2_1 New Net Name=NetC47_1_1
+Change Net Name : Old Net Name=NetC48_U_Magnetometer_Channel1_1 New Net Name=NetC48_2_1
+Change Net Name : Old Net Name=NetC48_U_Magnetometer_Channel2_1 New Net Name=NetC48_1_1
+Change Net Name : Old Net Name=NetC49_U_Magnetometer_Channel1_1 New Net Name=NetC49_2_1
+Change Net Name : Old Net Name=NetC49_U_Magnetometer_Channel2_1 New Net Name=NetC49_1_1
+Change Net Name : Old Net Name=NetC52_U_Magnetometer_Channel1_2 New Net Name=NetC52_2_2
+Change Net Name : Old Net Name=NetC52_U_Magnetometer_Channel2_2 New Net Name=NetC52_1_2
+Change Net Name : Old Net Name=NetC53_U_Magnetometer_Channel1_2 New Net Name=NetC53_2_2
+Change Net Name : Old Net Name=NetC53_U_Magnetometer_Channel2_2 New Net Name=NetC53_1_2
+Change Net Name : Old Net Name=NetC54_U_Magnetometer_Channel1_2 New Net Name=NetC54_2_2
+Change Net Name : Old Net Name=NetC54_U_Magnetometer_Channel2_2 New Net Name=NetC54_1_2
+Change Net Name : Old Net Name=NetC55_U_Magnetometer_Channel1_2 New Net Name=NetC55_2_2
+Change Net Name : Old Net Name=NetC55_U_Magnetometer_Channel2_2 New Net Name=NetC55_1_2
+Change Net Name : Old Net Name=NetC110_U_Magnetometer_Filter1_1 New Net Name=NetC110_1_1
+Change Net Name : Old Net Name=NetC110_U_Magnetometer_Filter1_2 New Net Name=NetC110_1_2
+Change Net Name : Old Net Name=NetC110_U_Magnetometer_Filter2_1 New Net Name=NetC110_2_1
+Change Net Name : Old Net Name=NetC110_U_Magnetometer_Filter2_2 New Net Name=NetC110_2_2
+Change Net Name : Old Net Name=NetC110_U_Magnetometer_Filter3_1 New Net Name=NetC110_3_1
+Change Net Name : Old Net Name=NetC110_U_Magnetometer_Filter3_2 New Net Name=NetC110_3_2
+Change Net Name : Old Net Name=NetC110_U_Magnetometer_Filter4_1 New Net Name=NetC110_4_1
+Change Net Name : Old Net Name=NetC110_U_Magnetometer_Filter4_2 New Net Name=NetC110_4_2
+Change Net Name : Old Net Name=NetC110_U_Magnetometer_Filter5_1 New Net Name=NetC110_5_1
+Change Net Name : Old Net Name=NetC110_U_Magnetometer_Filter5_2 New Net Name=NetC110_5_2
+Change Net Name : Old Net Name=NetC110_U_Magnetometer_Filter6_1 New Net Name=NetC110_6_1
+Change Net Name : Old Net Name=NetC110_U_Magnetometer_Filter6_2 New Net Name=NetC110_6_2
+Change Net Name : Old Net Name=NetC110_U_Magnetometer_Filter7_1 New Net Name=NetC110_7_1
+Change Net Name : Old Net Name=NetC110_U_Magnetometer_Filter7_2 New Net Name=NetC110_7_2
+Change Net Name : Old Net Name=NetC110_U_Magnetometer_Filter8_1 New Net Name=NetC110_8_1
+Change Net Name : Old Net Name=NetC110_U_Magnetometer_Filter8_2 New Net Name=NetC110_8_2
+Change Net Name : Old Net Name=NetC113_U_LC_Filter2_1 New Net Name=NetC113_2_1
+Change Net Name : Old Net Name=NetC114_U_LC_Filter1_2 New Net Name=NetC114_1_2
+Change Net Name : Old Net Name=NetC114_U_LC_Filter2_2 New Net Name=NetC114_2_2
+Change Net Name : Old Net Name=NetQ3_U_Magnetometer_Channel1_1 New Net Name=NetQ3_2_1
+Change Net Name : Old Net Name=NetQ3_U_Magnetometer_Channel2_1 New Net Name=NetQ3_1_1
+Change Net Name : Old Net Name=NetR83_U_Magnetometer_Channel1_1 New Net Name=NetR83_2_1
+Change Net Name : Old Net Name=NetR83_U_Magnetometer_Channel2_1 New Net Name=NetR83_1_1
+Change Net Name : Old Net Name=NetR84_U_Magnetometer_Channel1_1 New Net Name=NetR84_2_1
+Change Net Name : Old Net Name=NetR84_U_Magnetometer_Channel2_1 New Net Name=NetR84_1_1
+Change Net Name : Old Net Name=OUTA_U_Magnetometer_Channel1_N New Net Name=OUTA_2_N
+Change Net Name : Old Net Name=OUTA_U_Magnetometer_Channel1_P New Net Name=OUTA_2_P
+Change Net Name : Old Net Name=OUTA_U_Magnetometer_Channel2_N New Net Name=OUTA_1_N
+Change Net Name : Old Net Name=OUTA_U_Magnetometer_Channel2_P New Net Name=OUTA_1_P
+Change Net Name : Old Net Name=OUTB_U_Magnetometer_Channel1_N New Net Name=OUTB_2_N
+Change Net Name : Old Net Name=OUTB_U_Magnetometer_Channel1_P New Net Name=OUTB_2_P
+Change Net Name : Old Net Name=OUTB_U_Magnetometer_Channel2_N New Net Name=OUTB_1_N
+Change Net Name : Old Net Name=OUTB_U_Magnetometer_Channel2_P New Net Name=OUTB_1_P
+Change Net Name : Old Net Name=OUTC_U_Magnetometer_Channel1_N New Net Name=OUTC_2_N
+Change Net Name : Old Net Name=OUTC_U_Magnetometer_Channel1_P New Net Name=OUTC_2_P
+Change Net Name : Old Net Name=OUTC_U_Magnetometer_Channel2_N New Net Name=OUTC_1_N
+Change Net Name : Old Net Name=OUTC_U_Magnetometer_Channel2_P New Net Name=OUTC_1_P
+Change Net Name : Old Net Name=RESET_U_Magnetometer_Channel1 New Net Name=RESET_2
+Change Net Name : Old Net Name=RESET_U_Magnetometer_Channel2 New Net Name=RESET_1
+Change Net Name : Old Net Name=SET_U_Magnetometer_Channel1 New Net Name=SET_2
+Change Net Name : Old Net Name=SET_U_Magnetometer_Channel2 New Net Name=SET_1
+Change Net Name : Old Net Name=VB_U_Magnetometer_Channel1 New Net Name=VB_2
+Change Net Name : Old Net Name=VB_U_Magnetometer_Channel2 New Net Name=VB_1
+Change Class Name : Old Net Name=U_LC_Filter1 New Net Name=1
+Change Class Name : Old Net Name=U_LC_Filter2 New Net Name=2
+Change Class Name : Old Net Name=U_Magnetometer_Channel1 New Net Name=2
+Change Class Name : Old Net Name=U_Magnetometer_Channel2 New Net Name=1
+Change Class Name : Old Net Name=U_Magnetometer_Filter1 New Net Name=1
+Change Class Name : Old Net Name=U_Magnetometer_Filter2 New Net Name=2
+Change Class Name : Old Net Name=U_Magnetometer_Filter3 New Net Name=3
+Change Class Name : Old Net Name=U_Magnetometer_Filter4 New Net Name=4
+Change Class Name : Old Net Name=U_Magnetometer_Filter5 New Net Name=5
+Change Class Name : Old Net Name=U_Magnetometer_Filter6 New Net Name=6
+Change Class Name : Old Net Name=U_Magnetometer_Filter7 New Net Name=7
+Change Class Name : Old Net Name=U_Magnetometer_Filter8 New Net Name=8
+Added Differential Pair: Name=OUTA_1
+Added Differential Pair: Name=OUTA_2
+Added Differential Pair: Name=OUTB_1
+Added Differential Pair: Name=OUTB_2
+Added Differential Pair: Name=OUTC_1
+Added Differential Pair: Name=OUTC_2
+Added Class: Name=ANALOG_DIFF
